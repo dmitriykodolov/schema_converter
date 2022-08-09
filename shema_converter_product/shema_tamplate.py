@@ -2,15 +2,22 @@ import sqlite3
 import json
 
 
-def json_generated(db_name, table_name, column_, name_):
+
+def json_generated(db_name, table_name, column_=None, name_=None):
     connection = sqlite3.connect(db_name)
     cursor = connection.cursor()
-    query = '''
-    SELECT * FROM {table_name} WHERE {column_} LIKE ?
-    '''
-    get = cursor.execute(query.format(table_name=table_name, column_=column_), (name_,))
+    if column_ and name_:
+        query = '''
+        SELECT * FROM {table_name} WHERE {column_} LIKE ?
+        '''
+        get = cursor.execute(query.format(table_name=table_name, column_=column_), (name_,))
+    else:
+        query = '''
+        SELECT * FROM {table_name}
+        '''
+        get = cursor.execute(query.format(table_name=table_name))
     s = get.fetchall()
-
+        
     for row in s:
         with open('schema.json', 'a', newline='\n') as file:
             dict_ = {
@@ -44,6 +51,4 @@ def json_generated(db_name, table_name, column_, name_):
             file.write('\n\n\n\n')
 
 
-json_generated('mydb', 'table2', 'brand', 'Chateau Margaux')
-
-# print(dir(json.dumps))
+json_generated('wtdb', 'winetime', 'brand', 'Chateau Margaux')
