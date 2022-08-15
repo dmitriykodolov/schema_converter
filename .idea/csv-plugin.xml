@@ -10,7 +10,21 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/shema_converter_product/store-1617125-202208081538.csv">
+        <entry key="/shema_converter_product/sfc64-testset-1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/shema_converter_product/store.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/shema_converter_product/store — копия.csv">
           <value>
             <Attribute>
               <option name="separator" value=";" />

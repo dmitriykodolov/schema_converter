@@ -1,5 +1,0 @@
-        query = '''
-            CREATE TABLE {table_name}
-            (id INTEGER PRIMARY KEY AUTOINCREMENT, brand VARCHAR(255), name VARCHAR(255), vintage VARCHAR(255),
-            description TEXT, rate VARCHAR(255), price INT, card_url VARCHAR(255), image_url VARCHAR(255))
-            '''
