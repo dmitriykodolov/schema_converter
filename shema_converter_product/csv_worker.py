@@ -1,52 +1,50 @@
+'''
+СОБИРАЕМ ФУНКЦИОНАЛ РАБОТЫ С ТАБЛИЦАМИ
+TODO: 1) Чтение таблицы (ВОЗМОЖНО ИСПОЛЬЗОВАТЬ ДЕКОРАТОР)
+TODO: 3) Получаем количистевство заголовков таблциы
+TODO: 4) ПОЛУЧАЕМ КОЛИЧСТВО СТРОЧЕК В ТАБЛИЦЕ
+TODO: 5) Получаем все данные
+НЕОБХОДИМЫЕ МОДУЛИ: csv, os, sys
+'''
+
 import os
 import csv
-# from bd_worker import DataShema, Data
 
 
-# class CsvToBd(Data):
-#     def __init__(self, table_path, db_name, table_name):
-#         super().__init__(db_name, table_name)
-#         self.table_path = table_path
-#
-#
-#     def csv_read(self):
-#         d = DataShema(self.db_name, self.table_name)
-#         d.create_db()
-#         d2 = Data(self.db_name, self.table_name)
-#         with open(self.table_path, newline='') as csvfile:
-#             csvreader = csv.DictReader(csvfile, delimiter=';')
-#             for row in csvreader:
-#                 d2.add_data(row['\ufeffbrands'], row['name'], row['vintage'], row['description'], row['RP'],
-#                             row['price'], row['Photo'], row['Url'])
-#         csvfile.close()
+class CsvToBd:
+    def __init__(self, table_path, delimiter):
+        self.table_path = table_path
+        self.delimiter = delimiter
 
+    def get_columns_name(self):
+        with open(self.table_path, newline='', encoding='utf-8-sig') as table:
+            get_col = csv.reader(table, delimiter=self.delimiter)
+            cols_name = next(iter(get_col))
+            cols = []
+            for i in cols_name:
+                i = i.replace(':', '_')
+                i = i.replace(' ', '_')
+                i = i.replace('.', '_')
+                cols.append(i)
+            table.close()
+            return cols
 
-# d = CsvToBd('Margaux2.csv', 'wtdb', 'winetime')
-# d.csv_read()
+    def values_count(self):
+        cols = self.get_columns_name()
+        sum_ = len(cols)
+        return sum_
 
-def get_columns_name(path, delimiter):
-    with open(path, newline='') as table:
-        get_col = csv.reader(table, delimiter=delimiter)
-        cols_name = next(iter(get_col))
-        return cols_name
+    def values_formatter(self):
+        sum_ = self.values_count()
+        str_ = ('?' + ',') * sum_
+        formatting_str = str_.rstrip(str_[-1])
+        return formatting_str
 
-
-# TODO: объединить функции в 1 класс. Сделать этот класс родительским
-
-columns = get_columns_name('store.csv', ';')
-
-
-def change_symbols(columns):
-    for i in columns:
-        i = i.replace(':', '_')
-        i = i.replace(' ', '_')
-        i = i.replace('.', '_')
-
-
-# for i in columns:
-#     i = i.replace(':', '_')
-#     i = i.replace(' ', '_')
-#     i = i.replace('.', '_')
-#     print(i)
-
-
+    def get_columns(self):
+        get_col = []
+        with open(self.table_path, newline='', encoding='utf-8-sig') as table:
+            get = csv.DictReader(table, delimiter=self.delimiter)
+            for i in get:
+                get_col.append(i)
+            table.close()
+        return get_col
