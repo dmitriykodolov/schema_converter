@@ -1,15 +1,13 @@
 import sqlite3
-import json
 
 
 class CardObject:
     def __init__(self, db_name, table_name, group):
-        '''
-
+        """
         :param db_name: name of connection to DataBase
         :param table_name: name of table of DataBase
         :param group: searching by Brand or Product Name
-        '''
+        """
         self.db_name = db_name
         self.table_name = table_name
         self.group = group
@@ -22,7 +20,20 @@ class CardObject:
         self.photo = self.get_row('Photo')
         self.country = self.get_row('Characteristics_Страна')
         self.vintage = self.get_row('Characteristics_Винтаж')
+        self.score_rp = self.get_row('Characteristics_RP')
+        self.url = self.get_row('Url')
+        self.region = self.get_row('Characteristics_Регион')
+        self.sub_region = self.get_row('Characteristics_Субрегион')
+        self.blend = self.get_row('Characteristics_Состав')
+        self.value = self.get_row('Characteristics_Объем')
+        self.vol = self.get_row('Characteristics_Алк_')
 
+    def __dir__(self):
+        """
+        :return: methods and attributes of CardObject class
+        """
+        return ('id', 'brand', 'category', 'title', 'description', 'price', 'photo', 'country','vintge', 'score_rp',
+                'url', 'region', 'blend', 'value', 'vol')
 
     def __repr__(self):
         return f'Object of products by {self.group}'
@@ -72,7 +83,7 @@ class CardObject:
 
 card = CardObject('../winetime', 'db', 'Angelus')
 # print(card.get_db_columns)
-print(card.id, card.price, card.title)
+print(card.id, card.price, card.title, dir(card))
 
 
 
