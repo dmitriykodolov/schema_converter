@@ -1,0 +1,51 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Product",
+    "name": "Chateau Margaux premier grand Cru Classe 2002, 750 ml / 1500ml- 1500ml",
+    "image": "",
+    "description": "",
+    "brand": {
+        "@type": "Brand",
+        "name": ""
+    },
+    "offers": {
+        "@type": "Offer",
+        "priceCurrency": "RUB",
+        "price": "292500.00",
+        "url": "https://winetime.moscow/margaux-2002?editionuid=102866225521",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 90,
+        "ratingCount": "1",
+        "worstRating": "50",
+        "bestRating": "100"
+    }
+}{
+    "@context": "http://schema.org/",
+    "@type": "Product",
+    "name": "Chateau Margaux 2017, 1500ml",
+    "image": "https://static.tildacdn.com/tild6637-3637-4737-a261-373636353338/margaux-2017.jpg",
+    "description": "Бордо",
+    "brand": {
+        "@type": "Brand",
+        "name": "Chateau Margaux"
+    },
+    "offers": {
+        "@type": "Offer",
+        "priceCurrency": "RUB",
+        "price": "292500.00",
+        "url": "https://winetime.moscow/margaux-2017",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 90,
+        "ratingCount": "1",
+        "worstRating": "50",
+        "bestRating": "100"
+    }
+}

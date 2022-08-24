@@ -1,0 +1,26 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Product",
+    "name": "Chateau Margaux 2006, 750ml",
+    "image": "https://static.tildacdn.com/tild3163-3532-4664-b538-333461666566/margaux-2006.jpg",
+    "description": "Бордо",
+    "brand": {
+        "@type": "Brand",
+        "name": "Chateau Margaux"
+    },
+    "offers": {
+        "@type": "Offer",
+        "priceCurrency": "RUB",
+        "price": "137800.00",
+        "url": "https://winetime.moscow/margaux-2006",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 90,
+        "ratingCount": "1",
+        "worstRating": "50",
+        "bestRating": "100"
+    }
+}

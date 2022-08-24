@@ -79,13 +79,5 @@ class CardObject:
             list_.append(row[row_name])
         return list_
 
-
-
-card = CardObject('../winetime', 'db', 'Angelus')
-# print(card.get_db_columns)
-print(card.id, card.price, card.title, dir(card))
-
-
-
-
-
+    def counter(self):
+        return len(self.title)

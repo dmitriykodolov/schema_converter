@@ -1,0 +1,26 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Product",
+    "name": "Chateau Margaux premier grand Cru Classe 2005, 750 ml",
+    "image": "https://static.tildacdn.com/tild3134-6239-4137-b036-663234646462/margaux-2005.jpg",
+    "description": "Бордо, Марго",
+    "brand": {
+        "@type": "Brand",
+        "name": "Chateau Margaux"
+    },
+    "offers": {
+        "@type": "Offer",
+        "priceCurrency": "RUB",
+        "price": "227500.00",
+        "url": "https://winetime.moscow/margaux-2005",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 90,
+        "ratingCount": "1",
+        "worstRating": "50",
+        "bestRating": "100"
+    }
+}

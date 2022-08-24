@@ -1,0 +1,26 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Product",
+    "name": "Chateau Margaux 2016, 3000ml",
+    "image": "https://static.tildacdn.com/tild3835-3364-4235-a533-383961373837/margaux-2016-1.jpg",
+    "description": "Бордо",
+    "brand": {
+        "@type": "Brand",
+        "name": "Chateau Margaux"
+    },
+    "offers": {
+        "@type": "Offer",
+        "priceCurrency": "RUB",
+        "price": "960000.00",
+        "url": "https://winetime.moscow/margaux-2016",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 90,
+        "ratingCount": "1",
+        "worstRating": "50",
+        "bestRating": "100"
+    }
+}
