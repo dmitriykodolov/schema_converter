@@ -1,140 +1,24 @@
 {
     "@context": "http://schema.org/",
     "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 1986, 750 ml",
-    "image": "https://static.tildacdn.com/tild3731-6531-4333-b263-373361383863/Chateau_Margaux_prem.jpg",
-    "description": "«1986 - великолепный образец Шато Марго и один из самых танинных, медленно развивающихся Марго за последние 50 лет. Цвет все еще плотный, рубиново-пурпурный с легким намеком на осветление по краю. После нескольких часов аэрации ароматические вещества поражают нотами дыма, тостов, черносмородинового ликера, минералов и белых цветов. Полнотелое, с высокими, но сладкими танинами, значительной чистотой и очень мужским стилем, это вино, кажется, почти бессмертно, говоря о потенциале выдержки. Оно выходит из детского возраста и близится к подростковому. <a href=\"https://bestofwines.com/wine/france/bordeaux/bordeaux-st-emilion/chateau-angelus/\">Ожидаемая зрелость:</a> 2008-2050 гг.». <br /> <em>Wine advocate, 2003</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 158600,
-        "url": "https://winetime.moscow/chateau-margaux-premier-grand-cru-classe-1986",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "98",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux Premier Grand Cru Classе 2001, 750ml",
-    "image": "https://static.tildacdn.com/tild3736-6436-4334-b866-316638633032/margaux-2001-2.jpg",
-    "description": "Шато Марго 2001 продолжает развиваться в своей впечатляющей манере. Букет ароматов очень чувственный, доминируют ноты красных, а не темных фруктов. Оно обезоруживает своей чистотой и, кажется, демонстрирует даже больше цветочных оттенков, чем его предшественник 1999. Очень устойчивое и четкое, среднетельное с эластичной текстурой и яркой кислотностью - очень свежее и живое.<br /><br />Wine Advocate, 2016<strong><span style=\"font-size: 14px;\" data-redactor-tag=\"span\"><em></em></span></strong><br /><br /><br /><br /><em><a href=\"https://winetime.moscow/wm-chateau-margaux\" data-redactor-tag=\"a\" style=\"background: transparent; border-bottom: 1px solid rgb(0, 68, 194); box-shadow: rgb(0, 68, 194) 0px -1px 0px 0px inset; color: rgb(34, 40, 204) !important;\">Читать</a> о#nbsp;производителе</em>",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 128700,
-        "url": "https://winetime.moscow/margaux-2001",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2002, 750 ml",
-    "image": "https://static.tildacdn.com/tild6630-3961-4432-b864-616361356164/margaux-2002-2.jpg",
-    "description": "Шато Марго 2002 года - это вино глубокого рубиново-фиолетового цвета, по стилю оно напоминает Марго 1988, только более мощное, концентрированное и объемное. У него элегантный аромат темных фруктов с нотами трюфеля, цветов и дуба. Вино ближе к полнотельному, концентрированное, восхитительно устойчивое и свежее, с долгим густым многомерным послевкусием. <br /><br /> <em>Wine Advocate, 2005</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": "",
-        "url": "https://winetime.moscow/margaux-2002",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "93",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2005, 750 ml",
-    "image": "https://static.tildacdn.com/tild3134-6239-4137-b036-663234646462/margaux-2005.jpg",
-    "description": "У Шато Марго 2005 щедрый аромат черной смородины, новой седельной кожи, цветочных лепестков и пряностей. Дубовая нота уже полностью скрылась за яркой фруктовостью этого полнотельного, чистейшего, восхитительного вина! Это концентрированное, насыщенное, но при этом поразительно элегантное, многомерное вино обладает очень долгим послевкусием (более 45 секунд). Его можно пить сейчас, но знайте, что через 5-10 лет оно станет еще лучше, а прожить может еще по крайней мере 25 лет. <br /><br /> <em>Wine Advocate, 2015</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 227500,
-        "url": "https://winetime.moscow/margaux-2005",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "99",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2006, 750ml",
-    "image": "https://static.tildacdn.com/tild3163-3532-4664-b538-333461666566/margaux-2006.jpg",
+    "name": "Chateau Lafite Rothschild",
+    "image": "Бордо, Пойяк",
     "description": "",
     "brand": {
         "@type": "Brand",
-        "name": "Chateau Margaux"
+        "name": "4,23601E+11"
     },
     "offers": {
         "@type": "Offer",
         "priceCurrency": "RUB",
-        "price": 137800,
-        "url": "https://winetime.moscow/margaux-2006",
+        "price": "Chateau Lafite Rothschild 2006, 750 ml",
+        "url": "Шато Лафит Ротшильд 2006 выдает ароматы, впечатляющие фруктовой насыщенностью, хотя они и не такие отчетливые как ароматы Мутона 2006. Красные ягоды смешиваются с розовыми лепестками и ароматом подлеска - типичный букет и тот случай, когда меньше значит лучше. Вино среднетельное с изящными танинами и острой линией кислотности. Оно очень хорошо сбалансировано: черные фрукты с привкусом графита. Пока Мутон распускает павлиний хвост, Лафит сохраняет прямолинейность. Однако и здесь прослеживается известная изощренность - этот Лафит Ротшильд готовит вам несколько сюрпризов. Это одно из тех вин, которые останавливают вас и держат на расстоянии - недооцененная категория. Пейте его с 2018 по 2045. <br /><em>RobertParker.com, May 2016</em> <br /><br /> Ароматы сливы, сладкого табака и ежевики. Вино полнотельное, плотное и мясистое, при этом танины тонкие и изящные. Долгое и ласковое послевкусие. Оно превращается в мужественное, сильное молодое вино, которое с годами становится все лучше и лучше. Пейте его после 2014 года. <br /><em>Wine Spectator</em> <br />",
         "availability": "https://schema.org/InStock",
         "itemCondition": "https://schema.org/NewCondition"
     },
     "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "94",
+        "ratingValue": "France 2;Lafite;Пойяк;Бордо",
         "ratingCount": "1",
         "worstRating": "50",
         "bestRating": "100"
@@ -146,24 +30,24 @@
 {
     "@context": "http://schema.org/",
     "@type": "Product",
-    "name": "Chateau Margaux 2016, 3000ml",
-    "image": "https://static.tildacdn.com/tild3835-3364-4235-a533-383961373837/margaux-2016-1.jpg",
+    "name": "",
+    "image": "",
     "description": "",
     "brand": {
         "@type": "Brand",
-        "name": "Chateau Margaux"
+        "name": "1,13862E+11"
     },
     "offers": {
         "@type": "Offer",
         "priceCurrency": "RUB",
-        "price": 960000,
-        "url": "https://winetime.moscow/margaux-2016",
+        "price": "Chateau Lafite Rothschild 1998 (magnum)",
+        "url": "",
         "availability": "https://schema.org/InStock",
         "itemCondition": "https://schema.org/NewCondition"
     },
     "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "94",
+        "ratingValue": "Выключенные;Бордо",
         "ratingCount": "1",
         "worstRating": "50",
         "bestRating": "100"
@@ -175,24 +59,24 @@
 {
     "@context": "http://schema.org/",
     "@type": "Product",
-    "name": "Chateau Margaux 2017, 1500ml",
-    "image": "https://static.tildacdn.com/tild6637-3637-4737-a261-373636353338/margaux-2017.jpg",
+    "name": "Chateau Lafite Rothschild",
+    "image": "Бордо, Пойяк",
     "description": "",
     "brand": {
         "@type": "Brand",
-        "name": "Chateau Margaux"
+        "name": "7,70767E+11"
     },
     "offers": {
         "@type": "Offer",
         "priceCurrency": "RUB",
-        "price": 292500,
-        "url": "https://winetime.moscow/margaux-2017",
+        "price": "Chateau Lafite Rothschild 2002, 750 ml",
+        "url": "Глубокий фиолетовый цвет. Аромат многослойный, насыщенный: ежевика, грифель, маслины, подлесок и кедр. Классический Пойяк, вино все время развивается в бокале. Очень соблазнительная мягкая, шелковистая текстура, во вкусе - ежевика, лесные ягоды, сладкий инжир. Ближе к финишу это вино становится более танинным и сдержанным, будто говорит: “На сегодня все!” Очень интригующее, изменчивое вино.<br /><em>Wine Advocate, 2009</em>",
         "availability": "https://schema.org/InStock",
         "itemCondition": "https://schema.org/NewCondition"
     },
     "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "94",
+        "ratingValue": "France 2;Lafite;Пойяк;Бордо",
         "ratingCount": "1",
         "worstRating": "50",
         "bestRating": "100"
@@ -204,140 +88,24 @@
 {
     "@context": "http://schema.org/",
     "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 1986, 750 ml",
-    "image": "https://static.tildacdn.com/tild3731-6531-4333-b263-373361383863/Chateau_Margaux_prem.jpg",
-    "description": "«1986 - великолепный образец Шато Марго и один из самых танинных, медленно развивающихся Марго за последние 50 лет. Цвет все еще плотный, рубиново-пурпурный с легким намеком на осветление по краю. После нескольких часов аэрации ароматические вещества поражают нотами дыма, тостов, черносмородинового ликера, минералов и белых цветов. Полнотелое, с высокими, но сладкими танинами, значительной чистотой и очень мужским стилем, это вино, кажется, почти бессмертно, говоря о потенциале выдержки. Оно выходит из детского возраста и близится к подростковому. <a href=\"https://bestofwines.com/wine/france/bordeaux/bordeaux-st-emilion/chateau-angelus/\">Ожидаемая зрелость:</a> 2008-2050 гг.». <br /> <em>Wine advocate, 2003</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 158600,
-        "url": "https://winetime.moscow/chateau-margaux-premier-grand-cru-classe-1986",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "98",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux Premier Grand Cru Classе 2001, 750ml",
-    "image": "https://static.tildacdn.com/tild3736-6436-4334-b866-316638633032/margaux-2001-2.jpg",
-    "description": "Шато Марго 2001 продолжает развиваться в своей впечатляющей манере. Букет ароматов очень чувственный, доминируют ноты красных, а не темных фруктов. Оно обезоруживает своей чистотой и, кажется, демонстрирует даже больше цветочных оттенков, чем его предшественник 1999. Очень устойчивое и четкое, среднетельное с эластичной текстурой и яркой кислотностью - очень свежее и живое.<br /><br />Wine Advocate, 2016<strong><span style=\"font-size: 14px;\" data-redactor-tag=\"span\"><em></em></span></strong><br /><br /><br /><br /><em><a href=\"https://winetime.moscow/wm-chateau-margaux\" data-redactor-tag=\"a\" style=\"background: transparent; border-bottom: 1px solid rgb(0, 68, 194); box-shadow: rgb(0, 68, 194) 0px -1px 0px 0px inset; color: rgb(34, 40, 204) !important;\">Читать</a> о#nbsp;производителе</em>",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 128700,
-        "url": "https://winetime.moscow/margaux-2001",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2002, 750 ml",
-    "image": "https://static.tildacdn.com/tild6630-3961-4432-b864-616361356164/margaux-2002-2.jpg",
-    "description": "Шато Марго 2002 года - это вино глубокого рубиново-фиолетового цвета, по стилю оно напоминает Марго 1988, только более мощное, концентрированное и объемное. У него элегантный аромат темных фруктов с нотами трюфеля, цветов и дуба. Вино ближе к полнотельному, концентрированное, восхитительно устойчивое и свежее, с долгим густым многомерным послевкусием. <br /><br /> <em>Wine Advocate, 2005</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": "",
-        "url": "https://winetime.moscow/margaux-2002",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "93",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2005, 750 ml",
-    "image": "https://static.tildacdn.com/tild3134-6239-4137-b036-663234646462/margaux-2005.jpg",
-    "description": "У Шато Марго 2005 щедрый аромат черной смородины, новой седельной кожи, цветочных лепестков и пряностей. Дубовая нота уже полностью скрылась за яркой фруктовостью этого полнотельного, чистейшего, восхитительного вина! Это концентрированное, насыщенное, но при этом поразительно элегантное, многомерное вино обладает очень долгим послевкусием (более 45 секунд). Его можно пить сейчас, но знайте, что через 5-10 лет оно станет еще лучше, а прожить может еще по крайней мере 25 лет. <br /><br /> <em>Wine Advocate, 2015</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 227500,
-        "url": "https://winetime.moscow/margaux-2005",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "99",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2006, 750ml",
-    "image": "https://static.tildacdn.com/tild3163-3532-4664-b538-333461666566/margaux-2006.jpg",
+    "name": "Chateau Lafite Rothschild",
+    "image": "Бордо, Пойяк",
     "description": "",
     "brand": {
         "@type": "Brand",
-        "name": "Chateau Margaux"
+        "name": "4,85049E+11"
     },
     "offers": {
         "@type": "Offer",
         "priceCurrency": "RUB",
-        "price": 137800,
-        "url": "https://winetime.moscow/margaux-2006",
+        "price": "Chateau Lafite Rothschild 1995, 1500 ml",
+        "url": "Chateau Lafite Rothschild 1995 в объеме 1,5 литра. После четырех крайне неудачных сезонов первой половины 1990-х годов отличный 1995 год стал настоящим глотком свежего воздуха и подарил новую надежду как виноделам, так и любителям вина. Лафит 1995 - эталонное вино знаменитого года. Объем магнум идеален в подарок или в коллекцию. Продается в подарочном ящике.",
         "availability": "https://schema.org/InStock",
         "itemCondition": "https://schema.org/NewCondition"
     },
     "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "94",
+        "ratingValue": "France 2;Lafite;Пойяк;Бордо;Редкие вина",
         "ratingCount": "1",
         "worstRating": "50",
         "bestRating": "100"
@@ -349,24 +117,24 @@
 {
     "@context": "http://schema.org/",
     "@type": "Product",
-    "name": "Chateau Margaux 2016, 3000ml",
-    "image": "https://static.tildacdn.com/tild3835-3364-4235-a533-383961373837/margaux-2016-1.jpg",
+    "name": "Chateau Lafite Rothschild",
+    "image": "Бордо, Пойяк",
     "description": "",
     "brand": {
         "@type": "Brand",
-        "name": "Chateau Margaux"
+        "name": "8,15576E+11"
     },
     "offers": {
         "@type": "Offer",
         "priceCurrency": "RUB",
-        "price": 960000,
-        "url": "https://winetime.moscow/margaux-2016",
+        "price": "Chateau Lafite Rothschild 1998, 1500 ml",
+        "url": "Этот бленд 81% Каберне Совиньон и 19% Мерло представляет лишь 34% полного урожая Лафита. В этом далеком от совершенства винтаже Лафит 1998 произвел значительное впечатление сразу же после рождения. За последний год он набрал вес, и теперь это непрозрачное фиолетовое вино близко к совершенству. Яркие, величественные ароматы графитового карандаша, дыма, минералов и черной смородины доносятся из бокала. Вино элегантно, но при этом крайне богато - оно демонстрирует всю суть лафитовского характера. Танины сладкие, само вино очень многослойное, но совсем не тяжелое. Послевкусие сладкое, очень насыщенное, при этом безупречно сбалансированное и долгое (более 50 секунд). Окно зрелости: 2007-2035.<br /><strong>Wine Advocate</strong>",
         "availability": "https://schema.org/InStock",
         "itemCondition": "https://schema.org/NewCondition"
     },
     "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "94",
+        "ratingValue": "France 2;Lafite;Пойяк;Бордо;Редкие вина",
         "ratingCount": "1",
         "worstRating": "50",
         "bestRating": "100"
@@ -378,24 +146,53 @@
 {
     "@context": "http://schema.org/",
     "@type": "Product",
-    "name": "Chateau Margaux 2017, 1500ml",
-    "image": "https://static.tildacdn.com/tild6637-3637-4737-a261-373636353338/margaux-2017.jpg",
+    "name": "Chateau Lafite Rothschild",
+    "image": "Бордо, Пойяк",
+    "description": "RP 100",
+    "brand": {
+        "@type": "Brand",
+        "name": "2,42325E+11"
+    },
+    "offers": {
+        "@type": "Offer",
+        "priceCurrency": "RUB",
+        "price": "Chateau Lafite Rothschild 2003, 1500 ml",
+        "url": "Лафит Ротшильд 2003 настолько же близок к совершенству, как и все величайшие Лафиты последних 30 лет, начиная с 1982 и заканчивая 2010. Кроме того, это сенсационное вино с 12,7% алкоголя выполнено в стиле великой классики - Лафита 1959 года. У него глубокий рубиново-фиолетовый цвет и роскошный аромат кедра, грифеля, белого шоколада, какао и черносмородинового ликера. Плотное, полнотельное, пышное, это благородное вино обладает низкой кислотностью и поразительной многослойностью. Оно только выходит на плато зрелости, где пробудет еще 20-25 лет. Этот Лафит - один из кандидатов на звание вина винтажа, не сомневайтесь в этом! Он поражает одновременно своим потенциалом, многослойностью и насыщенностью.<br /><strong>Wine Advocate (Роберт Паркер), 2014</strong>",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "France 2;Lafite;Пойяк;Бордо;Редкие вина",
+        "ratingCount": "1",
+        "worstRating": "50",
+        "bestRating": "100"
+    }
+}
+
+
+
+{
+    "@context": "http://schema.org/",
+    "@type": "Product",
+    "name": "Chateau Lafite Rothschild",
+    "image": "Бордо, Пойяк",
     "description": "",
     "brand": {
         "@type": "Brand",
-        "name": "Chateau Margaux"
+        "name": "6,53898E+11"
     },
     "offers": {
         "@type": "Offer",
         "priceCurrency": "RUB",
-        "price": 292500,
-        "url": "https://winetime.moscow/margaux-2017",
+        "price": "Chateau Lafite Rothschild 2012, 1500 ml",
+        "url": "Лафит Ротшильд 2012 - очень стильное, элегантное, но и достаточно концентрированное вино плотного рубиново-фиолетового цвета. В аромате доминируют грифель и черная смородина. Вино среднетельное, танины мягкие, дубовая нота уже хорошо интегрирована, кислотность и алкоголь - тоже на уровне. Должно быть на пике в 2020-2035.<br /><strong>Wine Advocate, 2015</strong>",
         "availability": "https://schema.org/InStock",
         "itemCondition": "https://schema.org/NewCondition"
     },
     "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "94",
+        "ratingValue": "France 2;Lafite;Пойяк;Бордо;Редкие вина",
         "ratingCount": "1",
         "worstRating": "50",
         "bestRating": "100"
@@ -407,140 +204,24 @@
 {
     "@context": "http://schema.org/",
     "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 1986, 750 ml",
-    "image": "https://static.tildacdn.com/tild3731-6531-4333-b263-373361383863/Chateau_Margaux_prem.jpg",
-    "description": "«1986 - великолепный образец Шато Марго и один из самых танинных, медленно развивающихся Марго за последние 50 лет. Цвет все еще плотный, рубиново-пурпурный с легким намеком на осветление по краю. После нескольких часов аэрации ароматические вещества поражают нотами дыма, тостов, черносмородинового ликера, минералов и белых цветов. Полнотелое, с высокими, но сладкими танинами, значительной чистотой и очень мужским стилем, это вино, кажется, почти бессмертно, говоря о потенциале выдержки. Оно выходит из детского возраста и близится к подростковому. <a href=\"https://bestofwines.com/wine/france/bordeaux/bordeaux-st-emilion/chateau-angelus/\">Ожидаемая зрелость:</a> 2008-2050 гг.». <br /> <em>Wine advocate, 2003</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 158600,
-        "url": "https://winetime.moscow/chateau-margaux-premier-grand-cru-classe-1986",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "98",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux Premier Grand Cru Classе 2001, 750ml",
-    "image": "https://static.tildacdn.com/tild3736-6436-4334-b866-316638633032/margaux-2001-2.jpg",
-    "description": "Шато Марго 2001 продолжает развиваться в своей впечатляющей манере. Букет ароматов очень чувственный, доминируют ноты красных, а не темных фруктов. Оно обезоруживает своей чистотой и, кажется, демонстрирует даже больше цветочных оттенков, чем его предшественник 1999. Очень устойчивое и четкое, среднетельное с эластичной текстурой и яркой кислотностью - очень свежее и живое.<br /><br />Wine Advocate, 2016<strong><span style=\"font-size: 14px;\" data-redactor-tag=\"span\"><em></em></span></strong><br /><br /><br /><br /><em><a href=\"https://winetime.moscow/wm-chateau-margaux\" data-redactor-tag=\"a\" style=\"background: transparent; border-bottom: 1px solid rgb(0, 68, 194); box-shadow: rgb(0, 68, 194) 0px -1px 0px 0px inset; color: rgb(34, 40, 204) !important;\">Читать</a> о#nbsp;производителе</em>",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 128700,
-        "url": "https://winetime.moscow/margaux-2001",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2002, 750 ml",
-    "image": "https://static.tildacdn.com/tild6630-3961-4432-b864-616361356164/margaux-2002-2.jpg",
-    "description": "Шато Марго 2002 года - это вино глубокого рубиново-фиолетового цвета, по стилю оно напоминает Марго 1988, только более мощное, концентрированное и объемное. У него элегантный аромат темных фруктов с нотами трюфеля, цветов и дуба. Вино ближе к полнотельному, концентрированное, восхитительно устойчивое и свежее, с долгим густым многомерным послевкусием. <br /><br /> <em>Wine Advocate, 2005</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": "",
-        "url": "https://winetime.moscow/margaux-2002",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "93",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2005, 750 ml",
-    "image": "https://static.tildacdn.com/tild3134-6239-4137-b036-663234646462/margaux-2005.jpg",
-    "description": "У Шато Марго 2005 щедрый аромат черной смородины, новой седельной кожи, цветочных лепестков и пряностей. Дубовая нота уже полностью скрылась за яркой фруктовостью этого полнотельного, чистейшего, восхитительного вина! Это концентрированное, насыщенное, но при этом поразительно элегантное, многомерное вино обладает очень долгим послевкусием (более 45 секунд). Его можно пить сейчас, но знайте, что через 5-10 лет оно станет еще лучше, а прожить может еще по крайней мере 25 лет. <br /><br /> <em>Wine Advocate, 2015</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 227500,
-        "url": "https://winetime.moscow/margaux-2005",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "99",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2006, 750ml",
-    "image": "https://static.tildacdn.com/tild3163-3532-4664-b538-333461666566/margaux-2006.jpg",
+    "name": "Chateau Lafite Rothschild",
+    "image": "Бордо, Пойяк",
     "description": "",
     "brand": {
         "@type": "Brand",
-        "name": "Chateau Margaux"
+        "name": "4,23601E+11"
     },
     "offers": {
         "@type": "Offer",
         "priceCurrency": "RUB",
-        "price": 137800,
-        "url": "https://winetime.moscow/margaux-2006",
+        "price": "Chateau Lafite Rothschild 2006, 750 ml",
+        "url": "Шато Лафит Ротшильд 2006 выдает ароматы, впечатляющие фруктовой насыщенностью, хотя они и не такие отчетливые как ароматы Мутона 2006. Красные ягоды смешиваются с розовыми лепестками и ароматом подлеска - типичный букет и тот случай, когда меньше значит лучше. Вино среднетельное с изящными танинами и острой линией кислотности. Оно очень хорошо сбалансировано: черные фрукты с привкусом графита. Пока Мутон распускает павлиний хвост, Лафит сохраняет прямолинейность. Однако и здесь прослеживается известная изощренность - этот Лафит Ротшильд готовит вам несколько сюрпризов. Это одно из тех вин, которые останавливают вас и держат на расстоянии - недооцененная категория. Пейте его с 2018 по 2045. <br /><em>RobertParker.com, May 2016</em> <br /><br /> Ароматы сливы, сладкого табака и ежевики. Вино полнотельное, плотное и мясистое, при этом танины тонкие и изящные. Долгое и ласковое послевкусие. Оно превращается в мужественное, сильное молодое вино, которое с годами становится все лучше и лучше. Пейте его после 2014 года. <br /><em>Wine Spectator</em> <br />",
         "availability": "https://schema.org/InStock",
         "itemCondition": "https://schema.org/NewCondition"
     },
     "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "94",
+        "ratingValue": "France 2;Lafite;Пойяк;Бордо",
         "ratingCount": "1",
         "worstRating": "50",
         "bestRating": "100"
@@ -552,24 +233,24 @@
 {
     "@context": "http://schema.org/",
     "@type": "Product",
-    "name": "Chateau Margaux 2016, 3000ml",
-    "image": "https://static.tildacdn.com/tild3835-3364-4235-a533-383961373837/margaux-2016-1.jpg",
+    "name": "",
+    "image": "",
     "description": "",
     "brand": {
         "@type": "Brand",
-        "name": "Chateau Margaux"
+        "name": "1,13862E+11"
     },
     "offers": {
         "@type": "Offer",
         "priceCurrency": "RUB",
-        "price": 960000,
-        "url": "https://winetime.moscow/margaux-2016",
+        "price": "Chateau Lafite Rothschild 1998 (magnum)",
+        "url": "",
         "availability": "https://schema.org/InStock",
         "itemCondition": "https://schema.org/NewCondition"
     },
     "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "94",
+        "ratingValue": "Выключенные;Бордо",
         "ratingCount": "1",
         "worstRating": "50",
         "bestRating": "100"
@@ -581,24 +262,24 @@
 {
     "@context": "http://schema.org/",
     "@type": "Product",
-    "name": "Chateau Margaux 2017, 1500ml",
-    "image": "https://static.tildacdn.com/tild6637-3637-4737-a261-373636353338/margaux-2017.jpg",
+    "name": "Chateau Lafite Rothschild",
+    "image": "Бордо, Пойяк",
     "description": "",
     "brand": {
         "@type": "Brand",
-        "name": "Chateau Margaux"
+        "name": "7,70767E+11"
     },
     "offers": {
         "@type": "Offer",
         "priceCurrency": "RUB",
-        "price": 292500,
-        "url": "https://winetime.moscow/margaux-2017",
+        "price": "Chateau Lafite Rothschild 2002, 750 ml",
+        "url": "Глубокий фиолетовый цвет. Аромат многослойный, насыщенный: ежевика, грифель, маслины, подлесок и кедр. Классический Пойяк, вино все время развивается в бокале. Очень соблазнительная мягкая, шелковистая текстура, во вкусе - ежевика, лесные ягоды, сладкий инжир. Ближе к финишу это вино становится более танинным и сдержанным, будто говорит: “На сегодня все!” Очень интригующее, изменчивое вино.<br /><em>Wine Advocate, 2009</em>",
         "availability": "https://schema.org/InStock",
         "itemCondition": "https://schema.org/NewCondition"
     },
     "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "94",
+        "ratingValue": "France 2;Lafite;Пойяк;Бордо",
         "ratingCount": "1",
         "worstRating": "50",
         "bestRating": "100"
@@ -610,140 +291,24 @@
 {
     "@context": "http://schema.org/",
     "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 1986, 750 ml",
-    "image": "https://static.tildacdn.com/tild3731-6531-4333-b263-373361383863/Chateau_Margaux_prem.jpg",
-    "description": "«1986 - великолепный образец Шато Марго и один из самых танинных, медленно развивающихся Марго за последние 50 лет. Цвет все еще плотный, рубиново-пурпурный с легким намеком на осветление по краю. После нескольких часов аэрации ароматические вещества поражают нотами дыма, тостов, черносмородинового ликера, минералов и белых цветов. Полнотелое, с высокими, но сладкими танинами, значительной чистотой и очень мужским стилем, это вино, кажется, почти бессмертно, говоря о потенциале выдержки. Оно выходит из детского возраста и близится к подростковому. <a href=\"https://bestofwines.com/wine/france/bordeaux/bordeaux-st-emilion/chateau-angelus/\">Ожидаемая зрелость:</a> 2008-2050 гг.». <br /> <em>Wine advocate, 2003</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 158600,
-        "url": "https://winetime.moscow/chateau-margaux-premier-grand-cru-classe-1986",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "98",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux Premier Grand Cru Classе 2001, 750ml",
-    "image": "https://static.tildacdn.com/tild3736-6436-4334-b866-316638633032/margaux-2001-2.jpg",
-    "description": "Шато Марго 2001 продолжает развиваться в своей впечатляющей манере. Букет ароматов очень чувственный, доминируют ноты красных, а не темных фруктов. Оно обезоруживает своей чистотой и, кажется, демонстрирует даже больше цветочных оттенков, чем его предшественник 1999. Очень устойчивое и четкое, среднетельное с эластичной текстурой и яркой кислотностью - очень свежее и живое.<br /><br />Wine Advocate, 2016<strong><span style=\"font-size: 14px;\" data-redactor-tag=\"span\"><em></em></span></strong><br /><br /><br /><br /><em><a href=\"https://winetime.moscow/wm-chateau-margaux\" data-redactor-tag=\"a\" style=\"background: transparent; border-bottom: 1px solid rgb(0, 68, 194); box-shadow: rgb(0, 68, 194) 0px -1px 0px 0px inset; color: rgb(34, 40, 204) !important;\">Читать</a> о#nbsp;производителе</em>",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 128700,
-        "url": "https://winetime.moscow/margaux-2001",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2002, 750 ml",
-    "image": "https://static.tildacdn.com/tild6630-3961-4432-b864-616361356164/margaux-2002-2.jpg",
-    "description": "Шато Марго 2002 года - это вино глубокого рубиново-фиолетового цвета, по стилю оно напоминает Марго 1988, только более мощное, концентрированное и объемное. У него элегантный аромат темных фруктов с нотами трюфеля, цветов и дуба. Вино ближе к полнотельному, концентрированное, восхитительно устойчивое и свежее, с долгим густым многомерным послевкусием. <br /><br /> <em>Wine Advocate, 2005</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": "",
-        "url": "https://winetime.moscow/margaux-2002",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "93",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2005, 750 ml",
-    "image": "https://static.tildacdn.com/tild3134-6239-4137-b036-663234646462/margaux-2005.jpg",
-    "description": "У Шато Марго 2005 щедрый аромат черной смородины, новой седельной кожи, цветочных лепестков и пряностей. Дубовая нота уже полностью скрылась за яркой фруктовостью этого полнотельного, чистейшего, восхитительного вина! Это концентрированное, насыщенное, но при этом поразительно элегантное, многомерное вино обладает очень долгим послевкусием (более 45 секунд). Его можно пить сейчас, но знайте, что через 5-10 лет оно станет еще лучше, а прожить может еще по крайней мере 25 лет. <br /><br /> <em>Wine Advocate, 2015</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 227500,
-        "url": "https://winetime.moscow/margaux-2005",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "99",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2006, 750ml",
-    "image": "https://static.tildacdn.com/tild3163-3532-4664-b538-333461666566/margaux-2006.jpg",
+    "name": "Chateau Lafite Rothschild",
+    "image": "Бордо, Пойяк",
     "description": "",
     "brand": {
         "@type": "Brand",
-        "name": "Chateau Margaux"
+        "name": "4,85049E+11"
     },
     "offers": {
         "@type": "Offer",
         "priceCurrency": "RUB",
-        "price": 137800,
-        "url": "https://winetime.moscow/margaux-2006",
+        "price": "Chateau Lafite Rothschild 1995, 1500 ml",
+        "url": "Chateau Lafite Rothschild 1995 в объеме 1,5 литра. После четырех крайне неудачных сезонов первой половины 1990-х годов отличный 1995 год стал настоящим глотком свежего воздуха и подарил новую надежду как виноделам, так и любителям вина. Лафит 1995 - эталонное вино знаменитого года. Объем магнум идеален в подарок или в коллекцию. Продается в подарочном ящике.",
         "availability": "https://schema.org/InStock",
         "itemCondition": "https://schema.org/NewCondition"
     },
     "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "94",
+        "ratingValue": "France 2;Lafite;Пойяк;Бордо;Редкие вина",
         "ratingCount": "1",
         "worstRating": "50",
         "bestRating": "100"
@@ -755,24 +320,24 @@
 {
     "@context": "http://schema.org/",
     "@type": "Product",
-    "name": "Chateau Margaux 2016, 3000ml",
-    "image": "https://static.tildacdn.com/tild3835-3364-4235-a533-383961373837/margaux-2016-1.jpg",
+    "name": "Chateau Lafite Rothschild",
+    "image": "Бордо, Пойяк",
     "description": "",
     "brand": {
         "@type": "Brand",
-        "name": "Chateau Margaux"
+        "name": "8,15576E+11"
     },
     "offers": {
         "@type": "Offer",
         "priceCurrency": "RUB",
-        "price": 960000,
-        "url": "https://winetime.moscow/margaux-2016",
+        "price": "Chateau Lafite Rothschild 1998, 1500 ml",
+        "url": "Этот бленд 81% Каберне Совиньон и 19% Мерло представляет лишь 34% полного урожая Лафита. В этом далеком от совершенства винтаже Лафит 1998 произвел значительное впечатление сразу же после рождения. За последний год он набрал вес, и теперь это непрозрачное фиолетовое вино близко к совершенству. Яркие, величественные ароматы графитового карандаша, дыма, минералов и черной смородины доносятся из бокала. Вино элегантно, но при этом крайне богато - оно демонстрирует всю суть лафитовского характера. Танины сладкие, само вино очень многослойное, но совсем не тяжелое. Послевкусие сладкое, очень насыщенное, при этом безупречно сбалансированное и долгое (более 50 секунд). Окно зрелости: 2007-2035.<br /><strong>Wine Advocate</strong>",
         "availability": "https://schema.org/InStock",
         "itemCondition": "https://schema.org/NewCondition"
     },
     "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "94",
+        "ratingValue": "France 2;Lafite;Пойяк;Бордо;Редкие вина",
         "ratingCount": "1",
         "worstRating": "50",
         "bestRating": "100"
@@ -784,24 +349,53 @@
 {
     "@context": "http://schema.org/",
     "@type": "Product",
-    "name": "Chateau Margaux 2017, 1500ml",
-    "image": "https://static.tildacdn.com/tild6637-3637-4737-a261-373636353338/margaux-2017.jpg",
+    "name": "Chateau Lafite Rothschild",
+    "image": "Бордо, Пойяк",
+    "description": "RP 100",
+    "brand": {
+        "@type": "Brand",
+        "name": "2,42325E+11"
+    },
+    "offers": {
+        "@type": "Offer",
+        "priceCurrency": "RUB",
+        "price": "Chateau Lafite Rothschild 2003, 1500 ml",
+        "url": "Лафит Ротшильд 2003 настолько же близок к совершенству, как и все величайшие Лафиты последних 30 лет, начиная с 1982 и заканчивая 2010. Кроме того, это сенсационное вино с 12,7% алкоголя выполнено в стиле великой классики - Лафита 1959 года. У него глубокий рубиново-фиолетовый цвет и роскошный аромат кедра, грифеля, белого шоколада, какао и черносмородинового ликера. Плотное, полнотельное, пышное, это благородное вино обладает низкой кислотностью и поразительной многослойностью. Оно только выходит на плато зрелости, где пробудет еще 20-25 лет. Этот Лафит - один из кандидатов на звание вина винтажа, не сомневайтесь в этом! Он поражает одновременно своим потенциалом, многослойностью и насыщенностью.<br /><strong>Wine Advocate (Роберт Паркер), 2014</strong>",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "France 2;Lafite;Пойяк;Бордо;Редкие вина",
+        "ratingCount": "1",
+        "worstRating": "50",
+        "bestRating": "100"
+    }
+}
+
+
+
+{
+    "@context": "http://schema.org/",
+    "@type": "Product",
+    "name": "Chateau Lafite Rothschild",
+    "image": "Бордо, Пойяк",
     "description": "",
     "brand": {
         "@type": "Brand",
-        "name": "Chateau Margaux"
+        "name": "6,53898E+11"
     },
     "offers": {
         "@type": "Offer",
         "priceCurrency": "RUB",
-        "price": 292500,
-        "url": "https://winetime.moscow/margaux-2017",
+        "price": "Chateau Lafite Rothschild 2012, 1500 ml",
+        "url": "Лафит Ротшильд 2012 - очень стильное, элегантное, но и достаточно концентрированное вино плотного рубиново-фиолетового цвета. В аромате доминируют грифель и черная смородина. Вино среднетельное, танины мягкие, дубовая нота уже хорошо интегрирована, кислотность и алкоголь - тоже на уровне. Должно быть на пике в 2020-2035.<br /><strong>Wine Advocate, 2015</strong>",
         "availability": "https://schema.org/InStock",
         "itemCondition": "https://schema.org/NewCondition"
     },
     "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "94",
+        "ratingValue": "France 2;Lafite;Пойяк;Бордо;Редкие вина",
         "ratingCount": "1",
         "worstRating": "50",
         "bestRating": "100"
@@ -813,140 +407,24 @@
 {
     "@context": "http://schema.org/",
     "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 1986, 750 ml",
-    "image": "https://static.tildacdn.com/tild3731-6531-4333-b263-373361383863/Chateau_Margaux_prem.jpg",
-    "description": "«1986 - великолепный образец Шато Марго и один из самых танинных, медленно развивающихся Марго за последние 50 лет. Цвет все еще плотный, рубиново-пурпурный с легким намеком на осветление по краю. После нескольких часов аэрации ароматические вещества поражают нотами дыма, тостов, черносмородинового ликера, минералов и белых цветов. Полнотелое, с высокими, но сладкими танинами, значительной чистотой и очень мужским стилем, это вино, кажется, почти бессмертно, говоря о потенциале выдержки. Оно выходит из детского возраста и близится к подростковому. <a href=\"https://bestofwines.com/wine/france/bordeaux/bordeaux-st-emilion/chateau-angelus/\">Ожидаемая зрелость:</a> 2008-2050 гг.». <br /> <em>Wine advocate, 2003</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 158600,
-        "url": "https://winetime.moscow/chateau-margaux-premier-grand-cru-classe-1986",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "98",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux Premier Grand Cru Classе 2001, 750ml",
-    "image": "https://static.tildacdn.com/tild3736-6436-4334-b866-316638633032/margaux-2001-2.jpg",
-    "description": "Шато Марго 2001 продолжает развиваться в своей впечатляющей манере. Букет ароматов очень чувственный, доминируют ноты красных, а не темных фруктов. Оно обезоруживает своей чистотой и, кажется, демонстрирует даже больше цветочных оттенков, чем его предшественник 1999. Очень устойчивое и четкое, среднетельное с эластичной текстурой и яркой кислотностью - очень свежее и живое.<br /><br />Wine Advocate, 2016<strong><span style=\"font-size: 14px;\" data-redactor-tag=\"span\"><em></em></span></strong><br /><br /><br /><br /><em><a href=\"https://winetime.moscow/wm-chateau-margaux\" data-redactor-tag=\"a\" style=\"background: transparent; border-bottom: 1px solid rgb(0, 68, 194); box-shadow: rgb(0, 68, 194) 0px -1px 0px 0px inset; color: rgb(34, 40, 204) !important;\">Читать</a> о#nbsp;производителе</em>",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 128700,
-        "url": "https://winetime.moscow/margaux-2001",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2002, 750 ml",
-    "image": "https://static.tildacdn.com/tild6630-3961-4432-b864-616361356164/margaux-2002-2.jpg",
-    "description": "Шато Марго 2002 года - это вино глубокого рубиново-фиолетового цвета, по стилю оно напоминает Марго 1988, только более мощное, концентрированное и объемное. У него элегантный аромат темных фруктов с нотами трюфеля, цветов и дуба. Вино ближе к полнотельному, концентрированное, восхитительно устойчивое и свежее, с долгим густым многомерным послевкусием. <br /><br /> <em>Wine Advocate, 2005</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": "",
-        "url": "https://winetime.moscow/margaux-2002",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "93",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2005, 750 ml",
-    "image": "https://static.tildacdn.com/tild3134-6239-4137-b036-663234646462/margaux-2005.jpg",
-    "description": "У Шато Марго 2005 щедрый аромат черной смородины, новой седельной кожи, цветочных лепестков и пряностей. Дубовая нота уже полностью скрылась за яркой фруктовостью этого полнотельного, чистейшего, восхитительного вина! Это концентрированное, насыщенное, но при этом поразительно элегантное, многомерное вино обладает очень долгим послевкусием (более 45 секунд). Его можно пить сейчас, но знайте, что через 5-10 лет оно станет еще лучше, а прожить может еще по крайней мере 25 лет. <br /><br /> <em>Wine Advocate, 2015</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 227500,
-        "url": "https://winetime.moscow/margaux-2005",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "99",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2006, 750ml",
-    "image": "https://static.tildacdn.com/tild3163-3532-4664-b538-333461666566/margaux-2006.jpg",
+    "name": "Chateau Lafite Rothschild",
+    "image": "Бордо, Пойяк",
     "description": "",
     "brand": {
         "@type": "Brand",
-        "name": "Chateau Margaux"
+        "name": "4,23601E+11"
     },
     "offers": {
         "@type": "Offer",
         "priceCurrency": "RUB",
-        "price": 137800,
-        "url": "https://winetime.moscow/margaux-2006",
+        "price": "Chateau Lafite Rothschild 2006, 750 ml",
+        "url": "Шато Лафит Ротшильд 2006 выдает ароматы, впечатляющие фруктовой насыщенностью, хотя они и не такие отчетливые как ароматы Мутона 2006. Красные ягоды смешиваются с розовыми лепестками и ароматом подлеска - типичный букет и тот случай, когда меньше значит лучше. Вино среднетельное с изящными танинами и острой линией кислотности. Оно очень хорошо сбалансировано: черные фрукты с привкусом графита. Пока Мутон распускает павлиний хвост, Лафит сохраняет прямолинейность. Однако и здесь прослеживается известная изощренность - этот Лафит Ротшильд готовит вам несколько сюрпризов. Это одно из тех вин, которые останавливают вас и держат на расстоянии - недооцененная категория. Пейте его с 2018 по 2045. <br /><em>RobertParker.com, May 2016</em> <br /><br /> Ароматы сливы, сладкого табака и ежевики. Вино полнотельное, плотное и мясистое, при этом танины тонкие и изящные. Долгое и ласковое послевкусие. Оно превращается в мужественное, сильное молодое вино, которое с годами становится все лучше и лучше. Пейте его после 2014 года. <br /><em>Wine Spectator</em> <br />",
         "availability": "https://schema.org/InStock",
         "itemCondition": "https://schema.org/NewCondition"
     },
     "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "94",
+        "ratingValue": "France 2;Lafite;Пойяк;Бордо",
         "ratingCount": "1",
         "worstRating": "50",
         "bestRating": "100"
@@ -958,24 +436,24 @@
 {
     "@context": "http://schema.org/",
     "@type": "Product",
-    "name": "Chateau Margaux 2016, 3000ml",
-    "image": "https://static.tildacdn.com/tild3835-3364-4235-a533-383961373837/margaux-2016-1.jpg",
+    "name": "",
+    "image": "",
     "description": "",
     "brand": {
         "@type": "Brand",
-        "name": "Chateau Margaux"
+        "name": "1,13862E+11"
     },
     "offers": {
         "@type": "Offer",
         "priceCurrency": "RUB",
-        "price": 960000,
-        "url": "https://winetime.moscow/margaux-2016",
+        "price": "Chateau Lafite Rothschild 1998 (magnum)",
+        "url": "",
         "availability": "https://schema.org/InStock",
         "itemCondition": "https://schema.org/NewCondition"
     },
     "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "94",
+        "ratingValue": "Выключенные;Бордо",
         "ratingCount": "1",
         "worstRating": "50",
         "bestRating": "100"
@@ -987,24 +465,24 @@
 {
     "@context": "http://schema.org/",
     "@type": "Product",
-    "name": "Chateau Margaux 2017, 1500ml",
-    "image": "https://static.tildacdn.com/tild6637-3637-4737-a261-373636353338/margaux-2017.jpg",
+    "name": "Chateau Lafite Rothschild",
+    "image": "Бордо, Пойяк",
     "description": "",
     "brand": {
         "@type": "Brand",
-        "name": "Chateau Margaux"
+        "name": "7,70767E+11"
     },
     "offers": {
         "@type": "Offer",
         "priceCurrency": "RUB",
-        "price": 292500,
-        "url": "https://winetime.moscow/margaux-2017",
+        "price": "Chateau Lafite Rothschild 2002, 750 ml",
+        "url": "Глубокий фиолетовый цвет. Аромат многослойный, насыщенный: ежевика, грифель, маслины, подлесок и кедр. Классический Пойяк, вино все время развивается в бокале. Очень соблазнительная мягкая, шелковистая текстура, во вкусе - ежевика, лесные ягоды, сладкий инжир. Ближе к финишу это вино становится более танинным и сдержанным, будто говорит: “На сегодня все!” Очень интригующее, изменчивое вино.<br /><em>Wine Advocate, 2009</em>",
         "availability": "https://schema.org/InStock",
         "itemCondition": "https://schema.org/NewCondition"
     },
     "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "94",
+        "ratingValue": "France 2;Lafite;Пойяк;Бордо",
         "ratingCount": "1",
         "worstRating": "50",
         "bestRating": "100"
@@ -1016,140 +494,24 @@
 {
     "@context": "http://schema.org/",
     "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 1986, 750 ml",
-    "image": "https://static.tildacdn.com/tild3731-6531-4333-b263-373361383863/Chateau_Margaux_prem.jpg",
-    "description": "«1986 - великолепный образец Шато Марго и один из самых танинных, медленно развивающихся Марго за последние 50 лет. Цвет все еще плотный, рубиново-пурпурный с легким намеком на осветление по краю. После нескольких часов аэрации ароматические вещества поражают нотами дыма, тостов, черносмородинового ликера, минералов и белых цветов. Полнотелое, с высокими, но сладкими танинами, значительной чистотой и очень мужским стилем, это вино, кажется, почти бессмертно, говоря о потенциале выдержки. Оно выходит из детского возраста и близится к подростковому. <a href=\"https://bestofwines.com/wine/france/bordeaux/bordeaux-st-emilion/chateau-angelus/\">Ожидаемая зрелость:</a> 2008-2050 гг.». <br /> <em>Wine advocate, 2003</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 158600,
-        "url": "https://winetime.moscow/chateau-margaux-premier-grand-cru-classe-1986",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "98",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux Premier Grand Cru Classе 2001, 750ml",
-    "image": "https://static.tildacdn.com/tild3736-6436-4334-b866-316638633032/margaux-2001-2.jpg",
-    "description": "Шато Марго 2001 продолжает развиваться в своей впечатляющей манере. Букет ароматов очень чувственный, доминируют ноты красных, а не темных фруктов. Оно обезоруживает своей чистотой и, кажется, демонстрирует даже больше цветочных оттенков, чем его предшественник 1999. Очень устойчивое и четкое, среднетельное с эластичной текстурой и яркой кислотностью - очень свежее и живое.<br /><br />Wine Advocate, 2016<strong><span style=\"font-size: 14px;\" data-redactor-tag=\"span\"><em></em></span></strong><br /><br /><br /><br /><em><a href=\"https://winetime.moscow/wm-chateau-margaux\" data-redactor-tag=\"a\" style=\"background: transparent; border-bottom: 1px solid rgb(0, 68, 194); box-shadow: rgb(0, 68, 194) 0px -1px 0px 0px inset; color: rgb(34, 40, 204) !important;\">Читать</a> о#nbsp;производителе</em>",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 128700,
-        "url": "https://winetime.moscow/margaux-2001",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2002, 750 ml",
-    "image": "https://static.tildacdn.com/tild6630-3961-4432-b864-616361356164/margaux-2002-2.jpg",
-    "description": "Шато Марго 2002 года - это вино глубокого рубиново-фиолетового цвета, по стилю оно напоминает Марго 1988, только более мощное, концентрированное и объемное. У него элегантный аромат темных фруктов с нотами трюфеля, цветов и дуба. Вино ближе к полнотельному, концентрированное, восхитительно устойчивое и свежее, с долгим густым многомерным послевкусием. <br /><br /> <em>Wine Advocate, 2005</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": "",
-        "url": "https://winetime.moscow/margaux-2002",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "93",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2005, 750 ml",
-    "image": "https://static.tildacdn.com/tild3134-6239-4137-b036-663234646462/margaux-2005.jpg",
-    "description": "У Шато Марго 2005 щедрый аромат черной смородины, новой седельной кожи, цветочных лепестков и пряностей. Дубовая нота уже полностью скрылась за яркой фруктовостью этого полнотельного, чистейшего, восхитительного вина! Это концентрированное, насыщенное, но при этом поразительно элегантное, многомерное вино обладает очень долгим послевкусием (более 45 секунд). Его можно пить сейчас, но знайте, что через 5-10 лет оно станет еще лучше, а прожить может еще по крайней мере 25 лет. <br /><br /> <em>Wine Advocate, 2015</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 227500,
-        "url": "https://winetime.moscow/margaux-2005",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "99",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2006, 750ml",
-    "image": "https://static.tildacdn.com/tild3163-3532-4664-b538-333461666566/margaux-2006.jpg",
+    "name": "Chateau Lafite Rothschild",
+    "image": "Бордо, Пойяк",
     "description": "",
     "brand": {
         "@type": "Brand",
-        "name": "Chateau Margaux"
+        "name": "4,85049E+11"
     },
     "offers": {
         "@type": "Offer",
         "priceCurrency": "RUB",
-        "price": 137800,
-        "url": "https://winetime.moscow/margaux-2006",
+        "price": "Chateau Lafite Rothschild 1995, 1500 ml",
+        "url": "Chateau Lafite Rothschild 1995 в объеме 1,5 литра. После четырех крайне неудачных сезонов первой половины 1990-х годов отличный 1995 год стал настоящим глотком свежего воздуха и подарил новую надежду как виноделам, так и любителям вина. Лафит 1995 - эталонное вино знаменитого года. Объем магнум идеален в подарок или в коллекцию. Продается в подарочном ящике.",
         "availability": "https://schema.org/InStock",
         "itemCondition": "https://schema.org/NewCondition"
     },
     "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "94",
+        "ratingValue": "France 2;Lafite;Пойяк;Бордо;Редкие вина",
         "ratingCount": "1",
         "worstRating": "50",
         "bestRating": "100"
@@ -1161,24 +523,24 @@
 {
     "@context": "http://schema.org/",
     "@type": "Product",
-    "name": "Chateau Margaux 2016, 3000ml",
-    "image": "https://static.tildacdn.com/tild3835-3364-4235-a533-383961373837/margaux-2016-1.jpg",
+    "name": "Chateau Lafite Rothschild",
+    "image": "Бордо, Пойяк",
     "description": "",
     "brand": {
         "@type": "Brand",
-        "name": "Chateau Margaux"
+        "name": "8,15576E+11"
     },
     "offers": {
         "@type": "Offer",
         "priceCurrency": "RUB",
-        "price": 960000,
-        "url": "https://winetime.moscow/margaux-2016",
+        "price": "Chateau Lafite Rothschild 1998, 1500 ml",
+        "url": "Этот бленд 81% Каберне Совиньон и 19% Мерло представляет лишь 34% полного урожая Лафита. В этом далеком от совершенства винтаже Лафит 1998 произвел значительное впечатление сразу же после рождения. За последний год он набрал вес, и теперь это непрозрачное фиолетовое вино близко к совершенству. Яркие, величественные ароматы графитового карандаша, дыма, минералов и черной смородины доносятся из бокала. Вино элегантно, но при этом крайне богато - оно демонстрирует всю суть лафитовского характера. Танины сладкие, само вино очень многослойное, но совсем не тяжелое. Послевкусие сладкое, очень насыщенное, при этом безупречно сбалансированное и долгое (более 50 секунд). Окно зрелости: 2007-2035.<br /><strong>Wine Advocate</strong>",
         "availability": "https://schema.org/InStock",
         "itemCondition": "https://schema.org/NewCondition"
     },
     "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "94",
+        "ratingValue": "France 2;Lafite;Пойяк;Бордо;Редкие вина",
         "ratingCount": "1",
         "worstRating": "50",
         "bestRating": "100"
@@ -1190,2460 +552,53 @@
 {
     "@context": "http://schema.org/",
     "@type": "Product",
-    "name": "Chateau Margaux 2017, 1500ml",
-    "image": "https://static.tildacdn.com/tild6637-3637-4737-a261-373636353338/margaux-2017.jpg",
+    "name": "Chateau Lafite Rothschild",
+    "image": "Бордо, Пойяк",
+    "description": "RP 100",
+    "brand": {
+        "@type": "Brand",
+        "name": "2,42325E+11"
+    },
+    "offers": {
+        "@type": "Offer",
+        "priceCurrency": "RUB",
+        "price": "Chateau Lafite Rothschild 2003, 1500 ml",
+        "url": "Лафит Ротшильд 2003 настолько же близок к совершенству, как и все величайшие Лафиты последних 30 лет, начиная с 1982 и заканчивая 2010. Кроме того, это сенсационное вино с 12,7% алкоголя выполнено в стиле великой классики - Лафита 1959 года. У него глубокий рубиново-фиолетовый цвет и роскошный аромат кедра, грифеля, белого шоколада, какао и черносмородинового ликера. Плотное, полнотельное, пышное, это благородное вино обладает низкой кислотностью и поразительной многослойностью. Оно только выходит на плато зрелости, где пробудет еще 20-25 лет. Этот Лафит - один из кандидатов на звание вина винтажа, не сомневайтесь в этом! Он поражает одновременно своим потенциалом, многослойностью и насыщенностью.<br /><strong>Wine Advocate (Роберт Паркер), 2014</strong>",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "France 2;Lafite;Пойяк;Бордо;Редкие вина",
+        "ratingCount": "1",
+        "worstRating": "50",
+        "bestRating": "100"
+    }
+}
+
+
+
+{
+    "@context": "http://schema.org/",
+    "@type": "Product",
+    "name": "Chateau Lafite Rothschild",
+    "image": "Бордо, Пойяк",
     "description": "",
     "brand": {
         "@type": "Brand",
-        "name": "Chateau Margaux"
+        "name": "6,53898E+11"
     },
     "offers": {
         "@type": "Offer",
         "priceCurrency": "RUB",
-        "price": 292500,
-        "url": "https://winetime.moscow/margaux-2017",
+        "price": "Chateau Lafite Rothschild 2012, 1500 ml",
+        "url": "Лафит Ротшильд 2012 - очень стильное, элегантное, но и достаточно концентрированное вино плотного рубиново-фиолетового цвета. В аромате доминируют грифель и черная смородина. Вино среднетельное, танины мягкие, дубовая нота уже хорошо интегрирована, кислотность и алкоголь - тоже на уровне. Должно быть на пике в 2020-2035.<br /><strong>Wine Advocate, 2015</strong>",
         "availability": "https://schema.org/InStock",
         "itemCondition": "https://schema.org/NewCondition"
     },
     "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 1986, 750 ml",
-    "image": "https://static.tildacdn.com/tild3731-6531-4333-b263-373361383863/Chateau_Margaux_prem.jpg",
-    "description": "«1986 - великолепный образец Шато Марго и один из самых танинных, медленно развивающихся Марго за последние 50 лет. Цвет все еще плотный, рубиново-пурпурный с легким намеком на осветление по краю. После нескольких часов аэрации ароматические вещества поражают нотами дыма, тостов, черносмородинового ликера, минералов и белых цветов. Полнотелое, с высокими, но сладкими танинами, значительной чистотой и очень мужским стилем, это вино, кажется, почти бессмертно, говоря о потенциале выдержки. Оно выходит из детского возраста и близится к подростковому. <a href=\"https://bestofwines.com/wine/france/bordeaux/bordeaux-st-emilion/chateau-angelus/\">Ожидаемая зрелость:</a> 2008-2050 гг.». <br /> <em>Wine advocate, 2003</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 158600,
-        "url": "https://winetime.moscow/chateau-margaux-premier-grand-cru-classe-1986",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "98",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux Premier Grand Cru Classе 2001, 750ml",
-    "image": "https://static.tildacdn.com/tild3736-6436-4334-b866-316638633032/margaux-2001-2.jpg",
-    "description": "Шато Марго 2001 продолжает развиваться в своей впечатляющей манере. Букет ароматов очень чувственный, доминируют ноты красных, а не темных фруктов. Оно обезоруживает своей чистотой и, кажется, демонстрирует даже больше цветочных оттенков, чем его предшественник 1999. Очень устойчивое и четкое, среднетельное с эластичной текстурой и яркой кислотностью - очень свежее и живое.<br /><br />Wine Advocate, 2016<strong><span style=\"font-size: 14px;\" data-redactor-tag=\"span\"><em></em></span></strong><br /><br /><br /><br /><em><a href=\"https://winetime.moscow/wm-chateau-margaux\" data-redactor-tag=\"a\" style=\"background: transparent; border-bottom: 1px solid rgb(0, 68, 194); box-shadow: rgb(0, 68, 194) 0px -1px 0px 0px inset; color: rgb(34, 40, 204) !important;\">Читать</a> о#nbsp;производителе</em>",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 128700,
-        "url": "https://winetime.moscow/margaux-2001",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2002, 750 ml",
-    "image": "https://static.tildacdn.com/tild6630-3961-4432-b864-616361356164/margaux-2002-2.jpg",
-    "description": "Шато Марго 2002 года - это вино глубокого рубиново-фиолетового цвета, по стилю оно напоминает Марго 1988, только более мощное, концентрированное и объемное. У него элегантный аромат темных фруктов с нотами трюфеля, цветов и дуба. Вино ближе к полнотельному, концентрированное, восхитительно устойчивое и свежее, с долгим густым многомерным послевкусием. <br /><br /> <em>Wine Advocate, 2005</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": "",
-        "url": "https://winetime.moscow/margaux-2002",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "93",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2005, 750 ml",
-    "image": "https://static.tildacdn.com/tild3134-6239-4137-b036-663234646462/margaux-2005.jpg",
-    "description": "У Шато Марго 2005 щедрый аромат черной смородины, новой седельной кожи, цветочных лепестков и пряностей. Дубовая нота уже полностью скрылась за яркой фруктовостью этого полнотельного, чистейшего, восхитительного вина! Это концентрированное, насыщенное, но при этом поразительно элегантное, многомерное вино обладает очень долгим послевкусием (более 45 секунд). Его можно пить сейчас, но знайте, что через 5-10 лет оно станет еще лучше, а прожить может еще по крайней мере 25 лет. <br /><br /> <em>Wine Advocate, 2015</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 227500,
-        "url": "https://winetime.moscow/margaux-2005",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "99",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2006, 750ml",
-    "image": "https://static.tildacdn.com/tild3163-3532-4664-b538-333461666566/margaux-2006.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 137800,
-        "url": "https://winetime.moscow/margaux-2006",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2016, 3000ml",
-    "image": "https://static.tildacdn.com/tild3835-3364-4235-a533-383961373837/margaux-2016-1.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 960000,
-        "url": "https://winetime.moscow/margaux-2016",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2017, 1500ml",
-    "image": "https://static.tildacdn.com/tild6637-3637-4737-a261-373636353338/margaux-2017.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 292500,
-        "url": "https://winetime.moscow/margaux-2017",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 1986, 750 ml",
-    "image": "https://static.tildacdn.com/tild3731-6531-4333-b263-373361383863/Chateau_Margaux_prem.jpg",
-    "description": "«1986 - великолепный образец Шато Марго и один из самых танинных, медленно развивающихся Марго за последние 50 лет. Цвет все еще плотный, рубиново-пурпурный с легким намеком на осветление по краю. После нескольких часов аэрации ароматические вещества поражают нотами дыма, тостов, черносмородинового ликера, минералов и белых цветов. Полнотелое, с высокими, но сладкими танинами, значительной чистотой и очень мужским стилем, это вино, кажется, почти бессмертно, говоря о потенциале выдержки. Оно выходит из детского возраста и близится к подростковому. <a href=\"https://bestofwines.com/wine/france/bordeaux/bordeaux-st-emilion/chateau-angelus/\">Ожидаемая зрелость:</a> 2008-2050 гг.». <br /> <em>Wine advocate, 2003</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 158600,
-        "url": "https://winetime.moscow/chateau-margaux-premier-grand-cru-classe-1986",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "98",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux Premier Grand Cru Classе 2001, 750ml",
-    "image": "https://static.tildacdn.com/tild3736-6436-4334-b866-316638633032/margaux-2001-2.jpg",
-    "description": "Шато Марго 2001 продолжает развиваться в своей впечатляющей манере. Букет ароматов очень чувственный, доминируют ноты красных, а не темных фруктов. Оно обезоруживает своей чистотой и, кажется, демонстрирует даже больше цветочных оттенков, чем его предшественник 1999. Очень устойчивое и четкое, среднетельное с эластичной текстурой и яркой кислотностью - очень свежее и живое.<br /><br />Wine Advocate, 2016<strong><span style=\"font-size: 14px;\" data-redactor-tag=\"span\"><em></em></span></strong><br /><br /><br /><br /><em><a href=\"https://winetime.moscow/wm-chateau-margaux\" data-redactor-tag=\"a\" style=\"background: transparent; border-bottom: 1px solid rgb(0, 68, 194); box-shadow: rgb(0, 68, 194) 0px -1px 0px 0px inset; color: rgb(34, 40, 204) !important;\">Читать</a> о#nbsp;производителе</em>",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 128700,
-        "url": "https://winetime.moscow/margaux-2001",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2002, 750 ml",
-    "image": "https://static.tildacdn.com/tild6630-3961-4432-b864-616361356164/margaux-2002-2.jpg",
-    "description": "Шато Марго 2002 года - это вино глубокого рубиново-фиолетового цвета, по стилю оно напоминает Марго 1988, только более мощное, концентрированное и объемное. У него элегантный аромат темных фруктов с нотами трюфеля, цветов и дуба. Вино ближе к полнотельному, концентрированное, восхитительно устойчивое и свежее, с долгим густым многомерным послевкусием. <br /><br /> <em>Wine Advocate, 2005</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": "",
-        "url": "https://winetime.moscow/margaux-2002",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "93",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2005, 750 ml",
-    "image": "https://static.tildacdn.com/tild3134-6239-4137-b036-663234646462/margaux-2005.jpg",
-    "description": "У Шато Марго 2005 щедрый аромат черной смородины, новой седельной кожи, цветочных лепестков и пряностей. Дубовая нота уже полностью скрылась за яркой фруктовостью этого полнотельного, чистейшего, восхитительного вина! Это концентрированное, насыщенное, но при этом поразительно элегантное, многомерное вино обладает очень долгим послевкусием (более 45 секунд). Его можно пить сейчас, но знайте, что через 5-10 лет оно станет еще лучше, а прожить может еще по крайней мере 25 лет. <br /><br /> <em>Wine Advocate, 2015</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 227500,
-        "url": "https://winetime.moscow/margaux-2005",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "99",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2006, 750ml",
-    "image": "https://static.tildacdn.com/tild3163-3532-4664-b538-333461666566/margaux-2006.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 137800,
-        "url": "https://winetime.moscow/margaux-2006",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2016, 3000ml",
-    "image": "https://static.tildacdn.com/tild3835-3364-4235-a533-383961373837/margaux-2016-1.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 960000,
-        "url": "https://winetime.moscow/margaux-2016",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2017, 1500ml",
-    "image": "https://static.tildacdn.com/tild6637-3637-4737-a261-373636353338/margaux-2017.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 292500,
-        "url": "https://winetime.moscow/margaux-2017",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 1986, 750 ml",
-    "image": "https://static.tildacdn.com/tild3731-6531-4333-b263-373361383863/Chateau_Margaux_prem.jpg",
-    "description": "«1986 - великолепный образец Шато Марго и один из самых танинных, медленно развивающихся Марго за последние 50 лет. Цвет все еще плотный, рубиново-пурпурный с легким намеком на осветление по краю. После нескольких часов аэрации ароматические вещества поражают нотами дыма, тостов, черносмородинового ликера, минералов и белых цветов. Полнотелое, с высокими, но сладкими танинами, значительной чистотой и очень мужским стилем, это вино, кажется, почти бессмертно, говоря о потенциале выдержки. Оно выходит из детского возраста и близится к подростковому. <a href=\"https://bestofwines.com/wine/france/bordeaux/bordeaux-st-emilion/chateau-angelus/\">Ожидаемая зрелость:</a> 2008-2050 гг.». <br /> <em>Wine advocate, 2003</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 158600,
-        "url": "https://winetime.moscow/chateau-margaux-premier-grand-cru-classe-1986",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "98",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux Premier Grand Cru Classе 2001, 750ml",
-    "image": "https://static.tildacdn.com/tild3736-6436-4334-b866-316638633032/margaux-2001-2.jpg",
-    "description": "Шато Марго 2001 продолжает развиваться в своей впечатляющей манере. Букет ароматов очень чувственный, доминируют ноты красных, а не темных фруктов. Оно обезоруживает своей чистотой и, кажется, демонстрирует даже больше цветочных оттенков, чем его предшественник 1999. Очень устойчивое и четкое, среднетельное с эластичной текстурой и яркой кислотностью - очень свежее и живое.<br /><br />Wine Advocate, 2016<strong><span style=\"font-size: 14px;\" data-redactor-tag=\"span\"><em></em></span></strong><br /><br /><br /><br /><em><a href=\"https://winetime.moscow/wm-chateau-margaux\" data-redactor-tag=\"a\" style=\"background: transparent; border-bottom: 1px solid rgb(0, 68, 194); box-shadow: rgb(0, 68, 194) 0px -1px 0px 0px inset; color: rgb(34, 40, 204) !important;\">Читать</a> о#nbsp;производителе</em>",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 128700,
-        "url": "https://winetime.moscow/margaux-2001",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2002, 750 ml",
-    "image": "https://static.tildacdn.com/tild6630-3961-4432-b864-616361356164/margaux-2002-2.jpg",
-    "description": "Шато Марго 2002 года - это вино глубокого рубиново-фиолетового цвета, по стилю оно напоминает Марго 1988, только более мощное, концентрированное и объемное. У него элегантный аромат темных фруктов с нотами трюфеля, цветов и дуба. Вино ближе к полнотельному, концентрированное, восхитительно устойчивое и свежее, с долгим густым многомерным послевкусием. <br /><br /> <em>Wine Advocate, 2005</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": "",
-        "url": "https://winetime.moscow/margaux-2002",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "93",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2005, 750 ml",
-    "image": "https://static.tildacdn.com/tild3134-6239-4137-b036-663234646462/margaux-2005.jpg",
-    "description": "У Шато Марго 2005 щедрый аромат черной смородины, новой седельной кожи, цветочных лепестков и пряностей. Дубовая нота уже полностью скрылась за яркой фруктовостью этого полнотельного, чистейшего, восхитительного вина! Это концентрированное, насыщенное, но при этом поразительно элегантное, многомерное вино обладает очень долгим послевкусием (более 45 секунд). Его можно пить сейчас, но знайте, что через 5-10 лет оно станет еще лучше, а прожить может еще по крайней мере 25 лет. <br /><br /> <em>Wine Advocate, 2015</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 227500,
-        "url": "https://winetime.moscow/margaux-2005",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "99",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2006, 750ml",
-    "image": "https://static.tildacdn.com/tild3163-3532-4664-b538-333461666566/margaux-2006.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 137800,
-        "url": "https://winetime.moscow/margaux-2006",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2016, 3000ml",
-    "image": "https://static.tildacdn.com/tild3835-3364-4235-a533-383961373837/margaux-2016-1.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 960000,
-        "url": "https://winetime.moscow/margaux-2016",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2017, 1500ml",
-    "image": "https://static.tildacdn.com/tild6637-3637-4737-a261-373636353338/margaux-2017.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 292500,
-        "url": "https://winetime.moscow/margaux-2017",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 1986, 750 ml",
-    "image": "https://static.tildacdn.com/tild3731-6531-4333-b263-373361383863/Chateau_Margaux_prem.jpg",
-    "description": "«1986 - великолепный образец Шато Марго и один из самых танинных, медленно развивающихся Марго за последние 50 лет. Цвет все еще плотный, рубиново-пурпурный с легким намеком на осветление по краю. После нескольких часов аэрации ароматические вещества поражают нотами дыма, тостов, черносмородинового ликера, минералов и белых цветов. Полнотелое, с высокими, но сладкими танинами, значительной чистотой и очень мужским стилем, это вино, кажется, почти бессмертно, говоря о потенциале выдержки. Оно выходит из детского возраста и близится к подростковому. <a href=\"https://bestofwines.com/wine/france/bordeaux/bordeaux-st-emilion/chateau-angelus/\">Ожидаемая зрелость:</a> 2008-2050 гг.». <br /> <em>Wine advocate, 2003</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 158600,
-        "url": "https://winetime.moscow/chateau-margaux-premier-grand-cru-classe-1986",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "98",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux Premier Grand Cru Classе 2001, 750ml",
-    "image": "https://static.tildacdn.com/tild3736-6436-4334-b866-316638633032/margaux-2001-2.jpg",
-    "description": "Шато Марго 2001 продолжает развиваться в своей впечатляющей манере. Букет ароматов очень чувственный, доминируют ноты красных, а не темных фруктов. Оно обезоруживает своей чистотой и, кажется, демонстрирует даже больше цветочных оттенков, чем его предшественник 1999. Очень устойчивое и четкое, среднетельное с эластичной текстурой и яркой кислотностью - очень свежее и живое.<br /><br />Wine Advocate, 2016<strong><span style=\"font-size: 14px;\" data-redactor-tag=\"span\"><em></em></span></strong><br /><br /><br /><br /><em><a href=\"https://winetime.moscow/wm-chateau-margaux\" data-redactor-tag=\"a\" style=\"background: transparent; border-bottom: 1px solid rgb(0, 68, 194); box-shadow: rgb(0, 68, 194) 0px -1px 0px 0px inset; color: rgb(34, 40, 204) !important;\">Читать</a> о#nbsp;производителе</em>",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 128700,
-        "url": "https://winetime.moscow/margaux-2001",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2002, 750 ml",
-    "image": "https://static.tildacdn.com/tild6630-3961-4432-b864-616361356164/margaux-2002-2.jpg",
-    "description": "Шато Марго 2002 года - это вино глубокого рубиново-фиолетового цвета, по стилю оно напоминает Марго 1988, только более мощное, концентрированное и объемное. У него элегантный аромат темных фруктов с нотами трюфеля, цветов и дуба. Вино ближе к полнотельному, концентрированное, восхитительно устойчивое и свежее, с долгим густым многомерным послевкусием. <br /><br /> <em>Wine Advocate, 2005</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": "",
-        "url": "https://winetime.moscow/margaux-2002",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "93",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2005, 750 ml",
-    "image": "https://static.tildacdn.com/tild3134-6239-4137-b036-663234646462/margaux-2005.jpg",
-    "description": "У Шато Марго 2005 щедрый аромат черной смородины, новой седельной кожи, цветочных лепестков и пряностей. Дубовая нота уже полностью скрылась за яркой фруктовостью этого полнотельного, чистейшего, восхитительного вина! Это концентрированное, насыщенное, но при этом поразительно элегантное, многомерное вино обладает очень долгим послевкусием (более 45 секунд). Его можно пить сейчас, но знайте, что через 5-10 лет оно станет еще лучше, а прожить может еще по крайней мере 25 лет. <br /><br /> <em>Wine Advocate, 2015</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 227500,
-        "url": "https://winetime.moscow/margaux-2005",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "99",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2006, 750ml",
-    "image": "https://static.tildacdn.com/tild3163-3532-4664-b538-333461666566/margaux-2006.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 137800,
-        "url": "https://winetime.moscow/margaux-2006",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2016, 3000ml",
-    "image": "https://static.tildacdn.com/tild3835-3364-4235-a533-383961373837/margaux-2016-1.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 960000,
-        "url": "https://winetime.moscow/margaux-2016",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2017, 1500ml",
-    "image": "https://static.tildacdn.com/tild6637-3637-4737-a261-373636353338/margaux-2017.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 292500,
-        "url": "https://winetime.moscow/margaux-2017",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 1986, 750 ml",
-    "image": "https://static.tildacdn.com/tild3731-6531-4333-b263-373361383863/Chateau_Margaux_prem.jpg",
-    "description": "«1986 - великолепный образец Шато Марго и один из самых танинных, медленно развивающихся Марго за последние 50 лет. Цвет все еще плотный, рубиново-пурпурный с легким намеком на осветление по краю. После нескольких часов аэрации ароматические вещества поражают нотами дыма, тостов, черносмородинового ликера, минералов и белых цветов. Полнотелое, с высокими, но сладкими танинами, значительной чистотой и очень мужским стилем, это вино, кажется, почти бессмертно, говоря о потенциале выдержки. Оно выходит из детского возраста и близится к подростковому. <a href=\"https://bestofwines.com/wine/france/bordeaux/bordeaux-st-emilion/chateau-angelus/\">Ожидаемая зрелость:</a> 2008-2050 гг.». <br /> <em>Wine advocate, 2003</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 158600,
-        "url": "https://winetime.moscow/chateau-margaux-premier-grand-cru-classe-1986",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "98",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux Premier Grand Cru Classе 2001, 750ml",
-    "image": "https://static.tildacdn.com/tild3736-6436-4334-b866-316638633032/margaux-2001-2.jpg",
-    "description": "Шато Марго 2001 продолжает развиваться в своей впечатляющей манере. Букет ароматов очень чувственный, доминируют ноты красных, а не темных фруктов. Оно обезоруживает своей чистотой и, кажется, демонстрирует даже больше цветочных оттенков, чем его предшественник 1999. Очень устойчивое и четкое, среднетельное с эластичной текстурой и яркой кислотностью - очень свежее и живое.<br /><br />Wine Advocate, 2016<strong><span style=\"font-size: 14px;\" data-redactor-tag=\"span\"><em></em></span></strong><br /><br /><br /><br /><em><a href=\"https://winetime.moscow/wm-chateau-margaux\" data-redactor-tag=\"a\" style=\"background: transparent; border-bottom: 1px solid rgb(0, 68, 194); box-shadow: rgb(0, 68, 194) 0px -1px 0px 0px inset; color: rgb(34, 40, 204) !important;\">Читать</a> о#nbsp;производителе</em>",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 128700,
-        "url": "https://winetime.moscow/margaux-2001",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2002, 750 ml",
-    "image": "https://static.tildacdn.com/tild6630-3961-4432-b864-616361356164/margaux-2002-2.jpg",
-    "description": "Шато Марго 2002 года - это вино глубокого рубиново-фиолетового цвета, по стилю оно напоминает Марго 1988, только более мощное, концентрированное и объемное. У него элегантный аромат темных фруктов с нотами трюфеля, цветов и дуба. Вино ближе к полнотельному, концентрированное, восхитительно устойчивое и свежее, с долгим густым многомерным послевкусием. <br /><br /> <em>Wine Advocate, 2005</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": "",
-        "url": "https://winetime.moscow/margaux-2002",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "93",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2005, 750 ml",
-    "image": "https://static.tildacdn.com/tild3134-6239-4137-b036-663234646462/margaux-2005.jpg",
-    "description": "У Шато Марго 2005 щедрый аромат черной смородины, новой седельной кожи, цветочных лепестков и пряностей. Дубовая нота уже полностью скрылась за яркой фруктовостью этого полнотельного, чистейшего, восхитительного вина! Это концентрированное, насыщенное, но при этом поразительно элегантное, многомерное вино обладает очень долгим послевкусием (более 45 секунд). Его можно пить сейчас, но знайте, что через 5-10 лет оно станет еще лучше, а прожить может еще по крайней мере 25 лет. <br /><br /> <em>Wine Advocate, 2015</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 227500,
-        "url": "https://winetime.moscow/margaux-2005",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "99",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2006, 750ml",
-    "image": "https://static.tildacdn.com/tild3163-3532-4664-b538-333461666566/margaux-2006.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 137800,
-        "url": "https://winetime.moscow/margaux-2006",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2016, 3000ml",
-    "image": "https://static.tildacdn.com/tild3835-3364-4235-a533-383961373837/margaux-2016-1.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 960000,
-        "url": "https://winetime.moscow/margaux-2016",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2017, 1500ml",
-    "image": "https://static.tildacdn.com/tild6637-3637-4737-a261-373636353338/margaux-2017.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 292500,
-        "url": "https://winetime.moscow/margaux-2017",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 1986, 750 ml",
-    "image": "https://static.tildacdn.com/tild3731-6531-4333-b263-373361383863/Chateau_Margaux_prem.jpg",
-    "description": "«1986 - великолепный образец Шато Марго и один из самых танинных, медленно развивающихся Марго за последние 50 лет. Цвет все еще плотный, рубиново-пурпурный с легким намеком на осветление по краю. После нескольких часов аэрации ароматические вещества поражают нотами дыма, тостов, черносмородинового ликера, минералов и белых цветов. Полнотелое, с высокими, но сладкими танинами, значительной чистотой и очень мужским стилем, это вино, кажется, почти бессмертно, говоря о потенциале выдержки. Оно выходит из детского возраста и близится к подростковому. <a href=\"https://bestofwines.com/wine/france/bordeaux/bordeaux-st-emilion/chateau-angelus/\">Ожидаемая зрелость:</a> 2008-2050 гг.». <br /> <em>Wine advocate, 2003</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 158600,
-        "url": "https://winetime.moscow/chateau-margaux-premier-grand-cru-classe-1986",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "98",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux Premier Grand Cru Classе 2001, 750ml",
-    "image": "https://static.tildacdn.com/tild3736-6436-4334-b866-316638633032/margaux-2001-2.jpg",
-    "description": "Шато Марго 2001 продолжает развиваться в своей впечатляющей манере. Букет ароматов очень чувственный, доминируют ноты красных, а не темных фруктов. Оно обезоруживает своей чистотой и, кажется, демонстрирует даже больше цветочных оттенков, чем его предшественник 1999. Очень устойчивое и четкое, среднетельное с эластичной текстурой и яркой кислотностью - очень свежее и живое.<br /><br />Wine Advocate, 2016<strong><span style=\"font-size: 14px;\" data-redactor-tag=\"span\"><em></em></span></strong><br /><br /><br /><br /><em><a href=\"https://winetime.moscow/wm-chateau-margaux\" data-redactor-tag=\"a\" style=\"background: transparent; border-bottom: 1px solid rgb(0, 68, 194); box-shadow: rgb(0, 68, 194) 0px -1px 0px 0px inset; color: rgb(34, 40, 204) !important;\">Читать</a> о#nbsp;производителе</em>",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 128700,
-        "url": "https://winetime.moscow/margaux-2001",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2002, 750 ml",
-    "image": "https://static.tildacdn.com/tild6630-3961-4432-b864-616361356164/margaux-2002-2.jpg",
-    "description": "Шато Марго 2002 года - это вино глубокого рубиново-фиолетового цвета, по стилю оно напоминает Марго 1988, только более мощное, концентрированное и объемное. У него элегантный аромат темных фруктов с нотами трюфеля, цветов и дуба. Вино ближе к полнотельному, концентрированное, восхитительно устойчивое и свежее, с долгим густым многомерным послевкусием. <br /><br /> <em>Wine Advocate, 2005</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": "",
-        "url": "https://winetime.moscow/margaux-2002",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "93",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2005, 750 ml",
-    "image": "https://static.tildacdn.com/tild3134-6239-4137-b036-663234646462/margaux-2005.jpg",
-    "description": "У Шато Марго 2005 щедрый аромат черной смородины, новой седельной кожи, цветочных лепестков и пряностей. Дубовая нота уже полностью скрылась за яркой фруктовостью этого полнотельного, чистейшего, восхитительного вина! Это концентрированное, насыщенное, но при этом поразительно элегантное, многомерное вино обладает очень долгим послевкусием (более 45 секунд). Его можно пить сейчас, но знайте, что через 5-10 лет оно станет еще лучше, а прожить может еще по крайней мере 25 лет. <br /><br /> <em>Wine Advocate, 2015</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 227500,
-        "url": "https://winetime.moscow/margaux-2005",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "99",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2006, 750ml",
-    "image": "https://static.tildacdn.com/tild3163-3532-4664-b538-333461666566/margaux-2006.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 137800,
-        "url": "https://winetime.moscow/margaux-2006",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2016, 3000ml",
-    "image": "https://static.tildacdn.com/tild3835-3364-4235-a533-383961373837/margaux-2016-1.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 960000,
-        "url": "https://winetime.moscow/margaux-2016",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2017, 1500ml",
-    "image": "https://static.tildacdn.com/tild6637-3637-4737-a261-373636353338/margaux-2017.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 292500,
-        "url": "https://winetime.moscow/margaux-2017",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 1986, 750 ml",
-    "image": "https://static.tildacdn.com/tild3731-6531-4333-b263-373361383863/Chateau_Margaux_prem.jpg",
-    "description": "«1986 - великолепный образец Шато Марго и один из самых танинных, медленно развивающихся Марго за последние 50 лет. Цвет все еще плотный, рубиново-пурпурный с легким намеком на осветление по краю. После нескольких часов аэрации ароматические вещества поражают нотами дыма, тостов, черносмородинового ликера, минералов и белых цветов. Полнотелое, с высокими, но сладкими танинами, значительной чистотой и очень мужским стилем, это вино, кажется, почти бессмертно, говоря о потенциале выдержки. Оно выходит из детского возраста и близится к подростковому. <a href=\"https://bestofwines.com/wine/france/bordeaux/bordeaux-st-emilion/chateau-angelus/\">Ожидаемая зрелость:</a> 2008-2050 гг.». <br /> <em>Wine advocate, 2003</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 158600,
-        "url": "https://winetime.moscow/chateau-margaux-premier-grand-cru-classe-1986",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "98",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux Premier Grand Cru Classе 2001, 750ml",
-    "image": "https://static.tildacdn.com/tild3736-6436-4334-b866-316638633032/margaux-2001-2.jpg",
-    "description": "Шато Марго 2001 продолжает развиваться в своей впечатляющей манере. Букет ароматов очень чувственный, доминируют ноты красных, а не темных фруктов. Оно обезоруживает своей чистотой и, кажется, демонстрирует даже больше цветочных оттенков, чем его предшественник 1999. Очень устойчивое и четкое, среднетельное с эластичной текстурой и яркой кислотностью - очень свежее и живое.<br /><br />Wine Advocate, 2016<strong><span style=\"font-size: 14px;\" data-redactor-tag=\"span\"><em></em></span></strong><br /><br /><br /><br /><em><a href=\"https://winetime.moscow/wm-chateau-margaux\" data-redactor-tag=\"a\" style=\"background: transparent; border-bottom: 1px solid rgb(0, 68, 194); box-shadow: rgb(0, 68, 194) 0px -1px 0px 0px inset; color: rgb(34, 40, 204) !important;\">Читать</a> о#nbsp;производителе</em>",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 128700,
-        "url": "https://winetime.moscow/margaux-2001",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2002, 750 ml",
-    "image": "https://static.tildacdn.com/tild6630-3961-4432-b864-616361356164/margaux-2002-2.jpg",
-    "description": "Шато Марго 2002 года - это вино глубокого рубиново-фиолетового цвета, по стилю оно напоминает Марго 1988, только более мощное, концентрированное и объемное. У него элегантный аромат темных фруктов с нотами трюфеля, цветов и дуба. Вино ближе к полнотельному, концентрированное, восхитительно устойчивое и свежее, с долгим густым многомерным послевкусием. <br /><br /> <em>Wine Advocate, 2005</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": "",
-        "url": "https://winetime.moscow/margaux-2002",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "93",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2005, 750 ml",
-    "image": "https://static.tildacdn.com/tild3134-6239-4137-b036-663234646462/margaux-2005.jpg",
-    "description": "У Шато Марго 2005 щедрый аромат черной смородины, новой седельной кожи, цветочных лепестков и пряностей. Дубовая нота уже полностью скрылась за яркой фруктовостью этого полнотельного, чистейшего, восхитительного вина! Это концентрированное, насыщенное, но при этом поразительно элегантное, многомерное вино обладает очень долгим послевкусием (более 45 секунд). Его можно пить сейчас, но знайте, что через 5-10 лет оно станет еще лучше, а прожить может еще по крайней мере 25 лет. <br /><br /> <em>Wine Advocate, 2015</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 227500,
-        "url": "https://winetime.moscow/margaux-2005",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "99",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2006, 750ml",
-    "image": "https://static.tildacdn.com/tild3163-3532-4664-b538-333461666566/margaux-2006.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 137800,
-        "url": "https://winetime.moscow/margaux-2006",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2016, 3000ml",
-    "image": "https://static.tildacdn.com/tild3835-3364-4235-a533-383961373837/margaux-2016-1.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 960000,
-        "url": "https://winetime.moscow/margaux-2016",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2017, 1500ml",
-    "image": "https://static.tildacdn.com/tild6637-3637-4737-a261-373636353338/margaux-2017.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 292500,
-        "url": "https://winetime.moscow/margaux-2017",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 1986, 750 ml",
-    "image": "https://static.tildacdn.com/tild3731-6531-4333-b263-373361383863/Chateau_Margaux_prem.jpg",
-    "description": "«1986 - великолепный образец Шато Марго и один из самых танинных, медленно развивающихся Марго за последние 50 лет. Цвет все еще плотный, рубиново-пурпурный с легким намеком на осветление по краю. После нескольких часов аэрации ароматические вещества поражают нотами дыма, тостов, черносмородинового ликера, минералов и белых цветов. Полнотелое, с высокими, но сладкими танинами, значительной чистотой и очень мужским стилем, это вино, кажется, почти бессмертно, говоря о потенциале выдержки. Оно выходит из детского возраста и близится к подростковому. <a href=\"https://bestofwines.com/wine/france/bordeaux/bordeaux-st-emilion/chateau-angelus/\">Ожидаемая зрелость:</a> 2008-2050 гг.». <br /> <em>Wine advocate, 2003</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 158600,
-        "url": "https://winetime.moscow/chateau-margaux-premier-grand-cru-classe-1986",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "98",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux Premier Grand Cru Classе 2001, 750ml",
-    "image": "https://static.tildacdn.com/tild3736-6436-4334-b866-316638633032/margaux-2001-2.jpg",
-    "description": "Шато Марго 2001 продолжает развиваться в своей впечатляющей манере. Букет ароматов очень чувственный, доминируют ноты красных, а не темных фруктов. Оно обезоруживает своей чистотой и, кажется, демонстрирует даже больше цветочных оттенков, чем его предшественник 1999. Очень устойчивое и четкое, среднетельное с эластичной текстурой и яркой кислотностью - очень свежее и живое.<br /><br />Wine Advocate, 2016<strong><span style=\"font-size: 14px;\" data-redactor-tag=\"span\"><em></em></span></strong><br /><br /><br /><br /><em><a href=\"https://winetime.moscow/wm-chateau-margaux\" data-redactor-tag=\"a\" style=\"background: transparent; border-bottom: 1px solid rgb(0, 68, 194); box-shadow: rgb(0, 68, 194) 0px -1px 0px 0px inset; color: rgb(34, 40, 204) !important;\">Читать</a> о#nbsp;производителе</em>",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 128700,
-        "url": "https://winetime.moscow/margaux-2001",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2002, 750 ml",
-    "image": "https://static.tildacdn.com/tild6630-3961-4432-b864-616361356164/margaux-2002-2.jpg",
-    "description": "Шато Марго 2002 года - это вино глубокого рубиново-фиолетового цвета, по стилю оно напоминает Марго 1988, только более мощное, концентрированное и объемное. У него элегантный аромат темных фруктов с нотами трюфеля, цветов и дуба. Вино ближе к полнотельному, концентрированное, восхитительно устойчивое и свежее, с долгим густым многомерным послевкусием. <br /><br /> <em>Wine Advocate, 2005</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": "",
-        "url": "https://winetime.moscow/margaux-2002",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "93",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2005, 750 ml",
-    "image": "https://static.tildacdn.com/tild3134-6239-4137-b036-663234646462/margaux-2005.jpg",
-    "description": "У Шато Марго 2005 щедрый аромат черной смородины, новой седельной кожи, цветочных лепестков и пряностей. Дубовая нота уже полностью скрылась за яркой фруктовостью этого полнотельного, чистейшего, восхитительного вина! Это концентрированное, насыщенное, но при этом поразительно элегантное, многомерное вино обладает очень долгим послевкусием (более 45 секунд). Его можно пить сейчас, но знайте, что через 5-10 лет оно станет еще лучше, а прожить может еще по крайней мере 25 лет. <br /><br /> <em>Wine Advocate, 2015</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 227500,
-        "url": "https://winetime.moscow/margaux-2005",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "99",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2006, 750ml",
-    "image": "https://static.tildacdn.com/tild3163-3532-4664-b538-333461666566/margaux-2006.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 137800,
-        "url": "https://winetime.moscow/margaux-2006",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2016, 3000ml",
-    "image": "https://static.tildacdn.com/tild3835-3364-4235-a533-383961373837/margaux-2016-1.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 960000,
-        "url": "https://winetime.moscow/margaux-2016",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2017, 1500ml",
-    "image": "https://static.tildacdn.com/tild6637-3637-4737-a261-373636353338/margaux-2017.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 292500,
-        "url": "https://winetime.moscow/margaux-2017",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 1986, 750 ml",
-    "image": "https://static.tildacdn.com/tild3731-6531-4333-b263-373361383863/Chateau_Margaux_prem.jpg",
-    "description": "«1986 - великолепный образец Шато Марго и один из самых танинных, медленно развивающихся Марго за последние 50 лет. Цвет все еще плотный, рубиново-пурпурный с легким намеком на осветление по краю. После нескольких часов аэрации ароматические вещества поражают нотами дыма, тостов, черносмородинового ликера, минералов и белых цветов. Полнотелое, с высокими, но сладкими танинами, значительной чистотой и очень мужским стилем, это вино, кажется, почти бессмертно, говоря о потенциале выдержки. Оно выходит из детского возраста и близится к подростковому. <a href=\"https://bestofwines.com/wine/france/bordeaux/bordeaux-st-emilion/chateau-angelus/\">Ожидаемая зрелость:</a> 2008-2050 гг.». <br /> <em>Wine advocate, 2003</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 158600,
-        "url": "https://winetime.moscow/chateau-margaux-premier-grand-cru-classe-1986",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "98",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux Premier Grand Cru Classе 2001, 750ml",
-    "image": "https://static.tildacdn.com/tild3736-6436-4334-b866-316638633032/margaux-2001-2.jpg",
-    "description": "Шато Марго 2001 продолжает развиваться в своей впечатляющей манере. Букет ароматов очень чувственный, доминируют ноты красных, а не темных фруктов. Оно обезоруживает своей чистотой и, кажется, демонстрирует даже больше цветочных оттенков, чем его предшественник 1999. Очень устойчивое и четкое, среднетельное с эластичной текстурой и яркой кислотностью - очень свежее и живое.<br /><br />Wine Advocate, 2016<strong><span style=\"font-size: 14px;\" data-redactor-tag=\"span\"><em></em></span></strong><br /><br /><br /><br /><em><a href=\"https://winetime.moscow/wm-chateau-margaux\" data-redactor-tag=\"a\" style=\"background: transparent; border-bottom: 1px solid rgb(0, 68, 194); box-shadow: rgb(0, 68, 194) 0px -1px 0px 0px inset; color: rgb(34, 40, 204) !important;\">Читать</a> о#nbsp;производителе</em>",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 128700,
-        "url": "https://winetime.moscow/margaux-2001",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2002, 750 ml",
-    "image": "https://static.tildacdn.com/tild6630-3961-4432-b864-616361356164/margaux-2002-2.jpg",
-    "description": "Шато Марго 2002 года - это вино глубокого рубиново-фиолетового цвета, по стилю оно напоминает Марго 1988, только более мощное, концентрированное и объемное. У него элегантный аромат темных фруктов с нотами трюфеля, цветов и дуба. Вино ближе к полнотельному, концентрированное, восхитительно устойчивое и свежее, с долгим густым многомерным послевкусием. <br /><br /> <em>Wine Advocate, 2005</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": "",
-        "url": "https://winetime.moscow/margaux-2002",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "93",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2005, 750 ml",
-    "image": "https://static.tildacdn.com/tild3134-6239-4137-b036-663234646462/margaux-2005.jpg",
-    "description": "У Шато Марго 2005 щедрый аромат черной смородины, новой седельной кожи, цветочных лепестков и пряностей. Дубовая нота уже полностью скрылась за яркой фруктовостью этого полнотельного, чистейшего, восхитительного вина! Это концентрированное, насыщенное, но при этом поразительно элегантное, многомерное вино обладает очень долгим послевкусием (более 45 секунд). Его можно пить сейчас, но знайте, что через 5-10 лет оно станет еще лучше, а прожить может еще по крайней мере 25 лет. <br /><br /> <em>Wine Advocate, 2015</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 227500,
-        "url": "https://winetime.moscow/margaux-2005",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "99",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2006, 750ml",
-    "image": "https://static.tildacdn.com/tild3163-3532-4664-b538-333461666566/margaux-2006.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 137800,
-        "url": "https://winetime.moscow/margaux-2006",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2016, 3000ml",
-    "image": "https://static.tildacdn.com/tild3835-3364-4235-a533-383961373837/margaux-2016-1.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 960000,
-        "url": "https://winetime.moscow/margaux-2016",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2017, 1500ml",
-    "image": "https://static.tildacdn.com/tild6637-3637-4737-a261-373636353338/margaux-2017.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 292500,
-        "url": "https://winetime.moscow/margaux-2017",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 1986, 750 ml",
-    "image": "https://static.tildacdn.com/tild3731-6531-4333-b263-373361383863/Chateau_Margaux_prem.jpg",
-    "description": "«1986 - великолепный образец Шато Марго и один из самых танинных, медленно развивающихся Марго за последние 50 лет. Цвет все еще плотный, рубиново-пурпурный с легким намеком на осветление по краю. После нескольких часов аэрации ароматические вещества поражают нотами дыма, тостов, черносмородинового ликера, минералов и белых цветов. Полнотелое, с высокими, но сладкими танинами, значительной чистотой и очень мужским стилем, это вино, кажется, почти бессмертно, говоря о потенциале выдержки. Оно выходит из детского возраста и близится к подростковому. <a href=\"https://bestofwines.com/wine/france/bordeaux/bordeaux-st-emilion/chateau-angelus/\">Ожидаемая зрелость:</a> 2008-2050 гг.». <br /> <em>Wine advocate, 2003</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 158600,
-        "url": "https://winetime.moscow/chateau-margaux-premier-grand-cru-classe-1986",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "98",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux Premier Grand Cru Classе 2001, 750ml",
-    "image": "https://static.tildacdn.com/tild3736-6436-4334-b866-316638633032/margaux-2001-2.jpg",
-    "description": "Шато Марго 2001 продолжает развиваться в своей впечатляющей манере. Букет ароматов очень чувственный, доминируют ноты красных, а не темных фруктов. Оно обезоруживает своей чистотой и, кажется, демонстрирует даже больше цветочных оттенков, чем его предшественник 1999. Очень устойчивое и четкое, среднетельное с эластичной текстурой и яркой кислотностью - очень свежее и живое.<br /><br />Wine Advocate, 2016<strong><span style=\"font-size: 14px;\" data-redactor-tag=\"span\"><em></em></span></strong><br /><br /><br /><br /><em><a href=\"https://winetime.moscow/wm-chateau-margaux\" data-redactor-tag=\"a\" style=\"background: transparent; border-bottom: 1px solid rgb(0, 68, 194); box-shadow: rgb(0, 68, 194) 0px -1px 0px 0px inset; color: rgb(34, 40, 204) !important;\">Читать</a> о#nbsp;производителе</em>",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 128700,
-        "url": "https://winetime.moscow/margaux-2001",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2002, 750 ml",
-    "image": "https://static.tildacdn.com/tild6630-3961-4432-b864-616361356164/margaux-2002-2.jpg",
-    "description": "Шато Марго 2002 года - это вино глубокого рубиново-фиолетового цвета, по стилю оно напоминает Марго 1988, только более мощное, концентрированное и объемное. У него элегантный аромат темных фруктов с нотами трюфеля, цветов и дуба. Вино ближе к полнотельному, концентрированное, восхитительно устойчивое и свежее, с долгим густым многомерным послевкусием. <br /><br /> <em>Wine Advocate, 2005</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": "",
-        "url": "https://winetime.moscow/margaux-2002",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "93",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2005, 750 ml",
-    "image": "https://static.tildacdn.com/tild3134-6239-4137-b036-663234646462/margaux-2005.jpg",
-    "description": "У Шато Марго 2005 щедрый аромат черной смородины, новой седельной кожи, цветочных лепестков и пряностей. Дубовая нота уже полностью скрылась за яркой фруктовостью этого полнотельного, чистейшего, восхитительного вина! Это концентрированное, насыщенное, но при этом поразительно элегантное, многомерное вино обладает очень долгим послевкусием (более 45 секунд). Его можно пить сейчас, но знайте, что через 5-10 лет оно станет еще лучше, а прожить может еще по крайней мере 25 лет. <br /><br /> <em>Wine Advocate, 2015</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 227500,
-        "url": "https://winetime.moscow/margaux-2005",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "99",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2006, 750ml",
-    "image": "https://static.tildacdn.com/tild3163-3532-4664-b538-333461666566/margaux-2006.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 137800,
-        "url": "https://winetime.moscow/margaux-2006",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2016, 3000ml",
-    "image": "https://static.tildacdn.com/tild3835-3364-4235-a533-383961373837/margaux-2016-1.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 960000,
-        "url": "https://winetime.moscow/margaux-2016",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2017, 1500ml",
-    "image": "https://static.tildacdn.com/tild6637-3637-4737-a261-373636353338/margaux-2017.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 292500,
-        "url": "https://winetime.moscow/margaux-2017",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 1986, 750 ml",
-    "image": "https://static.tildacdn.com/tild3731-6531-4333-b263-373361383863/Chateau_Margaux_prem.jpg",
-    "description": "«1986 - великолепный образец Шато Марго и один из самых танинных, медленно развивающихся Марго за последние 50 лет. Цвет все еще плотный, рубиново-пурпурный с легким намеком на осветление по краю. После нескольких часов аэрации ароматические вещества поражают нотами дыма, тостов, черносмородинового ликера, минералов и белых цветов. Полнотелое, с высокими, но сладкими танинами, значительной чистотой и очень мужским стилем, это вино, кажется, почти бессмертно, говоря о потенциале выдержки. Оно выходит из детского возраста и близится к подростковому. <a href=\"https://bestofwines.com/wine/france/bordeaux/bordeaux-st-emilion/chateau-angelus/\">Ожидаемая зрелость:</a> 2008-2050 гг.». <br /> <em>Wine advocate, 2003</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 158600,
-        "url": "https://winetime.moscow/chateau-margaux-premier-grand-cru-classe-1986",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "98",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux Premier Grand Cru Classе 2001, 750ml",
-    "image": "https://static.tildacdn.com/tild3736-6436-4334-b866-316638633032/margaux-2001-2.jpg",
-    "description": "Шато Марго 2001 продолжает развиваться в своей впечатляющей манере. Букет ароматов очень чувственный, доминируют ноты красных, а не темных фруктов. Оно обезоруживает своей чистотой и, кажется, демонстрирует даже больше цветочных оттенков, чем его предшественник 1999. Очень устойчивое и четкое, среднетельное с эластичной текстурой и яркой кислотностью - очень свежее и живое.<br /><br />Wine Advocate, 2016<strong><span style=\"font-size: 14px;\" data-redactor-tag=\"span\"><em></em></span></strong><br /><br /><br /><br /><em><a href=\"https://winetime.moscow/wm-chateau-margaux\" data-redactor-tag=\"a\" style=\"background: transparent; border-bottom: 1px solid rgb(0, 68, 194); box-shadow: rgb(0, 68, 194) 0px -1px 0px 0px inset; color: rgb(34, 40, 204) !important;\">Читать</a> о#nbsp;производителе</em>",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 128700,
-        "url": "https://winetime.moscow/margaux-2001",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2002, 750 ml",
-    "image": "https://static.tildacdn.com/tild6630-3961-4432-b864-616361356164/margaux-2002-2.jpg",
-    "description": "Шато Марго 2002 года - это вино глубокого рубиново-фиолетового цвета, по стилю оно напоминает Марго 1988, только более мощное, концентрированное и объемное. У него элегантный аромат темных фруктов с нотами трюфеля, цветов и дуба. Вино ближе к полнотельному, концентрированное, восхитительно устойчивое и свежее, с долгим густым многомерным послевкусием. <br /><br /> <em>Wine Advocate, 2005</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": "",
-        "url": "https://winetime.moscow/margaux-2002",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "93",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2005, 750 ml",
-    "image": "https://static.tildacdn.com/tild3134-6239-4137-b036-663234646462/margaux-2005.jpg",
-    "description": "У Шато Марго 2005 щедрый аромат черной смородины, новой седельной кожи, цветочных лепестков и пряностей. Дубовая нота уже полностью скрылась за яркой фруктовостью этого полнотельного, чистейшего, восхитительного вина! Это концентрированное, насыщенное, но при этом поразительно элегантное, многомерное вино обладает очень долгим послевкусием (более 45 секунд). Его можно пить сейчас, но знайте, что через 5-10 лет оно станет еще лучше, а прожить может еще по крайней мере 25 лет. <br /><br /> <em>Wine Advocate, 2015</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 227500,
-        "url": "https://winetime.moscow/margaux-2005",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "99",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2006, 750ml",
-    "image": "https://static.tildacdn.com/tild3163-3532-4664-b538-333461666566/margaux-2006.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 137800,
-        "url": "https://winetime.moscow/margaux-2006",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2016, 3000ml",
-    "image": "https://static.tildacdn.com/tild3835-3364-4235-a533-383961373837/margaux-2016-1.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 960000,
-        "url": "https://winetime.moscow/margaux-2016",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2017, 1500ml",
-    "image": "https://static.tildacdn.com/tild6637-3637-4737-a261-373636353338/margaux-2017.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 292500,
-        "url": "https://winetime.moscow/margaux-2017",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 1986, 750 ml",
-    "image": "https://static.tildacdn.com/tild3731-6531-4333-b263-373361383863/Chateau_Margaux_prem.jpg",
-    "description": "«1986 - великолепный образец Шато Марго и один из самых танинных, медленно развивающихся Марго за последние 50 лет. Цвет все еще плотный, рубиново-пурпурный с легким намеком на осветление по краю. После нескольких часов аэрации ароматические вещества поражают нотами дыма, тостов, черносмородинового ликера, минералов и белых цветов. Полнотелое, с высокими, но сладкими танинами, значительной чистотой и очень мужским стилем, это вино, кажется, почти бессмертно, говоря о потенциале выдержки. Оно выходит из детского возраста и близится к подростковому. <a href=\"https://bestofwines.com/wine/france/bordeaux/bordeaux-st-emilion/chateau-angelus/\">Ожидаемая зрелость:</a> 2008-2050 гг.». <br /> <em>Wine advocate, 2003</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 158600,
-        "url": "https://winetime.moscow/chateau-margaux-premier-grand-cru-classe-1986",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "98",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux Premier Grand Cru Classе 2001, 750ml",
-    "image": "https://static.tildacdn.com/tild3736-6436-4334-b866-316638633032/margaux-2001-2.jpg",
-    "description": "Шато Марго 2001 продолжает развиваться в своей впечатляющей манере. Букет ароматов очень чувственный, доминируют ноты красных, а не темных фруктов. Оно обезоруживает своей чистотой и, кажется, демонстрирует даже больше цветочных оттенков, чем его предшественник 1999. Очень устойчивое и четкое, среднетельное с эластичной текстурой и яркой кислотностью - очень свежее и живое.<br /><br />Wine Advocate, 2016<strong><span style=\"font-size: 14px;\" data-redactor-tag=\"span\"><em></em></span></strong><br /><br /><br /><br /><em><a href=\"https://winetime.moscow/wm-chateau-margaux\" data-redactor-tag=\"a\" style=\"background: transparent; border-bottom: 1px solid rgb(0, 68, 194); box-shadow: rgb(0, 68, 194) 0px -1px 0px 0px inset; color: rgb(34, 40, 204) !important;\">Читать</a> о#nbsp;производителе</em>",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 128700,
-        "url": "https://winetime.moscow/margaux-2001",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2002, 750 ml",
-    "image": "https://static.tildacdn.com/tild6630-3961-4432-b864-616361356164/margaux-2002-2.jpg",
-    "description": "Шато Марго 2002 года - это вино глубокого рубиново-фиолетового цвета, по стилю оно напоминает Марго 1988, только более мощное, концентрированное и объемное. У него элегантный аромат темных фруктов с нотами трюфеля, цветов и дуба. Вино ближе к полнотельному, концентрированное, восхитительно устойчивое и свежее, с долгим густым многомерным послевкусием. <br /><br /> <em>Wine Advocate, 2005</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": "",
-        "url": "https://winetime.moscow/margaux-2002",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "93",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux premier grand Cru Classe 2005, 750 ml",
-    "image": "https://static.tildacdn.com/tild3134-6239-4137-b036-663234646462/margaux-2005.jpg",
-    "description": "У Шато Марго 2005 щедрый аромат черной смородины, новой седельной кожи, цветочных лепестков и пряностей. Дубовая нота уже полностью скрылась за яркой фруктовостью этого полнотельного, чистейшего, восхитительного вина! Это концентрированное, насыщенное, но при этом поразительно элегантное, многомерное вино обладает очень долгим послевкусием (более 45 секунд). Его можно пить сейчас, но знайте, что через 5-10 лет оно станет еще лучше, а прожить может еще по крайней мере 25 лет. <br /><br /> <em>Wine Advocate, 2015</em><br />",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 227500,
-        "url": "https://winetime.moscow/margaux-2005",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "99",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2006, 750ml",
-    "image": "https://static.tildacdn.com/tild3163-3532-4664-b538-333461666566/margaux-2006.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 137800,
-        "url": "https://winetime.moscow/margaux-2006",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2016, 3000ml",
-    "image": "https://static.tildacdn.com/tild3835-3364-4235-a533-383961373837/margaux-2016-1.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 960000,
-        "url": "https://winetime.moscow/margaux-2016",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
-        "ratingCount": "1",
-        "worstRating": "50",
-        "bestRating": "100"
-    }
-}
-
-
-
-{
-    "@context": "http://schema.org/",
-    "@type": "Product",
-    "name": "Chateau Margaux 2017, 1500ml",
-    "image": "https://static.tildacdn.com/tild6637-3637-4737-a261-373636353338/margaux-2017.jpg",
-    "description": "",
-    "brand": {
-        "@type": "Brand",
-        "name": "Chateau Margaux"
-    },
-    "offers": {
-        "@type": "Offer",
-        "priceCurrency": "RUB",
-        "price": 292500,
-        "url": "https://winetime.moscow/margaux-2017",
-        "availability": "https://schema.org/InStock",
-        "itemCondition": "https://schema.org/NewCondition"
-    },
-    "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "94",
+        "ratingValue": "France 2;Lafite;Пойяк;Бордо;Редкие вина",
         "ratingCount": "1",
         "worstRating": "50",
         "bestRating": "100"

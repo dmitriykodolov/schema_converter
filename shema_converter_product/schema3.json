@@ -1,0 +1,87 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Product",
+    "name": "Petrus 2007, 750 ml",
+    "image": "https://static.tildacdn.com/tild3164-3930-4935-b961-363832663936/petrus-2007.jpg",
+    "description": "Прекрасный Петрюс 2007 - перый Петрюс за много лет, который можно пить практически немедленно - уже сейчас. Он достаточно объемный для своего винтажа. У него темный сливово-рубиново-фиолетовый цвет и букет ароматов шелковицы, черешни, кедрового дерева и почвы, в нем много фруктов. Вино очень насыщенное, обильное, скорее полнотельное, с шелковистыми танинами и низкой кислотностью. Его можно пить с 2010 по 2025.<br /><br /><span style=\"font-size: 14px;\"><strong><em data-redactor-tag=\"em\">Wine Advocate, 2010</em></strong></span><br /><br /><a href=\"https://winetime.moscow/wm-petrus\" style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; background: transparent; border-bottom: 1px solid rgb(34, 40, 204); font-family: MontSingel, Arial, sans-serif; font-size: 18px; font-weight: 300; box-shadow: rgb(34, 40, 204) 0px -1px 0px 0px inset; color: rgb(34, 40, 204) !important;\">Читать</a> <em>о производителе</em>",
+    "brand": {
+        "@type": "Brand",
+        "name": "Petrus"
+    },
+    "offers": {
+        "@type": "Offer",
+        "priceCurrency": "RUB",
+        "price": "710000.00",
+        "url": "https://winetime.moscow/petrus-2007",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "",
+        "ratingCount": "1",
+        "worstRating": "50",
+        "bestRating": "100"
+    }
+}
+
+
+
+{
+    "@context": "http://schema.org/",
+    "@type": "Product",
+    "name": "Petrus 2007, 750 ml",
+    "image": "https://static.tildacdn.com/tild3164-3930-4935-b961-363832663936/petrus-2007.jpg",
+    "description": "Прекрасный Петрюс 2007 - перый Петрюс за много лет, который можно пить практически немедленно - уже сейчас. Он достаточно объемный для своего винтажа. У него темный сливово-рубиново-фиолетовый цвет и букет ароматов шелковицы, черешни, кедрового дерева и почвы, в нем много фруктов. Вино очень насыщенное, обильное, скорее полнотельное, с шелковистыми танинами и низкой кислотностью. Его можно пить с 2010 по 2025.<br /><br /><span style=\"font-size: 14px;\"><strong><em data-redactor-tag=\"em\">Wine Advocate, 2010</em></strong></span><br /><br /><a href=\"https://winetime.moscow/wm-petrus\" style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; background: transparent; border-bottom: 1px solid rgb(34, 40, 204); font-family: MontSingel, Arial, sans-serif; font-size: 18px; font-weight: 300; box-shadow: rgb(34, 40, 204) 0px -1px 0px 0px inset; color: rgb(34, 40, 204) !important;\">Читать</a> <em>о производителе</em>",
+    "brand": {
+        "@type": "Brand",
+        "name": "Petrus"
+    },
+    "offers": {
+        "@type": "Offer",
+        "priceCurrency": "RUB",
+        "price": "710000.00",
+        "url": "https://winetime.moscow/petrus-2007",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "",
+        "ratingCount": "1",
+        "worstRating": "50",
+        "bestRating": "100"
+    }
+}
+
+
+
+{
+    "@context": "http://schema.org/",
+    "@type": "Product",
+    "name": "Petrus 2007, 750 ml",
+    "image": "https://static.tildacdn.com/tild3164-3930-4935-b961-363832663936/petrus-2007.jpg",
+    "description": "Прекрасный Петрюс 2007 - перый Петрюс за много лет, который можно пить практически немедленно - уже сейчас. Он достаточно объемный для своего винтажа. У него темный сливово-рубиново-фиолетовый цвет и букет ароматов шелковицы, черешни, кедрового дерева и почвы, в нем много фруктов. Вино очень насыщенное, обильное, скорее полнотельное, с шелковистыми танинами и низкой кислотностью. Его можно пить с 2010 по 2025.<br /><br /><span style=\"font-size: 14px;\"><strong><em data-redactor-tag=\"em\">Wine Advocate, 2010</em></strong></span><br /><br /><a href=\"https://winetime.moscow/wm-petrus\" style=\"font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; background: transparent; border-bottom: 1px solid rgb(34, 40, 204); font-family: MontSingel, Arial, sans-serif; font-size: 18px; font-weight: 300; box-shadow: rgb(34, 40, 204) 0px -1px 0px 0px inset; color: rgb(34, 40, 204) !important;\">Читать</a> <em>о производителе</em>",
+    "brand": {
+        "@type": "Brand",
+        "name": "Petrus"
+    },
+    "offers": {
+        "@type": "Offer",
+        "priceCurrency": "RUB",
+        "price": "710000.00",
+        "url": "https://winetime.moscow/petrus-2007",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "",
+        "ratingCount": "1",
+        "worstRating": "50",
+        "bestRating": "100"
+    }
+}
+
+
+
