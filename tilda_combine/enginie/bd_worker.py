@@ -10,7 +10,7 @@ class DataBaseBuilder(CsvToBd):
     def __init__(self, bd_name, table_name, table_path, delimiter):
         super().__init__(table_path, delimiter)
         self.bd_name = bd_name
-        self.table_name =table_name
+        self.table_name = table_name
 
 
     def create_db(self):

@@ -1,10 +1,6 @@
-import sqlite3
 import json
-from product_objects import get_from_title, get_db_columns, connection
+from tilda_combine.enginie.product_objects import get_from_title
 
-
-
-        
 for row in get_from_title(''):
     with open('schema2.json', 'a', newline='\n') as file:
         dict_ = {

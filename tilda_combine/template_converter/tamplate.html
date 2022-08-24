@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel = "stylesheet" href = "card.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class = "flex-container">
+    <div class = "information-block">
+            <h2>{{ name }}</h2>
+            <section>
+                {% if description_ == '' %}
+                <h3>Интересный факт</h3>
+                <p>{{ descriprion_ }}</p>
+                {% endif %}
+            </section>
+            <section>
+                <h3>Терруар</h3>
+                <p>{{ descriprion_ }}</p>
+            </section>
+            <section>
+                <h3>Особенности производства</h3>
+                <p>{{ descriprion_ }}</p>
+            </section>
+            <section class = "btn">
+                <a href="{{ href }}" class = "link">На сайт производителя</a>
+            </section>
+    </div>
+    <div class = "table-block">
+        <table>
+            <tr>
+                <td>Тип</td>
+                <td>Красное, сухое</td>
+            </tr>
+            <tr>
+                <td>Страна</td>
+                <td>Испания</td>
+            </tr>
+            <tr>
+                <td>Регион</td>
+                <td>Рибера-дель-Дуэро</td>
+            </tr>
+            <tr>
+                <td>Субрегион</td>
+                <td> - </td>
+            </tr>
+            <tr>
+                <td>Состав</td>
+                <td>темпранильо, каберне совиньон</td>
+            </tr>
+            <tr>
+                <td>Виноградник</td>
+                <td> 14 га</td>
+            </tr>
+            <tr>
+                <td>Возраст лоз</td>
+                <td>35 лет</td>
+            </tr>
+            <tr>
+                <td>Объем</td>
+                <td>0,75 л</td>
+            </tr>
+            <tr>
+                <td>Алкоголь</td>
+                <td>14%</td>
+            </tr>
+            <tr>
+                <td>Потенциал</td>
+                <td>до 2030 года</td>
+            </tr>
+        </table>
+    </div>
+    <div class = "extra">
+        <h3>Дополнительно</h3>
+        <div class = "critic"><div class = "score" >{{ score_ }}</div><span class = "critic-name">RP</span></div>
+    </div>
+    </div>
+</body>
+</html>

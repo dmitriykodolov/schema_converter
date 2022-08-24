@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "shema_converter"
+name = "schema_converter"
 version = "0.1.0"
 description = ""
 authors = ["dmitriykodolov <kodolovdv@gmail.com>"]
