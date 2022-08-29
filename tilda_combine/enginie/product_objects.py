@@ -20,13 +20,25 @@ class CardObject:
         self.photo = self.get_row('Photo')
         self.country = self.get_row('Characteristics_Страна')
         self.vintage = self.get_row('Characteristics_Винтаж')
-        self.score_rp = self.get_row('Characteristics_RP')
+        self.score_rp = self.get_row('Characteristics_PR')
         self.url = self.get_row('Url')
         self.region = self.get_row('Characteristics_Регион')
         self.sub_region = self.get_row('Characteristics_Субрегион')
         self.blend = self.get_row('Characteristics_Состав')
         self.value = self.get_row('Characteristics_Объем')
         self.vol = self.get_row('Characteristics_Алк_')
+        self.score_ws = self.get_row('Characteristics_WS')
+        self.score_jr = self.get_row('Characteristics_JS')
+        self.type = self.get_row('Characteristics_Тип'),
+        self.button_url = self.get_row('Characteristics_Производитель')
+        self.landscape = self.get_row('Characteristics_Терруар')
+        self.fact = self.get_row('Characteristics_Интересный_факт')
+        self.factory_process = self.get_row('Characteristics_Особенности_производства')
+        self.decanter = self.get_row('Characteristics_Декантер')
+        self.collection = self.get_row('Characteristics_Коллекция')
+        self.potential = self.get_row('Characteristics_Потенциал_зрелости')
+        self.square = self.get_row('Characteristics_Площадь_виноградника')
+        self.vin_age = self.get_row('Characteristics_Возраст_лоз')
 
     def __dir__(self):
         """

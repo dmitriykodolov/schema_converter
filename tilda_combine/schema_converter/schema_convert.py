@@ -44,7 +44,3 @@ class ChemaConverter:
                 json_ = json.dumps(dict_, indent=4, ensure_ascii=False)
                 file.write(json_)
                 file.close()
-
-
-converter = ChemaConverter('../winetime', 'db', 'Margaux')
-converter.created_schema()

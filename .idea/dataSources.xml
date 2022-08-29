@@ -13,35 +13,11 @@
         </library>
       </libraries>
     </data-source>
-    <data-source source="LOCAL" name="winetime" uuid="cb59d26a-8a41-4b12-af0e-9b35f7c1231c">
+    <data-source source="LOCAL" name="winetime" uuid="59998f7d-8d30-4e8c-8f18-a17fea083042">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/shema_converter_product/winetime</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-      <libraries>
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.38.0/sqlite-jdbc-3.38.0.jar</url>
-        </library>
-      </libraries>
-    </data-source>
-    <data-source source="LOCAL" name="winetime [2]" uuid="2efbb59f-acb8-40a4-ad8b-8be68cc6f3f6">
-      <driver-ref>sqlite.xerial</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/winetime</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
-      <libraries>
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.38.0/sqlite-jdbc-3.38.0.jar</url>
-        </library>
-      </libraries>
-    </data-source>
-    <data-source source="LOCAL" name="winetime [3]" uuid="da70d1d8-c2b8-4eeb-ba28-1dc6e6d9f8d7">
-      <driver-ref>sqlite.xerial</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/tilda_combine/winetime</jdbc-url>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/tilda_combine/enginie/winetime</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
       <libraries>
         <library>
