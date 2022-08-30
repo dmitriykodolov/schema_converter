@@ -44,3 +44,6 @@ class ChemaConverter:
                 json_ = json.dumps(dict_, indent=4, ensure_ascii=False)
                 file.write(json_)
                 file.close()
+
+convert = ChemaConverter('../winetime', 'bordeaux', 'Angelus')
+convert.created_schema()

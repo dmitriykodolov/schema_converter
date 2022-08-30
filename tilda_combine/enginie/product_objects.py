@@ -29,7 +29,7 @@ class CardObject:
         self.vol = self.get_row('Characteristics_Алк_')
         self.score_ws = self.get_row('Characteristics_WS')
         self.score_jr = self.get_row('Characteristics_JS')
-        self.type = self.get_row('Characteristics_Тип'),
+        self.wine = self.get_row('Characteristics_Тип')
         self.button_url = self.get_row('Characteristics_Производитель')
         self.landscape = self.get_row('Characteristics_Терруар')
         self.fact = self.get_row('Characteristics_Интересный_факт')

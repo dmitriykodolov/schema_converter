@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel = "stylesheet" href = "card.css">
+    <title>Document</title>
+</head>
+<body>
+    <section class="general">
+        <div class = "flex-container">
+        <div class = "information-block">
+                <h2 class ="text-color-light-gray">{{ card_name }} {{ vintage }}</h2>
+                {% if fact %}
+                <section>
+                    <p class ="title-style">Интересный факт</p>
+                    <p>{{ fact }}</p>
+                </section>
+                {% endif %}
+                {% if landscape %}
+                <section>
+                    <p class ="title-style">Терруар</p>
+                    <p>{{ landscape }}</p>
+                </section>
+                {% endif %}
+                {% if factory_process %}
+                <section>
+                    <p class ="title-style">Особенности производства</p>
+                    <p>{{ factory_process }}</p>
+                </section>
+                {% endif %}
+                {% if button_url %}
+                <section>
+                    <a href="{{button_url}}" class = "btn" rel="nofollow" target="_blank">На сайт производителя</a>
+                </section>
+                {% endif %}
+        </div>
+        <div class = "table-block">
+            <table>
+                {% if wine %}
+                <tr>
+                    <td class ="text-color-light-gray">Тип</td>
+                    <td>{{ wine }}</td>
+                </tr>
+                {% endif %}
+                {% if country %}
+                <tr>
+                    <td class ="text-color-light-gray">Страна</td>
+                    <td><a href="{{country_url}}" target="_blank" rel="nofollow">{{ country }}</a></td>
+                </tr>
+                {% endif %}
+                {% if region %}
+                <tr>
+                    <td class ="text-color-light-gray">Регион</td>
+                    <td><a href="{{region_url}}" target="_blank" rel="nofollow">{{ region }}</a></td>
+                </tr>
+                {% endif %}
+                {% if sub_region %}
+                <tr>
+                    <td class ="text-color-light-gray">Субрегион</td>
+                    <td><a href="{{sub_region_url}}" target="_blank" rel="nofollow">{{ sub_region }}</a></td>
+                </tr>
+                {% endif %}
+                {% if blend %}
+                <tr>
+                    <td class ="text-color-light-gray">Состав</td>
+                    <td>{{ blend }}</td>
+                </tr>
+                {% endif %}
+                {% if square %}
+                <tr>
+                    <td class ="text-color-light-gray">Виноградник</td>
+                    <td>{{ square }}</td>
+                </tr>
+                {% endif %}
+                {% if vin_age %}
+                <tr>
+                    <td class ="text-color-light-gray">Возраст лоз</td>
+                    <td>{{ vin_age }}</td>
+                </tr>
+                {% endif %}
+                {% if value %}
+                <tr>
+                    <td class ="text-color-light-gray">Объем</td>
+                    <td>{{ value }}</td>
+                </tr>
+                {% endif %}
+                {% if vol %}
+                <tr>
+                    <td class ="text-color-light-gray">Алкоголь</td>
+                    <td>{{ vol }}</td>
+                </tr>
+                {% endif %}
+                {% if potential %}
+                <tr>
+                    <td class ="text-color-light-gray">Потенциал</td>
+                    <td>
+                        <strong>{{ potential }}</strong>
+                    </td>
+                </tr>
+                {% endif %}
+            </table>      
+        </div>
+        <div class = "extra">
+            {% if collection %}
+            <div class ="decanter-glass"><img src="glass_pic.svg" alt="Бокал"><span
+                    class = "dg-text">{{ collection }}</span></div>
+            {% endif %}
+            {% if decanter %}
+            <div class ="decanter-glass margin-bottom-20"><img
+                    src="decanter_pic.svg" alt="Декантер"><span
+                    class = "dg-text">{{ decanter }}</span></div>
+            {% endif %}
+            
+            <div>
+                {% if rp %}
+                <div
+                        class = "critic"><div class = "score" ><span>{{ rp }}</span></div><span class = "critic-name">RP
+                </span></div>
+                {% endif %}
+                {% if ws %}
+                <div
+                        class = "critic"><div class = "score" ><span>{{ ws }}</span></div><span class = "critic-name">JR
+                </span></div>
+                {% endif %}
+                {% if jr %}
+                <div
+                        class = "critic"><div class = "score" ><span>{{ jr }}</span></div><span class = "critic-name">WS
+                </span></div>
+                {% endif %}
+            </div>
+
+            <div class = "stock"><span class="stock-text">в наличии</span></div>
+        </div>
+        </div>
+    </section>
+</body>
+</html>
