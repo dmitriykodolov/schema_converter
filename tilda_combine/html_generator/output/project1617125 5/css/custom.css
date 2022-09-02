@@ -1,0 +1,304 @@
+/* ПОДКЛЮЧАЕМ ШРИФТЫ */
+@font-face {
+    font-family: 'MontSingel';
+    src: url('https://static.tildacdn.com/tild6139-6131-4231-a566-383164656138/Mont-Light.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MontSingel';
+    src: url('https://static.tildacdn.com/tild6534-6631-4433-b461-343039353338/fontfabric_-_mont_bo.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+/* ПЕРЕМЕННЫЕ ЦВЕТОВ */
+:root {
+    --color-light-blue: #F9FEFF;
+    --color-gray: #456380;
+    --color-green: #219653;
+    --color-orange: #F2994A;
+    --color-red: #EB5757;
+    --color-bordeaux: #ab2424;
+    --color-light-gray: #848484;
+    --color-black: #4A4A4A;
+    --color-linc: #2f53ad;
+}
+
+/* БЛОК 123 */
+
+.t123 {
+    background-color: var(--color-light-blue);
+}
+
+/* ГЛАВНАЯ СЕКЦИЯ С ФЛЕКСОМ */
+.general {
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: MontSingel, sans-serif;
+    font-weight: 500;
+    font-size: 12px;
+    color: var(--color-black);
+}
+
+.general section p {
+    line-height: 1.5;
+}
+
+.general a {
+    text-decoration: underline;
+    color: var(--color-linc);
+}
+
+h2 {
+    font-size: 23px;
+    color: var(--color-light-gray);
+}
+
+.text-color-light-gray {
+    color: var(--color-light-gray);
+}
+
+.title-style {
+    font-family: MontSingel, sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    /*width: 100%;*/
+    align-items: center;
+    margin: 0 -10px;
+}
+
+
+.information-block {
+    padding: 0 20px;
+    margin: 10px;
+    width: calc(50% - 20px)
+
+}
+
+.information-block section {
+    margin: 40px 0;
+}
+
+.main_btn {
+    border-radius: 5px;
+    width: 195px;
+    height: 45px;
+    background: var(--color-bordeaux);
+    padding: 15px 24px;
+    color: #FFFFFF !important;
+    text-decoration: none !important;
+}
+
+.main_btn {
+    font-weight: 600;
+}
+
+
+.table-block {
+    padding: 0 20px;
+    margin: 10px;
+    width: calc(25% - 20px)
+
+}
+
+
+td {
+    width: 11%;
+    padding: 5px 0px;
+    vertical-align: top;
+}
+
+.extra {
+    padding: 0 20px;
+    margin: 10px;
+    width: calc(25% - 20px)
+
+
+}
+
+.decanter-glass {
+    display: inline-flex;
+
+    border: 1px solid var(--color-bordeaux);
+    border-radius: 7px;
+
+    margin: 5px;
+    align-items: center;
+
+}
+
+.margin-bottom-20 {
+    margin-bottom: 20px;
+}
+
+
+img {
+    padding: 2px;
+}
+
+.dg-text {
+
+    color: var(--color-bordeaux);
+    font-size: 0.8em;
+    line-height: 1;
+    text-align: left;
+    padding: 2px 5px;
+
+
+}
+
+.critic {
+    display: inline-block;
+    width: auto;
+    border: 1px solid var(--color-gray);
+    border-radius: 7px;
+    padding: 2px;
+    margin: 5px;
+
+}
+
+.score {
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 7px;
+    border-style: none;
+
+
+    background: var(--color-gray);
+    color: white;
+    font-size: 0.7em;
+    padding: 7px;
+}
+
+.critic-name {
+    display: inline-block;
+    text-align: center;
+    color: var(--color-gray);
+    font-size: 0.7em;
+    padding: 0.5em;
+
+
+}
+
+/* КЛАСС ЦВЕТОВ RP */
+.rp_green_class {
+    border: 1px solid var(--color-green);
+}
+
+.rp_green_class div {
+    background: var(--color-green);
+    color: var(--color-light-blue) !important;
+}
+
+.rp_green_class > span {
+    color: var(--color-green);
+}
+
+.rp_yellow_class {
+    border: 1px solid var(--color-orange);
+}
+
+.rp_yellow_class div {
+    background: var(--color-orange);
+    color: var(--color-light-blue) !important;
+}
+
+.rp_yellow_class > span {
+    color: var(--color-orange);
+}
+
+/* КЛАСС ЦВЕТОВ WS */
+
+.ws_green_class {
+    border: 1px solid var(--color-green);
+}
+
+.ws_green_class div {
+    background: var(--color-green);
+    color: var(--color-light-blue) !important;
+}
+
+.ws_green_class > span {
+    color: var(--color-green);
+}
+
+.ws_yellow_class {
+    border: 1px solid var(--color-orange);
+}
+
+.ws_yellow_class div {
+    background: var(--color-orange);
+    color: var(--color-light-blue) !important;
+}
+
+.ws_yellow_class > span {
+    color: var(--color-orange);
+}
+
+.stock {
+    display: inline-block;
+    width: auto;
+    border: 1px solid var(--color-green);
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+
+.stock-text {
+    color: var(--color-green);
+    padding: 5px;
+}
+
+
+@media screen and (max-width: 1200px){
+    .general {
+        max-width: 960px;
+    }
+
+    .information-block {
+        padding: 0 20px;
+        margin: 0;
+        width: 50%;
+}
+
+
+}
+
+@media (max-width: 960px) {
+    .general {
+        font-size: 0.7em;
+    }
+
+    .flex-container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .information-block {
+        text-align: center;
+        width: 75%;
+    }
+
+    .table-block {
+        width: 50%;
+    }
+
+    .extra {
+        text-align: center;
+        width: 75%;
+    }
+}

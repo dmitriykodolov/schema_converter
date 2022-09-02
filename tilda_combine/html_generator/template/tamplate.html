@@ -32,7 +32,7 @@
                 {% endif %}
                 {% if button_url %}
                 <section>
-                    <a href="{{button_url}}" class = "btn" rel="nofollow" target="_blank">На сайт производителя</a>
+                    <a href="{{button_url}}" class = "main_btn" rel="nofollow" target="_blank">На сайт производителя</a>
                 </section>
                 {% endif %}
         </div>
@@ -104,29 +104,30 @@
         </div>
         <div class = "extra">
             {% if collection %}
-            <div class ="decanter-glass"><img src="glass_pic.svg" alt="Бокал"><span
+            <div class ="decanter-glass"><img src="https://winetime.moscow/glass_pic.svg" alt="Бокал"><span
                     class = "dg-text">{{ collection }}</span></div>
             {% endif %}
             {% if decanter %}
             <div class ="decanter-glass margin-bottom-20"><img
-                    src="decanter_pic.svg" alt="Декантер"><span
+                    src="https://winetime.moscow/decanter_pic.svg" alt="Декантер"><span
                     class = "dg-text">{{ decanter }}</span></div>
             {% endif %}
             
             <div>
                 {% if rp %}
-                <div
-                        class = "critic"><div class = "score" ><span>{{ rp }}</span></div><span class = "critic-name">RP
+                <div class = "critic {{rp_class}}"><div class = "score" ><span>{{ rp }}</span></div><span class =
+                                                                                                                         "critic-name">RP
                 </span></div>
                 {% endif %}
                 {% if ws %}
                 <div
-                        class = "critic"><div class = "score" ><span>{{ ws }}</span></div><span class = "critic-name">JR
+                        class = "critic {{ws_class}}"><div class = "score" ><span>{{ ws }}</span></div><span class =
+                                                                                                                         "critic-name">WS
                 </span></div>
                 {% endif %}
                 {% if jr %}
                 <div
-                        class = "critic"><div class = "score" ><span>{{ jr }}</span></div><span class = "critic-name">WS
+                        class = "critic"><div class = "score" ><span>{{ jr }}</span></div><span class = "critic-name">JR
                 </span></div>
                 {% endif %}
             </div>

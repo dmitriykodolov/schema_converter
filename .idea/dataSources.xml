@@ -13,11 +13,11 @@
         </library>
       </libraries>
     </data-source>
-    <data-source source="LOCAL" name="winetime" uuid="59998f7d-8d30-4e8c-8f18-a17fea083042">
+    <data-source source="LOCAL" name="winetime [2]" uuid="b17347d4-3963-4523-86cb-b4c39ede3ff4">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/tilda_combine/enginie/winetime</jdbc-url>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/tilda_combine/winetime</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
       <libraries>
         <library>

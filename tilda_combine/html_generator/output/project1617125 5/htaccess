@@ -1,0 +1,1441 @@
+ErrorDocument 403 /page7500011.html
+ErrorDocument 404 /page7500011.html
+
+DirectoryIndex page7220440.html
+
+RewriteEngine On
+
+RewriteCond %{HTTP:X-Forwarded-Proto} =http
+RewriteRule ^(.*)$ https://winetime\.moscow/$1 [R=301,L]
+
+RewriteCond %{HTTP:X-Forwarded-Proto} =https
+RewriteCond %{HTTP_HOST} ^www\.winetime.moscow [NC]
+RewriteRule ^(.*)$ https://winetime\.moscow/$1 [R=301,L]
+
+RewriteCond %{REQUEST_FILENAME} /robots.txt
+RewriteCond "%{DOCUMENT_ROOT}/robots_%{HTTP_HOST}.txt" -f
+RewriteRule ^(.*)$ robots_%{HTTP_HOST}.txt [NC,L]
+RewriteRule ^romanee-conti-collection$ page9548547.html [NC]
+RewriteRule ^romanee-conti-collection/$ page9548547.html [NC]
+
+RewriteRule ^tua-rita-giusto-di-notri-2014$ page8172058.html [NC]
+RewriteRule ^tua-rita-giusto-di-notri-2014/$ page8172058.html [NC]
+
+RewriteRule ^region-st-emilion$ page15794481.html [NC]
+RewriteRule ^region-st-emilion/$ page15794481.html [NC]
+
+RewriteRule ^wm-petrus$ page8474944.html [NC]
+RewriteRule ^wm-petrus/$ page8474944.html [NC]
+
+RewriteRule ^angleus-1999$ page16085374.html [NC]
+RewriteRule ^angleus-1999/$ page16085374.html [NC]
+
+RewriteRule ^gaja-conteisa-2001$ page20730062.html [NC]
+RewriteRule ^gaja-conteisa-2001/$ page20730062.html [NC]
+
+RewriteRule ^biondi-santi-chapter1$ page8098559.html [NC]
+RewriteRule ^biondi-santi-chapter1/$ page8098559.html [NC]
+
+RewriteRule ^gaja-conteisa-2009$ page21060918.html [NC]
+RewriteRule ^gaja-conteisa-2009/$ page21060918.html [NC]
+
+RewriteRule ^chateau-angelus-premier-grand-cru-classe-2004$ page9317718.html [NC]
+RewriteRule ^chateau-angelus-premier-grand-cru-classe-2004/$ page9317718.html [NC]
+
+RewriteRule ^shop$ page7281544.html [NC]
+RewriteRule ^shop/$ page7281544.html [NC]
+
+RewriteRule ^chateau-baccarat-decanter$ page19916512.html [NC]
+RewriteRule ^chateau-baccarat-decanter/$ page19916512.html [NC]
+
+RewriteRule ^gaja-conteisa-2010$ page21062235.html [NC]
+RewriteRule ^gaja-conteisa-2010/$ page21062235.html [NC]
+
+RewriteRule ^bordeaux-1982$ page9538446.html [NC]
+RewriteRule ^bordeaux-1982/$ page9538446.html [NC]
+
+RewriteRule ^cos-d-estournel-2005$ page23631053.html [NC]
+RewriteRule ^cos-d-estournel-2005/$ page23631053.html [NC]
+
+RewriteRule ^angleus-2008$ page16691943.html [NC]
+RewriteRule ^angleus-2008/$ page16691943.html [NC]
+
+RewriteRule ^gaja-conteisa-barolo-2013$ page21062423.html [NC]
+RewriteRule ^gaja-conteisa-barolo-2013/$ page21062423.html [NC]
+
+RewriteRule ^header$ page7370535.html [NC]
+RewriteRule ^header/$ page7370535.html [NC]
+
+RewriteRule ^latour-1949$ page9544307.html [NC]
+RewriteRule ^latour-1949/$ page9544307.html [NC]
+
+RewriteRule ^footer$ page7384839.html [NC]
+RewriteRule ^footer/$ page7384839.html [NC]
+
+RewriteRule ^cos-d-estournel-2012$ page23631743.html [NC]
+RewriteRule ^cos-d-estournel-2012/$ page23631743.html [NC]
+
+RewriteRule ^angelus-2015$ page16692136.html [NC]
+RewriteRule ^angelus-2015/$ page16692136.html [NC]
+
+RewriteRule ^gaja-conteisa-barolo-2015$ page21062604.html [NC]
+RewriteRule ^gaja-conteisa-barolo-2015/$ page21062604.html [NC]
+
+RewriteRule ^about$ page7384911.html [NC]
+RewriteRule ^about/$ page7384911.html [NC]
+
+RewriteRule ^chateau-mouton-rothschild-1982$ page7941466.html [NC]
+RewriteRule ^chateau-mouton-rothschild-1982/$ page7941466.html [NC]
+
+RewriteRule ^cos-d-estournel-1995$ page23630197.html [NC]
+RewriteRule ^cos-d-estournel-1995/$ page23630197.html [NC]
+
+RewriteRule ^gaja-sperss-1996$ page21062845.html [NC]
+RewriteRule ^gaja-sperss-1996/$ page21062845.html [NC]
+
+RewriteRule ^cos-d-estournel-2011$ page23631538.html [NC]
+RewriteRule ^cos-d-estournel-2011/$ page23631538.html [NC]
+
+RewriteRule ^rauzan-segla-2017$ page23633087.html [NC]
+RewriteRule ^rauzan-segla-2017/$ page23633087.html [NC]
+
+RewriteRule ^gaja-sperss-2008$ page21063129.html [NC]
+RewriteRule ^gaja-sperss-2008/$ page21063129.html [NC]
+
+RewriteRule ^chateau-mouton-rothschild-2000$ page7944444.html [NC]
+RewriteRule ^chateau-mouton-rothschild-2000/$ page7944444.html [NC]
+
+RewriteRule ^cos-d-estournel-2014$ page23632148.html [NC]
+RewriteRule ^cos-d-estournel-2014/$ page23632148.html [NC]
+
+RewriteRule ^biondi-santi-brunello-di-montalcino-riserva-1957$ page7957552.html [NC]
+RewriteRule ^biondi-santi-brunello-di-montalcino-riserva-1957/$ page7957552.html [NC]
+
+RewriteRule ^chateau-lascombes-2015$ page23635079.html [NC]
+RewriteRule ^chateau-lascombes-2015/$ page23635079.html [NC]
+
+RewriteRule ^b2c$ page7510920.html [NC]
+RewriteRule ^b2c/$ page7510920.html [NC]
+
+RewriteRule ^gaja-barolo-2014$ page21063323.html [NC]
+RewriteRule ^gaja-barolo-2014/$ page21063323.html [NC]
+
+RewriteRule ^gaja-barbaresco-2012$ page13324210.html [NC]
+RewriteRule ^gaja-barbaresco-2012/$ page13324210.html [NC]
+
+RewriteRule ^chateau-lascombes-2016$ page23636004.html [NC]
+RewriteRule ^chateau-lascombes-2016/$ page23636004.html [NC]
+
+RewriteRule ^beau-sejour-beco-2003$ page21113661.html [NC]
+RewriteRule ^beau-sejour-beco-2003/$ page21113661.html [NC]
+
+RewriteRule ^b2b$ page7511169.html [NC]
+RewriteRule ^b2b/$ page7511169.html [NC]
+
+RewriteRule ^gaja-sperss-barolo-2016$ page21063625.html [NC]
+RewriteRule ^gaja-sperss-barolo-2016/$ page21063625.html [NC]
+
+RewriteRule ^gaja-barbaresco-2013$ page13324523.html [NC]
+RewriteRule ^gaja-barbaresco-2013/$ page13324523.html [NC]
+
+RewriteRule ^tua-rita-redigaffi-2001-double-magnum$ page7959210.html [NC]
+RewriteRule ^tua-rita-redigaffi-2001-double-magnum/$ page7959210.html [NC]
+
+RewriteRule ^biondi-santi-annata-1995$ page21074899.html [NC]
+RewriteRule ^biondi-santi-annata-1995/$ page21074899.html [NC]
+
+RewriteRule ^beau-sejour-becot-2012$ page21114076.html [NC]
+RewriteRule ^beau-sejour-becot-2012/$ page21114076.html [NC]
+
+RewriteRule ^gaja-barbaresco-2015$ page13324782.html [NC]
+RewriteRule ^gaja-barbaresco-2015/$ page13324782.html [NC]
+
+RewriteRule ^beau-sejour-becot-2014$ page21114197.html [NC]
+RewriteRule ^beau-sejour-becot-2014/$ page21114197.html [NC]
+
+RewriteRule ^gaja-barbaresco-2016$ page13325155.html [NC]
+RewriteRule ^gaja-barbaresco-2016/$ page13325155.html [NC]
+
+RewriteRule ^biondi-santi-annata-2001$ page21075625.html [NC]
+RewriteRule ^biondi-santi-annata-2001/$ page21075625.html [NC]
+
+RewriteRule ^collectors$ page7532028.html [NC]
+RewriteRule ^collectors/$ page7532028.html [NC]
+
+RewriteRule ^gaja-sori-tildin-langhe-1999-double-magnum$ page7960073.html [NC]
+RewriteRule ^gaja-sori-tildin-langhe-1999-double-magnum/$ page7960073.html [NC]
+
+RewriteRule ^biondi-santi-annata-2003$ page21075734.html [NC]
+RewriteRule ^biondi-santi-annata-2003/$ page21075734.html [NC]
+
+RewriteRule ^l-evangile-2010$ page23637285.html [NC]
+RewriteRule ^l-evangile-2010/$ page23637285.html [NC]
+
+RewriteRule ^terms$ page7532142.html [NC]
+RewriteRule ^terms/$ page7532142.html [NC]
+
+RewriteRule ^beau-sejour-becot-2015$ page9375103.html [NC]
+RewriteRule ^beau-sejour-becot-2015/$ page9375103.html [NC]
+
+RewriteRule ^gaja-darmagi-2004$ page13325705.html [NC]
+RewriteRule ^gaja-darmagi-2004/$ page13325705.html [NC]
+
+RewriteRule ^biondi-santi-annata-2004$ page21076237.html [NC]
+RewriteRule ^biondi-santi-annata-2004/$ page21076237.html [NC]
+
+RewriteRule ^margaux-2006$ page23637539.html [NC]
+RewriteRule ^margaux-2006/$ page23637539.html [NC]
+
+RewriteRule ^contacts$ page7689811.html [NC]
+RewriteRule ^contacts/$ page7689811.html [NC]
+
+RewriteRule ^gaja-darmagi-2005$ page13326198.html [NC]
+RewriteRule ^gaja-darmagi-2005/$ page13326198.html [NC]
+
+RewriteRule ^gaja-sori-tildin-langhe-2000-3l$ page7960282.html [NC]
+RewriteRule ^gaja-sori-tildin-langhe-2000-3l/$ page7960282.html [NC]
+
+RewriteRule ^biondi-santi-annata-2006$ page21076493.html [NC]
+RewriteRule ^biondi-santi-annata-2006/$ page21076493.html [NC]
+
+RewriteRule ^gaja-darmagi-2008$ page13326474.html [NC]
+RewriteRule ^gaja-darmagi-2008/$ page13326474.html [NC]
+
+RewriteRule ^l-evangile-1985$ page24154319.html [NC]
+RewriteRule ^l-evangile-1985/$ page24154319.html [NC]
+
+RewriteRule ^margaux-2017$ page23638257.html [NC]
+RewriteRule ^margaux-2017/$ page23638257.html [NC]
+
+RewriteRule ^l-evangile-2002$ page23637042.html [NC]
+RewriteRule ^l-evangile-2002/$ page23637042.html [NC]
+
+RewriteRule ^gaja-darmagi-2013$ page13326651.html [NC]
+RewriteRule ^gaja-darmagi-2013/$ page13326651.html [NC]
+
+RewriteRule ^collections$ page7824725.html [NC]
+RewriteRule ^collections/$ page7824725.html [NC]
+
+RewriteRule ^domaine-de-la-pousse-2019$ page23638400.html [NC]
+RewriteRule ^domaine-de-la-pousse-2019/$ page23638400.html [NC]
+
+RewriteRule ^biondi-santi-annata-2009$ page21078980.html [NC]
+RewriteRule ^biondi-santi-annata-2009/$ page21078980.html [NC]
+
+RewriteRule ^biondi-santi-annata-2011$ page21079073.html [NC]
+RewriteRule ^biondi-santi-annata-2011/$ page21079073.html [NC]
+
+RewriteRule ^domaine-du-comte-armand-2018$ page23639133.html [NC]
+RewriteRule ^domaine-du-comte-armand-2018/$ page23639133.html [NC]
+
+RewriteRule ^gaja-darmagi-2015$ page13327006.html [NC]
+RewriteRule ^gaja-darmagi-2015/$ page13327006.html [NC]
+
+RewriteRule ^l-evangile-2008$ page23637213.html [NC]
+RewriteRule ^l-evangile-2008/$ page23637213.html [NC]
+
+RewriteRule ^gaja-darmagi-2016$ page13327171.html [NC]
+RewriteRule ^gaja-darmagi-2016/$ page13327171.html [NC]
+
+RewriteRule ^chateau-de-beaucastel-1994$ page23639646.html [NC]
+RewriteRule ^chateau-de-beaucastel-1994/$ page23639646.html [NC]
+
+RewriteRule ^ducru-beaucaillou-grand-cru-classe-2009$ page8155839.html [NC]
+RewriteRule ^ducru-beaucaillou-grand-cru-classe-2009/$ page8155839.html [NC]
+
+RewriteRule ^gaja-sperss-2000$ page13327640.html [NC]
+RewriteRule ^gaja-sperss-2000/$ page13327640.html [NC]
+
+RewriteRule ^galatrona-2005$ page21079349.html [NC]
+RewriteRule ^galatrona-2005/$ page21079349.html [NC]
+
+RewriteRule ^ducru-2010$ page16785223.html [NC]
+RewriteRule ^ducru-2010/$ page16785223.html [NC]
+
+RewriteRule ^chateau-de-beaucastel-2005$ page23640470.html [NC]
+RewriteRule ^chateau-de-beaucastel-2005/$ page23640470.html [NC]
+
+RewriteRule ^chateau-de-beaucastel-2009$ page23640608.html [NC]
+RewriteRule ^chateau-de-beaucastel-2009/$ page23640608.html [NC]
+
+RewriteRule ^ducru-2011$ page16785549.html [NC]
+RewriteRule ^ducru-2011/$ page16785549.html [NC]
+
+RewriteRule ^gaja-sperss-2011$ page13328075.html [NC]
+RewriteRule ^gaja-sperss-2011/$ page13328075.html [NC]
+
+RewriteRule ^galatrona-2010$ page21080813.html [NC]
+RewriteRule ^galatrona-2010/$ page21080813.html [NC]
+
+RewriteRule ^cheval-blanc-2001$ page16795445.html [NC]
+RewriteRule ^cheval-blanc-2001/$ page16795445.html [NC]
+
+RewriteRule ^petrolo-galatrona-2016$ page21080898.html [NC]
+RewriteRule ^petrolo-galatrona-2016/$ page21080898.html [NC]
+
+RewriteRule ^gaja-sperss-2013$ page13328772.html [NC]
+RewriteRule ^gaja-sperss-2013/$ page13328772.html [NC]
+
+RewriteRule ^chateau-de-beaucastel-2015$ page23640785.html [NC]
+RewriteRule ^chateau-de-beaucastel-2015/$ page23640785.html [NC]
+
+RewriteRule ^telegraphe-la-crau-2016$ page23641405.html [NC]
+RewriteRule ^telegraphe-la-crau-2016/$ page23641405.html [NC]
+
+RewriteRule ^luce-1997-magnum$ page21084788.html [NC]
+RewriteRule ^luce-1997-magnum/$ page21084788.html [NC]
+
+RewriteRule ^cheval-blanc-2005$ page16795548.html [NC]
+RewriteRule ^cheval-blanc-2005/$ page16795548.html [NC]
+
+RewriteRule ^gaja-sperss-2015$ page13328314.html [NC]
+RewriteRule ^gaja-sperss-2015/$ page13328314.html [NC]
+
+RewriteRule ^chateau-cheval-blanc-premier-grand-cru-classe-2006$ page8154176.html [NC]
+RewriteRule ^chateau-cheval-blanc-premier-grand-cru-classe-2006/$ page8154176.html [NC]
+
+RewriteRule ^luce-1999$ page21085312.html [NC]
+RewriteRule ^luce-1999/$ page21085312.html [NC]
+
+RewriteRule ^telegraphe-la-crau-2017$ page23641588.html [NC]
+RewriteRule ^telegraphe-la-crau-2017/$ page23641588.html [NC]
+
+RewriteRule ^telegraphe-la-crau-2018$ page23641795.html [NC]
+RewriteRule ^telegraphe-la-crau-2018/$ page23641795.html [NC]
+
+RewriteRule ^luce-2000$ page21087186.html [NC]
+RewriteRule ^luce-2000/$ page21087186.html [NC]
+
+RewriteRule ^cheval-blanc-2012$ page16795608.html [NC]
+RewriteRule ^cheval-blanc-2012/$ page16795608.html [NC]
+
+RewriteRule ^figeac-2012$ page21240069.html [NC]
+RewriteRule ^figeac-2012/$ page21240069.html [NC]
+
+RewriteRule ^luce-2001-2$ page21087289.html [NC]
+RewriteRule ^luce-2001-2/$ page21087289.html [NC]
+
+RewriteRule ^vega-sicilia-unico-2011$ page23641845.html [NC]
+RewriteRule ^vega-sicilia-unico-2011/$ page23641845.html [NC]
+
+RewriteRule ^blog$ page8099574.html [NC]
+RewriteRule ^blog/$ page8099574.html [NC]
+
+RewriteRule ^chateau-angelus-premier-grand-cru-classe-1998$ page8153096.html [NC]
+RewriteRule ^chateau-angelus-premier-grand-cru-classe-1998/$ page8153096.html [NC]
+
+RewriteRule ^figeac-2014$ page23509841.html [NC]
+RewriteRule ^figeac-2014/$ page23509841.html [NC]
+
+RewriteRule ^opus-one-1996$ page25363194.html [NC]
+RewriteRule ^opus-one-1996/$ page25363194.html [NC]
+
+RewriteRule ^luce-2005$ page21087740.html [NC]
+RewriteRule ^luce-2005/$ page21087740.html [NC]
+
+RewriteRule ^luce-2008$ page21103452.html [NC]
+RewriteRule ^luce-2008/$ page21103452.html [NC]
+
+RewriteRule ^chateau-angelus-premier-grand-cru-classe-2001$ page8153182.html [NC]
+RewriteRule ^chateau-angelus-premier-grand-cru-classe-2001/$ page8153182.html [NC]
+
+RewriteRule ^figeac-2015$ page16700110.html [NC]
+RewriteRule ^figeac-2015/$ page16700110.html [NC]
+
+RewriteRule ^opus-one-2016$ page25363943.html [NC]
+RewriteRule ^opus-one-2016/$ page25363943.html [NC]
+
+RewriteRule ^luce-2013-2$ page21103684.html [NC]
+RewriteRule ^luce-2013-2/$ page21103684.html [NC]
+
+RewriteRule ^gaja-sori-san-lorenzo-1996$ page25760850.html [NC]
+RewriteRule ^gaja-sori-san-lorenzo-1996/$ page25760850.html [NC]
+
+RewriteRule ^chateau-haut-brion-premier-cru-classe-1990$ page8157610.html [NC]
+RewriteRule ^chateau-haut-brion-premier-cru-classe-1990/$ page8157610.html [NC]
+
+RewriteRule ^chateau-angelus-premier-grand-cru-classe-2003$ page8153266.html [NC]
+RewriteRule ^chateau-angelus-premier-grand-cru-classe-2003/$ page8153266.html [NC]
+
+RewriteRule ^chateau-angelus-premier-grand-cru-classe-2009$ page8153358.html [NC]
+RewriteRule ^chateau-angelus-premier-grand-cru-classe-2009/$ page8153358.html [NC]
+
+RewriteRule ^il-poggione-2012$ page21103947.html [NC]
+RewriteRule ^il-poggione-2012/$ page21103947.html [NC]
+
+RewriteRule ^chateau-haut-brion-premier-cru-classe-1995$ page8158160.html [NC]
+RewriteRule ^chateau-haut-brion-premier-cru-classe-1995/$ page8158160.html [NC]
+
+RewriteRule ^caymus-special-selection-2007$ page26603746.html [NC]
+RewriteRule ^caymus-special-selection-2007/$ page26603746.html [NC]
+
+RewriteRule ^caymus-special-selection-2013$ page26604363.html [NC]
+RewriteRule ^caymus-special-selection-2013/$ page26604363.html [NC]
+
+RewriteRule ^chateau-haut-brion-2005$ page9317973.html [NC]
+RewriteRule ^chateau-haut-brion-2005/$ page9317973.html [NC]
+
+RewriteRule ^il-poggione-2014$ page21104770.html [NC]
+RewriteRule ^il-poggione-2014/$ page21104770.html [NC]
+
+RewriteRule ^chateau-angelus-premier-grand-cru-classe-2006$ page8153770.html [NC]
+RewriteRule ^chateau-angelus-premier-grand-cru-classe-2006/$ page8153770.html [NC]
+
+RewriteRule ^chateau-cheval-blanc-premier-grand-cru-classe-1982$ page8153864.html [NC]
+RewriteRule ^chateau-cheval-blanc-premier-grand-cru-classe-1982/$ page8153864.html [NC]
+
+RewriteRule ^il-poggione-2015$ page21104913.html [NC]
+RewriteRule ^il-poggione-2015/$ page21104913.html [NC]
+
+RewriteRule ^caymus-special-selection-2014$ page26604943.html [NC]
+RewriteRule ^caymus-special-selection-2014/$ page26604943.html [NC]
+
+RewriteRule ^haut-brion-2011$ page14928277.html [NC]
+RewriteRule ^haut-brion-2011/$ page14928277.html [NC]
+
+RewriteRule ^chateau-haut-brion-2012$ page27966032.html [NC]
+RewriteRule ^chateau-haut-brion-2012/$ page27966032.html [NC]
+
+RewriteRule ^mysigny-cgv-2010$ page27335084.html [NC]
+RewriteRule ^mysigny-cgv-2010/$ page27335084.html [NC]
+
+RewriteRule ^vietti-barolo-castiglione-2016$ page21105135.html [NC]
+RewriteRule ^vietti-barolo-castiglione-2016/$ page21105135.html [NC]
+
+RewriteRule ^vietti-barolo-lazzarito-1994$ page21105976.html [NC]
+RewriteRule ^vietti-barolo-lazzarito-1994/$ page21105976.html [NC]
+
+RewriteRule ^musigny-cgdv-2011$ page27336052.html [NC]
+RewriteRule ^musigny-cgdv-2011/$ page27336052.html [NC]
+
+RewriteRule ^chateau-lafite-rothschild-1995-15l$ page21720206.html [NC]
+RewriteRule ^chateau-lafite-rothschild-1995-15l/$ page21720206.html [NC]
+
+RewriteRule ^chateau-beau-sejour-becot-2009$ page8154341.html [NC]
+RewriteRule ^chateau-beau-sejour-becot-2009/$ page8154341.html [NC]
+
+RewriteRule ^lafite-1998$ page11281177.html [NC]
+RewriteRule ^lafite-1998/$ page11281177.html [NC]
+
+RewriteRule ^chateau-cos-destournel-grand-cru-classe-2003$ page8154517.html [NC]
+RewriteRule ^chateau-cos-destournel-grand-cru-classe-2003/$ page8154517.html [NC]
+
+RewriteRule ^monbousquet-2015$ page27639451.html [NC]
+RewriteRule ^monbousquet-2015/$ page27639451.html [NC]
+
+RewriteRule ^vietti-barolo-lazzarito-2011$ page21106338.html [NC]
+RewriteRule ^vietti-barolo-lazzarito-2011/$ page21106338.html [NC]
+
+RewriteRule ^chateau-lafite-2002$ page21241189.html [NC]
+RewriteRule ^chateau-lafite-2002/$ page21241189.html [NC]
+
+RewriteRule ^ducru-beaucaillou-grand-cru-classe-1996$ page8155546.html [NC]
+RewriteRule ^ducru-beaucaillou-grand-cru-classe-1996/$ page8155546.html [NC]
+
+RewriteRule ^vietti-barolo-lazzarito-2013$ page21106150.html [NC]
+RewriteRule ^vietti-barolo-lazzarito-2013/$ page21106150.html [NC]
+
+RewriteRule ^ducru-beaucaillou-grand-cru-classe-2008$ page8155665.html [NC]
+RewriteRule ^ducru-beaucaillou-grand-cru-classe-2008/$ page8155665.html [NC]
+
+RewriteRule ^chateau-angelus-1995$ page27967117.html [NC]
+RewriteRule ^chateau-angelus-1995/$ page27967117.html [NC]
+
+RewriteRule ^lafite-2003$ page11281371.html [NC]
+RewriteRule ^lafite-2003/$ page11281371.html [NC]
+
+RewriteRule ^chasse-spleen-2003$ page28873109.html [NC]
+RewriteRule ^chasse-spleen-2003/$ page28873109.html [NC]
+
+RewriteRule ^lafite-rothschild-2006$ page11234737.html [NC]
+RewriteRule ^lafite-rothschild-2006/$ page11234737.html [NC]
+
+RewriteRule ^chateau-lafite-2012-magnum$ page21722914.html [NC]
+RewriteRule ^chateau-lafite-2012-magnum/$ page21722914.html [NC]
+
+RewriteRule ^chasse-spleen-2006$ page28951617.html [NC]
+RewriteRule ^chasse-spleen-2006/$ page28951617.html [NC]
+
+RewriteRule ^ducru-beaucaillou-grand-cru-classe-2005$ page8155896.html [NC]
+RewriteRule ^ducru-beaucaillou-grand-cru-classe-2005/$ page8155896.html [NC]
+
+RewriteRule ^chasse-spleen-2008$ page28951822.html [NC]
+RewriteRule ^chasse-spleen-2008/$ page28951822.html [NC]
+
+RewriteRule ^ducru-beaucaillou-grand-cru-classe-2000$ page8156070.html [NC]
+RewriteRule ^ducru-beaucaillou-grand-cru-classe-2000/$ page8156070.html [NC]
+
+RewriteRule ^chateau-latour-1982$ page9318139.html [NC]
+RewriteRule ^chateau-latour-1982/$ page9318139.html [NC]
+
+RewriteRule ^chasse-spleen-2016$ page28951880.html [NC]
+RewriteRule ^chasse-spleen-2016/$ page28951880.html [NC]
+
+RewriteRule ^chateau-latour-1990$ page9318143.html [NC]
+RewriteRule ^chateau-latour-1990/$ page9318143.html [NC]
+
+RewriteRule ^chateau-latour-1995$ page9318146.html [NC]
+RewriteRule ^chateau-latour-1995/$ page9318146.html [NC]
+
+RewriteRule ^chateau-mouton-rothschild-1982-2$ page8156423.html [NC]
+RewriteRule ^chateau-mouton-rothschild-1982-2/$ page8156423.html [NC]
+
+RewriteRule ^chateau-rieussec-2007$ page28873146.html [NC]
+RewriteRule ^chateau-rieussec-2007/$ page28873146.html [NC]
+
+RewriteRule ^chateau-latour-2002$ page9376549.html [NC]
+RewriteRule ^chateau-latour-2002/$ page9376549.html [NC]
+
+RewriteRule ^chateau-rieussec-2010$ page28998004.html [NC]
+RewriteRule ^chateau-rieussec-2010/$ page28998004.html [NC]
+
+RewriteRule ^domaine-thomas-morey-2018$ page28873193.html [NC]
+RewriteRule ^domaine-thomas-morey-2018/$ page28873193.html [NC]
+
+RewriteRule ^chateau-latour-premier-grand-cru-classe-2004$ page8156142.html [NC]
+RewriteRule ^chateau-latour-premier-grand-cru-classe-2004/$ page8156142.html [NC]
+
+RewriteRule ^chateau-latour-2005$ page9376581.html [NC]
+RewriteRule ^chateau-latour-2005/$ page9376581.html [NC]
+
+RewriteRule ^chateau-margaux-premier-grand-cru-classe-1986$ page8161209.html [NC]
+RewriteRule ^chateau-margaux-premier-grand-cru-classe-1986/$ page8161209.html [NC]
+
+RewriteRule ^margaux-2001$ page14851224.html [NC]
+RewriteRule ^margaux-2001/$ page14851224.html [NC]
+
+RewriteRule ^margaux-2002$ page16792560.html [NC]
+RewriteRule ^margaux-2002/$ page16792560.html [NC]
+
+RewriteRule ^chateau-haut-brion-premier-cru-classe-2000$ page8158258.html [NC]
+RewriteRule ^chateau-haut-brion-premier-cru-classe-2000/$ page8158258.html [NC]
+
+RewriteRule ^margaux-2005$ page16793954.html [NC]
+RewriteRule ^margaux-2005/$ page16793954.html [NC]
+
+RewriteRule ^margaux-2016$ page24154751.html [NC]
+RewriteRule ^margaux-2016/$ page24154751.html [NC]
+
+RewriteRule ^chateau-haut-brion-premier-cru-classe-2003$ page8158375.html [NC]
+RewriteRule ^chateau-haut-brion-premier-cru-classe-2003/$ page8158375.html [NC]
+
+RewriteRule ^chateau-leoville-barton-cru-classe-2003$ page8158512.html [NC]
+RewriteRule ^chateau-leoville-barton-cru-classe-2003/$ page8158512.html [NC]
+
+RewriteRule ^chateau-mouton-1988-5l$ page21721311.html [NC]
+RewriteRule ^chateau-mouton-1988-5l/$ page21721311.html [NC]
+
+RewriteRule ^petrus-2001$ page8158740.html [NC]
+RewriteRule ^petrus-2001/$ page8158740.html [NC]
+
+RewriteRule ^chateau-mouton-1994-3l$ page21721214.html [NC]
+RewriteRule ^chateau-mouton-1994-3l/$ page21721214.html [NC]
+
+RewriteRule ^romanee-conti-romanee-saint-vivant-grand-cru-2009$ page8159044.html [NC]
+RewriteRule ^romanee-conti-romanee-saint-vivant-grand-cru-2009/$ page8159044.html [NC]
+
+RewriteRule ^chateau-mouton-rothschild-1995$ page21203559.html [NC]
+RewriteRule ^chateau-mouton-rothschild-1995/$ page21203559.html [NC]
+
+RewriteRule ^chateau-mouton-rothschild-2003$ page21203694.html [NC]
+RewriteRule ^chateau-mouton-rothschild-2003/$ page21203694.html [NC]
+
+RewriteRule ^mouton-2005$ page16784808.html [NC]
+RewriteRule ^mouton-2005/$ page16784808.html [NC]
+
+RewriteRule ^musigny-grand-cru-cuvee-vieilles-vignes-1990$ page8159400.html [NC]
+RewriteRule ^musigny-grand-cru-cuvee-vieilles-vignes-1990/$ page8159400.html [NC]
+
+RewriteRule ^mouton-2009$ page16784997.html [NC]
+RewriteRule ^mouton-2009/$ page16784997.html [NC]
+
+RewriteRule ^chateaupapeclement-grand-cru-classe-de-graves-2011$ page8161390.html [NC]
+RewriteRule ^chateaupapeclement-grand-cru-classe-de-graves-2011/$ page8161390.html [NC]
+
+RewriteRule ^chateau-margaux-premier-grand-cru-classe-1999$ page8161652.html [NC]
+RewriteRule ^chateau-margaux-premier-grand-cru-classe-1999/$ page8161652.html [NC]
+
+RewriteRule ^chateau-margaux-premier-grand-cru-classe-2003$ page8161880.html [NC]
+RewriteRule ^chateau-margaux-premier-grand-cru-classe-2003/$ page8161880.html [NC]
+
+RewriteRule ^domaine-leflaive-batard-montrachet-grand-cru-2013$ page8162090.html [NC]
+RewriteRule ^domaine-leflaive-batard-montrachet-grand-cru-2013/$ page8162090.html [NC]
+
+RewriteRule ^domaine-leflaive-bienvenues-batard-montrachet-grand-cru-2016$ page8162194.html [NC]
+RewriteRule ^domaine-leflaive-bienvenues-batard-montrachet-grand-cru-2016/$ page8162194.html [NC]
+
+RewriteRule ^domaine-leflaive-bienvenues-batard-montrachet-grand-cru-2009$ page8163582.html [NC]
+RewriteRule ^domaine-leflaive-bienvenues-batard-montrachet-grand-cru-2009/$ page8163582.html [NC]
+
+RewriteRule ^domaine-leflaive-chevalier-montrachet-grand-cru-2009$ page8163834.html [NC]
+RewriteRule ^domaine-leflaive-chevalier-montrachet-grand-cru-2009/$ page8163834.html [NC]
+
+RewriteRule ^chateau-mouton-rothschild-1987$ page8164717.html [NC]
+RewriteRule ^chateau-mouton-rothschild-1987/$ page8164717.html [NC]
+
+RewriteRule ^tua-rita-giusto-di-notri-2015$ page8172387.html [NC]
+RewriteRule ^tua-rita-giusto-di-notri-2015/$ page8172387.html [NC]
+
+RewriteRule ^tua-rita-redigaffi-2015$ page8172686.html [NC]
+RewriteRule ^tua-rita-redigaffi-2015/$ page8172686.html [NC]
+
+RewriteRule ^tua-rita-redigaffi-2016$ page8173182.html [NC]
+RewriteRule ^tua-rita-redigaffi-2016/$ page8173182.html [NC]
+
+RewriteRule ^tua-rita-redigaffi-1995-15l$ page8173249.html [NC]
+RewriteRule ^tua-rita-redigaffi-1995-15l/$ page8173249.html [NC]
+
+RewriteRule ^tua-rita-redigaffi-2001-magnum$ page8173334.html [NC]
+RewriteRule ^tua-rita-redigaffi-2001-magnum/$ page8173334.html [NC]
+
+RewriteRule ^brunello-di-montalcino-casanova-di-neri-2012$ page8173424.html [NC]
+RewriteRule ^brunello-di-montalcino-casanova-di-neri-2012/$ page8173424.html [NC]
+
+RewriteRule ^barolo-cascina-francia-giacomo-conterno-2003$ page8173687.html [NC]
+RewriteRule ^barolo-cascina-francia-giacomo-conterno-2003/$ page8173687.html [NC]
+
+RewriteRule ^barolo-cascina-francia-giacomo-conterno-2004$ page8173797.html [NC]
+RewriteRule ^barolo-cascina-francia-giacomo-conterno-2004/$ page8173797.html [NC]
+
+RewriteRule ^barolo-cascina-francia-giacomo-conterno-2006$ page8173869.html [NC]
+RewriteRule ^barolo-cascina-francia-giacomo-conterno-2006/$ page8173869.html [NC]
+
+RewriteRule ^barolo-cascina-francia-giacomo-conterno-2007$ page8173943.html [NC]
+RewriteRule ^barolo-cascina-francia-giacomo-conterno-2007/$ page8173943.html [NC]
+
+RewriteRule ^barolo-cascina-francia-giacomo-conterno-2008$ page8174547.html [NC]
+RewriteRule ^barolo-cascina-francia-giacomo-conterno-2008/$ page8174547.html [NC]
+
+RewriteRule ^barolo-cascina-francia-giacomo-conterno-2009$ page8174612.html [NC]
+RewriteRule ^barolo-cascina-francia-giacomo-conterno-2009/$ page8174612.html [NC]
+
+RewriteRule ^barolo-cascina-francia-giacomo-conterno-2011$ page8174664.html [NC]
+RewriteRule ^barolo-cascina-francia-giacomo-conterno-2011/$ page8174664.html [NC]
+
+RewriteRule ^cepparello-2005$ page8176565.html [NC]
+RewriteRule ^cepparello-2005/$ page8176565.html [NC]
+
+RewriteRule ^cepparello-2013$ page8176614.html [NC]
+RewriteRule ^cepparello-2013/$ page8176614.html [NC]
+
+RewriteRule ^cepparello-2014$ page8176661.html [NC]
+RewriteRule ^cepparello-2014/$ page8176661.html [NC]
+
+RewriteRule ^cepparello-2015$ page8176726.html [NC]
+RewriteRule ^cepparello-2015/$ page8176726.html [NC]
+
+RewriteRule ^brunello-di-montalcino-il-poggione-2011$ page8177020.html [NC]
+RewriteRule ^brunello-di-montalcino-il-poggione-2011/$ page8177020.html [NC]
+
+RewriteRule ^brunello-di-montalcino-il-poggione-riserva-2012$ page8177085.html [NC]
+RewriteRule ^brunello-di-montalcino-il-poggione-riserva-2012/$ page8177085.html [NC]
+
+RewriteRule ^luce-1997$ page8177174.html [NC]
+RewriteRule ^luce-1997/$ page8177174.html [NC]
+
+RewriteRule ^luce-2001$ page8177269.html [NC]
+RewriteRule ^luce-2001/$ page8177269.html [NC]
+
+RewriteRule ^luce-2013$ page8177331.html [NC]
+RewriteRule ^luce-2013/$ page8177331.html [NC]
+
+RewriteRule ^luce-2014$ page8177412.html [NC]
+RewriteRule ^luce-2014/$ page8177412.html [NC]
+
+RewriteRule ^luce-2015$ page8177551.html [NC]
+RewriteRule ^luce-2015/$ page8177551.html [NC]
+
+RewriteRule ^luce-2016$ page8177750.html [NC]
+RewriteRule ^luce-2016/$ page8177750.html [NC]
+
+RewriteRule ^biondi-santi-brunello-di-montalcino-annata$ page8178139.html [NC]
+RewriteRule ^biondi-santi-brunello-di-montalcino-annata/$ page8178139.html [NC]
+
+RewriteRule ^biondi-santi-brunello-di-montalcino-riserva-1982$ page8178258.html [NC]
+RewriteRule ^biondi-santi-brunello-di-montalcino-riserva-1982/$ page8178258.html [NC]
+
+RewriteRule ^gaja-sori-san-lorenzo-langhe-2009$ page8179743.html [NC]
+RewriteRule ^gaja-sori-san-lorenzo-langhe-2009/$ page8179743.html [NC]
+
+RewriteRule ^gaja-sori-tildin-langhe-1996$ page8179792.html [NC]
+RewriteRule ^gaja-sori-tildin-langhe-1996/$ page8179792.html [NC]
+
+RewriteRule ^gaja-sori-tildin-langhe-2000$ page8179846.html [NC]
+RewriteRule ^gaja-sori-tildin-langhe-2000/$ page8179846.html [NC]
+
+RewriteRule ^gaja-sori-tildin-langhe-2001$ page8180008.html [NC]
+RewriteRule ^gaja-sori-tildin-langhe-2001/$ page8180008.html [NC]
+
+RewriteRule ^gaja-sori-tildin-langhe-2004$ page8180059.html [NC]
+RewriteRule ^gaja-sori-tildin-langhe-2004/$ page8180059.html [NC]
+
+RewriteRule ^gaja-sori-tildin-langhe-2005$ page8180084.html [NC]
+RewriteRule ^gaja-sori-tildin-langhe-2005/$ page8180084.html [NC]
+
+RewriteRule ^gaja-sori-tildin-langhe-2008$ page8180135.html [NC]
+RewriteRule ^gaja-sori-tildin-langhe-2008/$ page8180135.html [NC]
+
+RewriteRule ^gaja-sori-tildin-langhe-2009$ page8180177.html [NC]
+RewriteRule ^gaja-sori-tildin-langhe-2009/$ page8180177.html [NC]
+
+RewriteRule ^gaja-sperss-langhe-2004$ page8180534.html [NC]
+RewriteRule ^gaja-sperss-langhe-2004/$ page8180534.html [NC]
+
+RewriteRule ^robert-parker-and-jancis-robinson$ page8331474.html [NC]
+RewriteRule ^robert-parker-and-jancis-robinson/$ page8331474.html [NC]
+
+RewriteRule ^wm-chateau-margaux$ page8502066.html [NC]
+RewriteRule ^wm-chateau-margaux/$ page8502066.html [NC]
+
+RewriteRule ^wm-angelus$ page8595296.html [NC]
+RewriteRule ^wm-angelus/$ page8595296.html [NC]
+
+RewriteRule ^wm-barolo$ page8595305.html [NC]
+RewriteRule ^wm-barolo/$ page8595305.html [NC]
+
+RewriteRule ^wm-mouton$ page8595315.html [NC]
+RewriteRule ^wm-mouton/$ page8595315.html [NC]
+
+RewriteRule ^blog-conterno$ page8620034.html [NC]
+RewriteRule ^blog-conterno/$ page8620034.html [NC]
+
+RewriteRule ^wm-latour$ page8869157.html [NC]
+RewriteRule ^wm-latour/$ page8869157.html [NC]
+
+RewriteRule ^wm-tua-rita$ page8869603.html [NC]
+RewriteRule ^wm-tua-rita/$ page8869603.html [NC]
+
+RewriteRule ^wm-luce$ page8907918.html [NC]
+RewriteRule ^wm-luce/$ page8907918.html [NC]
+
+RewriteRule ^wm-ducru$ page8908575.html [NC]
+RewriteRule ^wm-ducru/$ page8908575.html [NC]
+
+RewriteRule ^wm-cheval-blanc$ page8909583.html [NC]
+RewriteRule ^wm-cheval-blanc/$ page8909583.html [NC]
+
+RewriteRule ^wm-musigny$ page8909826.html [NC]
+RewriteRule ^wm-musigny/$ page8909826.html [NC]
+
+RewriteRule ^wine-fraud$ page9113278.html [NC]
+RewriteRule ^wine-fraud/$ page9113278.html [NC]
+
+RewriteRule ^chateau-cheval-blanc-2008$ page9317778.html [NC]
+RewriteRule ^chateau-cheval-blanc-2008/$ page9317778.html [NC]
+
+RewriteRule ^chateau-haut-brion-1982$ page9317966.html [NC]
+RewriteRule ^chateau-haut-brion-1982/$ page9317966.html [NC]
+
+RewriteRule ^chateau-haut-brion-2008$ page9317975.html [NC]
+RewriteRule ^chateau-haut-brion-2008/$ page9317975.html [NC]
+
+RewriteRule ^chateau-latour-1949$ page9318131.html [NC]
+RewriteRule ^chateau-latour-1949/$ page9318131.html [NC]
+
+RewriteRule ^chateau-latour-1996$ page9318152.html [NC]
+RewriteRule ^chateau-latour-1996/$ page9318152.html [NC]
+
+RewriteRule ^chateau-latour-2000$ page9318153.html [NC]
+RewriteRule ^chateau-latour-2000/$ page9318153.html [NC]
+
+RewriteRule ^chateau-latour-2003$ page9376553.html [NC]
+RewriteRule ^chateau-latour-2003/$ page9376553.html [NC]
+
+RewriteRule ^chateau-leoville-barton-2014$ page9376613.html [NC]
+RewriteRule ^chateau-leoville-barton-2014/$ page9376613.html [NC]
+
+RewriteRule ^musigny-grand-cru-cuvee-vieilles-vignes-1978$ page9494170.html [NC]
+RewriteRule ^musigny-grand-cru-cuvee-vieilles-vignes-1978/$ page9494170.html [NC]
+
+RewriteRule ^musigny-grand-cru-cuvee-vieilles-vignes-1996$ page9494247.html [NC]
+RewriteRule ^musigny-grand-cru-cuvee-vieilles-vignes-1996/$ page9494247.html [NC]
+
+RewriteRule ^musigny-grand-cru-cuvee-vieilles-vignes-1997$ page9494289.html [NC]
+RewriteRule ^musigny-grand-cru-cuvee-vieilles-vignes-1997/$ page9494289.html [NC]
+
+RewriteRule ^petrus-2006$ page9496704.html [NC]
+RewriteRule ^petrus-2006/$ page9496704.html [NC]
+
+RewriteRule ^petrus-2007$ page9496708.html [NC]
+RewriteRule ^petrus-2007/$ page9496708.html [NC]
+
+RewriteRule ^petrus-2012$ page9496715.html [NC]
+RewriteRule ^petrus-2012/$ page9496715.html [NC]
+
+RewriteRule ^chateau-margaux-premier-grand-cru-classe-1982$ page9498110.html [NC]
+RewriteRule ^chateau-margaux-premier-grand-cru-classe-1982/$ page9498110.html [NC]
+
+RewriteRule ^romanee-conti-romanee-saint-vivant-grand-cru-2006$ page9499098.html [NC]
+RewriteRule ^romanee-conti-romanee-saint-vivant-grand-cru-2006/$ page9499098.html [NC]
+
+RewriteRule ^romanee-conti-romanee-saint-vivant-grand-cru-2007$ page9499101.html [NC]
+RewriteRule ^romanee-conti-romanee-saint-vivant-grand-cru-2007/$ page9499101.html [NC]
+
+RewriteRule ^romanee-conti-romanee-saint-vivant-grand-cru-2008$ page9499104.html [NC]
+RewriteRule ^romanee-conti-romanee-saint-vivant-grand-cru-2008/$ page9499104.html [NC]
+
+RewriteRule ^domaine-leflaive-chevalier-montrachet-grand-cru-2010$ page9500466.html [NC]
+RewriteRule ^domaine-leflaive-chevalier-montrachet-grand-cru-2010/$ page9500466.html [NC]
+
+RewriteRule ^domaine-leflaive-chevalier-montrachet-grand-cru-2012$ page9500469.html [NC]
+RewriteRule ^domaine-leflaive-chevalier-montrachet-grand-cru-2012/$ page9500469.html [NC]
+
+RewriteRule ^domaine-leflaive-batard-montrachet-grand-cru-2011$ page9501303.html [NC]
+RewriteRule ^domaine-leflaive-batard-montrachet-grand-cru-2011/$ page9501303.html [NC]
+
+RewriteRule ^domaine-leflaive-batard-montrachet-grand-cru-2016$ page9501308.html [NC]
+RewriteRule ^domaine-leflaive-batard-montrachet-grand-cru-2016/$ page9501308.html [NC]
+
+RewriteRule ^bonnes-mares-2009$ page9501990.html [NC]
+RewriteRule ^bonnes-mares-2009/$ page9501990.html [NC]
+
+RewriteRule ^chateau-cheval-blanc-1998$ page9512483.html [NC]
+RewriteRule ^chateau-cheval-blanc-1998/$ page9512483.html [NC]
+
+RewriteRule ^chasse-spleen-2014-2$ page11163325.html [NC]
+RewriteRule ^chasse-spleen-2014-2/$ page11163325.html [NC]
+
+RewriteRule ^gazin-2012-sm$ page11229649.html [NC]
+RewriteRule ^gazin-2012-sm/$ page11229649.html [NC]
+
+RewriteRule ^gazin-2015$ page11229762.html [NC]
+RewriteRule ^gazin-2015/$ page11229762.html [NC]
+
+RewriteRule ^gazin-2010$ page11229977.html [NC]
+RewriteRule ^gazin-2010/$ page11229977.html [NC]
+
+RewriteRule ^figeac-premier-grand-cru-classe-2008$ page11230553.html [NC]
+RewriteRule ^figeac-premier-grand-cru-classe-2008/$ page11230553.html [NC]
+
+RewriteRule ^figeac-premier-grand-cru-classe-2011$ page11230682.html [NC]
+RewriteRule ^figeac-premier-grand-cru-classe-2011/$ page11230682.html [NC]
+
+RewriteRule ^nenin-2011$ page11231255.html [NC]
+RewriteRule ^nenin-2011/$ page11231255.html [NC]
+
+RewriteRule ^nenin-2011-sm$ page11231429.html [NC]
+RewriteRule ^nenin-2011-sm/$ page11231429.html [NC]
+
+RewriteRule ^nenin-2006$ page11231459.html [NC]
+RewriteRule ^nenin-2006/$ page11231459.html [NC]
+
+RewriteRule ^gazin-2012$ page11231559.html [NC]
+RewriteRule ^gazin-2012/$ page11231559.html [NC]
+
+RewriteRule ^drc-grands-echezeaux-2005$ page11231808.html [NC]
+RewriteRule ^drc-grands-echezeaux-2005/$ page11231808.html [NC]
+
+RewriteRule ^drc-grands-echezeaux-2011$ page11232146.html [NC]
+RewriteRule ^drc-grands-echezeaux-2011/$ page11232146.html [NC]
+
+RewriteRule ^drc-grands-echezeaux-2014$ page11232780.html [NC]
+RewriteRule ^drc-grands-echezeaux-2014/$ page11232780.html [NC]
+
+RewriteRule ^drc-echezeaux-2005$ page11232955.html [NC]
+RewriteRule ^drc-echezeaux-2005/$ page11232955.html [NC]
+
+RewriteRule ^drc-echezeaux-2007$ page11233534.html [NC]
+RewriteRule ^drc-echezeaux-2007/$ page11233534.html [NC]
+
+RewriteRule ^lafite-rothschild-1989$ page11234413.html [NC]
+RewriteRule ^lafite-rothschild-1989/$ page11234413.html [NC]
+
+RewriteRule ^lafite-rothschild-2001$ page11234645.html [NC]
+RewriteRule ^lafite-rothschild-2001/$ page11234645.html [NC]
+
+RewriteRule ^lafite-rothschild-2011$ page11234864.html [NC]
+RewriteRule ^lafite-rothschild-2011/$ page11234864.html [NC]
+
+RewriteRule ^palmer-1996$ page11235077.html [NC]
+RewriteRule ^palmer-1996/$ page11235077.html [NC]
+
+RewriteRule ^palmer-2002$ page11256095.html [NC]
+RewriteRule ^palmer-2002/$ page11256095.html [NC]
+
+RewriteRule ^palmer-2014$ page11256170.html [NC]
+RewriteRule ^palmer-2014/$ page11256170.html [NC]
+
+RewriteRule ^chasse-spleen-2015-2$ page11256722.html [NC]
+RewriteRule ^chasse-spleen-2015-2/$ page11256722.html [NC]
+
+RewriteRule ^pavie-2001$ page11257009.html [NC]
+RewriteRule ^pavie-2001/$ page11257009.html [NC]
+
+RewriteRule ^pavie-2014$ page11257429.html [NC]
+RewriteRule ^pavie-2014/$ page11257429.html [NC]
+
+RewriteRule ^palmer-2009$ page11279550.html [NC]
+RewriteRule ^palmer-2009/$ page11279550.html [NC]
+
+RewriteRule ^lafite-1996$ page11280184.html [NC]
+RewriteRule ^lafite-1996/$ page11280184.html [NC]
+
+RewriteRule ^mouton-1983-magnum$ page11281926.html [NC]
+RewriteRule ^mouton-1983-magnum/$ page11281926.html [NC]
+
+RewriteRule ^mouton-2002-doublemagnum$ page11282367.html [NC]
+RewriteRule ^mouton-2002-doublemagnum/$ page11282367.html [NC]
+
+RewriteRule ^wm-drc$ page11350761.html [NC]
+RewriteRule ^wm-drc/$ page11350761.html [NC]
+
+RewriteRule ^milens$ page11420343.html [NC]
+RewriteRule ^milens/$ page11420343.html [NC]
+
+RewriteRule ^wm-pavie$ page12359149.html [NC]
+RewriteRule ^wm-pavie/$ page12359149.html [NC]
+
+RewriteRule ^wm-lafite$ page12463457.html [NC]
+RewriteRule ^wm-lafite/$ page12463457.html [NC]
+
+RewriteRule ^wm-pape-clement$ page12484548.html [NC]
+RewriteRule ^wm-pape-clement/$ page12484548.html [NC]
+
+RewriteRule ^wm-palmer$ page12651363.html [NC]
+RewriteRule ^wm-palmer/$ page12651363.html [NC]
+
+RewriteRule ^wm-chasse-spleen$ page12732733.html [NC]
+RewriteRule ^wm-chasse-spleen/$ page12732733.html [NC]
+
+RewriteRule ^wm-gazin$ page12743567.html [NC]
+RewriteRule ^wm-gazin/$ page12743567.html [NC]
+
+RewriteRule ^wm-figeac$ page12847818.html [NC]
+RewriteRule ^wm-figeac/$ page12847818.html [NC]
+
+RewriteRule ^wm-il-poggione$ page12863109.html [NC]
+RewriteRule ^wm-il-poggione/$ page12863109.html [NC]
+
+RewriteRule ^wm-opus-one$ page13170467.html [NC]
+RewriteRule ^wm-opus-one/$ page13170467.html [NC]
+
+RewriteRule ^vega-sicilia-unico-1990$ page13497830.html [NC]
+RewriteRule ^vega-sicilia-unico-1990/$ page13497830.html [NC]
+
+RewriteRule ^vega-sicilia-unico-1996$ page13528196.html [NC]
+RewriteRule ^vega-sicilia-unico-1996/$ page13528196.html [NC]
+
+RewriteRule ^vega-sicilia-unico-1998$ page13541838.html [NC]
+RewriteRule ^vega-sicilia-unico-1998/$ page13541838.html [NC]
+
+RewriteRule ^vega-sicilia-unico-1999$ page13541927.html [NC]
+RewriteRule ^vega-sicilia-unico-1999/$ page13541927.html [NC]
+
+RewriteRule ^vega-sicilia-unico-2005$ page13542063.html [NC]
+RewriteRule ^vega-sicilia-unico-2005/$ page13542063.html [NC]
+
+RewriteRule ^vietti-barolo-2015$ page13590006.html [NC]
+RewriteRule ^vietti-barolo-2015/$ page13590006.html [NC]
+
+RewriteRule ^vietti-langhe-2015$ page13592734.html [NC]
+RewriteRule ^vietti-langhe-2015/$ page13592734.html [NC]
+
+RewriteRule ^vietti-langhe-2016$ page13593012.html [NC]
+RewriteRule ^vietti-langhe-2016/$ page13593012.html [NC]
+
+RewriteRule ^paleo-1997$ page13617227.html [NC]
+RewriteRule ^paleo-1997/$ page13617227.html [NC]
+
+RewriteRule ^paleo-2000$ page13640018.html [NC]
+RewriteRule ^paleo-2000/$ page13640018.html [NC]
+
+RewriteRule ^paleo-2013$ page13640872.html [NC]
+RewriteRule ^paleo-2013/$ page13640872.html [NC]
+
+RewriteRule ^paleo-2015$ page13641062.html [NC]
+RewriteRule ^paleo-2015/$ page13641062.html [NC]
+
+RewriteRule ^tua-rita-giusto-2002$ page13654922.html [NC]
+RewriteRule ^tua-rita-giusto-2002/$ page13654922.html [NC]
+
+RewriteRule ^tua-rita-giusto-2016$ page13655684.html [NC]
+RewriteRule ^tua-rita-giusto-2016/$ page13655684.html [NC]
+
+RewriteRule ^tua-redigaffi-1995$ page13656578.html [NC]
+RewriteRule ^tua-redigaffi-1995/$ page13656578.html [NC]
+
+RewriteRule ^tua-redigaffi-1998$ page13656794.html [NC]
+RewriteRule ^tua-redigaffi-1998/$ page13656794.html [NC]
+
+RewriteRule ^tua-redigaffi-1999$ page13657060.html [NC]
+RewriteRule ^tua-redigaffi-1999/$ page13657060.html [NC]
+
+RewriteRule ^tua-redigaffi-2001$ page13659583.html [NC]
+RewriteRule ^tua-redigaffi-2001/$ page13659583.html [NC]
+
+RewriteRule ^tua-redigaffi-2002$ page13660072.html [NC]
+RewriteRule ^tua-redigaffi-2002/$ page13660072.html [NC]
+
+RewriteRule ^tua-rita-giusto-2005$ page13660394.html [NC]
+RewriteRule ^tua-rita-giusto-2005/$ page13660394.html [NC]
+
+RewriteRule ^tua-rita-giusto-2009$ page13660761.html [NC]
+RewriteRule ^tua-rita-giusto-2009/$ page13660761.html [NC]
+
+RewriteRule ^biondi-santi-annata-2010$ page13704080.html [NC]
+RewriteRule ^biondi-santi-annata-2010/$ page13704080.html [NC]
+
+RewriteRule ^biondi-santi-annata-2012$ page13704510.html [NC]
+RewriteRule ^biondi-santi-annata-2012/$ page13704510.html [NC]
+
+RewriteRule ^biondi-santi-annata-2013$ page13704890.html [NC]
+RewriteRule ^biondi-santi-annata-2013/$ page13704890.html [NC]
+
+RewriteRule ^poggio-al-vento-2010$ page13743875.html [NC]
+RewriteRule ^poggio-al-vento-2010/$ page13743875.html [NC]
+
+RewriteRule ^poggio-al-vento-2012$ page13744096.html [NC]
+RewriteRule ^poggio-al-vento-2012/$ page13744096.html [NC]
+
+RewriteRule ^valdicava-2010$ page13749393.html [NC]
+RewriteRule ^valdicava-2010/$ page13749393.html [NC]
+
+RewriteRule ^cepparello-2016$ page13773392.html [NC]
+RewriteRule ^cepparello-2016/$ page13773392.html [NC]
+
+RewriteRule ^il-poggione-2013$ page13774488.html [NC]
+RewriteRule ^il-poggione-2013/$ page13774488.html [NC]
+
+RewriteRule ^vega-sicilia-unico-2004$ page13832492.html [NC]
+RewriteRule ^vega-sicilia-unico-2004/$ page13832492.html [NC]
+
+RewriteRule ^collector-case$ page14079430.html [NC]
+RewriteRule ^collector-case/$ page14079430.html [NC]
+
+RewriteRule ^collector-services$ page14168416.html [NC]
+RewriteRule ^collector-services/$ page14168416.html [NC]
+
+RewriteRule ^drinking-window$ page14313252.html [NC]
+RewriteRule ^drinking-window/$ page14313252.html [NC]
+
+RewriteRule ^event171020$ page14448487.html [NC]
+RewriteRule ^event171020/$ page14448487.html [NC]
+
+RewriteRule ^bl-kosher-wine$ page16814233.html [NC]
+RewriteRule ^bl-kosher-wine/$ page16814233.html [NC]
+
+RewriteRule ^events$ page14455504.html [NC]
+RewriteRule ^events/$ page14455504.html [NC]
+
+RewriteRule ^milens-interview$ page16855758.html [NC]
+RewriteRule ^milens-interview/$ page16855758.html [NC]
+
+RewriteRule ^wm-gaja$ page14617858.html [NC]
+RewriteRule ^wm-gaja/$ page14617858.html [NC]
+
+RewriteRule ^caymus$ page14621740.html [NC]
+RewriteRule ^caymus/$ page14621740.html [NC]
+
+RewriteRule ^event300421$ page19047248.html [NC]
+RewriteRule ^event300421/$ page19047248.html [NC]
+
+RewriteRule ^la-mission-haut-brion-2014$ page14813521.html [NC]
+RewriteRule ^la-mission-haut-brion-2014/$ page14813521.html [NC]
+
+RewriteRule ^wine-shop$ page14858178.html [NC]
+RewriteRule ^wine-shop/$ page14858178.html [NC]
+
+RewriteRule ^leoville-barton-2006$ page14859983.html [NC]
+RewriteRule ^leoville-barton-2006/$ page14859983.html [NC]
+
+RewriteRule ^haut-brion-2013$ page14928884.html [NC]
+RewriteRule ^haut-brion-2013/$ page14928884.html [NC]
+
+RewriteRule ^angelus-2010$ page14929130.html [NC]
+RewriteRule ^angelus-2010/$ page14929130.html [NC]
+
+RewriteRule ^chateau-mouton-rothschild-2001$ page14929550.html [NC]
+RewriteRule ^chateau-mouton-rothschild-2001/$ page14929550.html [NC]
+
+RewriteRule ^wt-gift$ page15328958.html [NC]
+RewriteRule ^wt-gift/$ page15328958.html [NC]
+
+RewriteRule ^la-comedie-2016$ page15624271.html [NC]
+RewriteRule ^la-comedie-2016/$ page15624271.html [NC]
+
+RewriteRule ^milens-2015$ page15625143.html [NC]
+RewriteRule ^milens-2015/$ page15625143.html [NC]
+
+RewriteRule ^milens-2014$ page15628086.html [NC]
+RewriteRule ^milens-2014/$ page15628086.html [NC]
+
+RewriteRule ^region-pomerol$ page15931082.html [NC]
+RewriteRule ^region-pomerol/$ page15931082.html [NC]
+
+RewriteRule ^set-saint-emilion$ page16001309.html [NC]
+RewriteRule ^set-saint-emilion/$ page16001309.html [NC]
+
+RewriteRule ^sets$ page16011326.html [NC]
+RewriteRule ^sets/$ page16011326.html [NC]
+
+RewriteRule ^paulliac-rg$ page16581818.html [NC]
+RewriteRule ^paulliac-rg/$ page16581818.html [NC]
+
+RewriteRule ^angleus-2005$ page16690834.html [NC]
+RewriteRule ^angleus-2005/$ page16690834.html [NC]
+
+RewriteRule ^figeac-2009$ page16698526.html [NC]
+RewriteRule ^figeac-2009/$ page16698526.html [NC]
+
+RewriteRule ^chasse-spleen-1996$ page16700653.html [NC]
+RewriteRule ^chasse-spleen-1996/$ page16700653.html [NC]
+
+RewriteRule ^chasse-spleen-2000$ page16781901.html [NC]
+RewriteRule ^chasse-spleen-2000/$ page16781901.html [NC]
+
+RewriteRule ^chasse-spleen-2010$ page16782357.html [NC]
+RewriteRule ^chasse-spleen-2010/$ page16782357.html [NC]
+
+RewriteRule ^chasse-spleen-2011$ page16782409.html [NC]
+RewriteRule ^chasse-spleen-2011/$ page16782409.html [NC]
+
+RewriteRule ^chasse-spleen-2014$ page16782469.html [NC]
+RewriteRule ^chasse-spleen-2014/$ page16782469.html [NC]
+
+RewriteRule ^chasse-spleen-2015$ page16782610.html [NC]
+RewriteRule ^chasse-spleen-2015/$ page16782610.html [NC]
+
+RewriteRule ^chateau-gazin-1999$ page16782769.html [NC]
+RewriteRule ^chateau-gazin-1999/$ page16782769.html [NC]
+
+RewriteRule ^nenin-2009$ page16783136.html [NC]
+RewriteRule ^nenin-2009/$ page16783136.html [NC]
+
+RewriteRule ^nenin-2012$ page16783441.html [NC]
+RewriteRule ^nenin-2012/$ page16783441.html [NC]
+
+RewriteRule ^pavie-2010$ page16783542.html [NC]
+RewriteRule ^pavie-2010/$ page16783542.html [NC]
+
+RewriteRule ^monbousquet-2008$ page16784038.html [NC]
+RewriteRule ^monbousquet-2008/$ page16784038.html [NC]
+
+RewriteRule ^mouton-2002$ page16784306.html [NC]
+RewriteRule ^mouton-2002/$ page16784306.html [NC]
+
+RewriteRule ^mouton-2004$ page16784725.html [NC]
+RewriteRule ^mouton-2004/$ page16784725.html [NC]
+
+RewriteRule ^mouton-2007$ page16784892.html [NC]
+RewriteRule ^mouton-2007/$ page16784892.html [NC]
+
+RewriteRule ^mouton-2014$ page16785086.html [NC]
+RewriteRule ^mouton-2014/$ page16785086.html [NC]
+
+RewriteRule ^leoville-barton-2009$ page16785752.html [NC]
+RewriteRule ^leoville-barton-2009/$ page16785752.html [NC]
+
+RewriteRule ^leoville-barton-2014$ page16792406.html [NC]
+RewriteRule ^leoville-barton-2014/$ page16792406.html [NC]
+
+RewriteRule ^pape-clement-2006$ page16794291.html [NC]
+RewriteRule ^pape-clement-2006/$ page16794291.html [NC]
+
+RewriteRule ^pape-clement-2008$ page16794690.html [NC]
+RewriteRule ^pape-clement-2008/$ page16794690.html [NC]
+
+RewriteRule ^pape-clement-2011$ page16794760.html [NC]
+RewriteRule ^pape-clement-2011/$ page16794760.html [NC]
+
+RewriteRule ^pape-clement-2014-magnum$ page16794856.html [NC]
+RewriteRule ^pape-clement-2014-magnum/$ page16794856.html [NC]
+
+RewriteRule ^cheval-blanc-1998$ page16795052.html [NC]
+RewriteRule ^cheval-blanc-1998/$ page16795052.html [NC]
+
+RewriteRule ^milens-chardonnay-2019$ page16854872.html [NC]
+RewriteRule ^milens-chardonnay-2019/$ page16854872.html [NC]
+
+RewriteRule ^set-brunello$ page17043378.html [NC]
+RewriteRule ^set-brunello/$ page17043378.html [NC]
+
+RewriteRule ^set-milens$ page17045925.html [NC]
+RewriteRule ^set-milens/$ page17045925.html [NC]
+
+RewriteRule ^la-mission-haut-brion-2008$ page17050560.html [NC]
+RewriteRule ^la-mission-haut-brion-2008/$ page17050560.html [NC]
+
+RewriteRule ^chateau-figeac$ page17101644.html [NC]
+RewriteRule ^chateau-figeac/$ page17101644.html [NC]
+
+RewriteRule ^set-caymus-2$ page17507085.html [NC]
+RewriteRule ^set-caymus-2/$ page17507085.html [NC]
+
+RewriteRule ^tua-rita-artical$ page18039477.html [NC]
+RewriteRule ^tua-rita-artical/$ page18039477.html [NC]
+
+RewriteRule ^renessans-wine$ page18523421.html [NC]
+RewriteRule ^renessans-wine/$ page18523421.html [NC]
+
+RewriteRule ^degustation-chateau-baccarat-4$ page20040746.html [NC]
+RewriteRule ^degustation-chateau-baccarat-4/$ page20040746.html [NC]
+
+RewriteRule ^wine-therapy$ page20041391.html [NC]
+RewriteRule ^wine-therapy/$ page20041391.html [NC]
+
+RewriteRule ^romanee-conti-degustation$ page20118581.html [NC]
+RewriteRule ^romanee-conti-degustation/$ page20118581.html [NC]
+
+RewriteRule ^degustation-glass$ page20171979.html [NC]
+RewriteRule ^degustation-glass/$ page20171979.html [NC]
+
+RewriteRule ^decanter-oenologie$ page20172069.html [NC]
+RewriteRule ^decanter-oenologie/$ page20172069.html [NC]
+
+RewriteRule ^jcb-glass-baccarat$ page20172449.html [NC]
+RewriteRule ^jcb-glass-baccarat/$ page20172449.html [NC]
+
+RewriteRule ^passion-baccarat-carafe$ page20172659.html [NC]
+RewriteRule ^passion-baccarat-carafe/$ page20172659.html [NC]
+
+RewriteRule ^baccarat-champagne-decanter$ page20172859.html [NC]
+RewriteRule ^baccarat-champagne-decanter/$ page20172859.html [NC]
+
+RewriteRule ^baccarat$ page20193186.html [NC]
+RewriteRule ^baccarat/$ page20193186.html [NC]
+
+RewriteRule ^lalique-glasses-1$ page20194046.html [NC]
+RewriteRule ^lalique-glasses-1/$ page20194046.html [NC]
+
+RewriteRule ^lalique-glasses-burgundy$ page20198022.html [NC]
+RewriteRule ^lalique-glasses-burgundy/$ page20198022.html [NC]
+
+RewriteRule ^lalique-100-points-2$ page20198233.html [NC]
+RewriteRule ^lalique-100-points-2/$ page20198233.html [NC]
+
+RewriteRule ^decanter-lalique-100-points$ page20198321.html [NC]
+RewriteRule ^decanter-lalique-100-points/$ page20198321.html [NC]
+
+RewriteRule ^decanter-lalique-merlot$ page20198525.html [NC]
+RewriteRule ^decanter-lalique-merlot/$ page20198525.html [NC]
+
+RewriteRule ^baccarat-lalique$ page20204071.html [NC]
+RewriteRule ^baccarat-lalique/$ page20204071.html [NC]
+
+RewriteRule ^lalique$ page20209526.html [NC]
+RewriteRule ^lalique/$ page20209526.html [NC]
+
+RewriteRule ^vietti-barolo-lazzarito-2014$ page21106455.html [NC]
+RewriteRule ^vietti-barolo-lazzarito-2014/$ page21106455.html [NC]
+
+RewriteRule ^vietti-barolo-lazzarito-2015$ page21106588.html [NC]
+RewriteRule ^vietti-barolo-lazzarito-2015/$ page21106588.html [NC]
+
+RewriteRule ^vietti-barolo-lazzarito-2016$ page21106709.html [NC]
+RewriteRule ^vietti-barolo-lazzarito-2016/$ page21106709.html [NC]
+
+RewriteRule ^vietti-barolo-ravera-2010$ page21106997.html [NC]
+RewriteRule ^vietti-barolo-ravera-2010/$ page21106997.html [NC]
+
+RewriteRule ^vietti-barolo-ravera-2011$ page21107092.html [NC]
+RewriteRule ^vietti-barolo-ravera-2011/$ page21107092.html [NC]
+
+RewriteRule ^vietti-barolo-ravera-2012$ page21107205.html [NC]
+RewriteRule ^vietti-barolo-ravera-2012/$ page21107205.html [NC]
+
+RewriteRule ^vietti-barolo-ravera-2014$ page21107281.html [NC]
+RewriteRule ^vietti-barolo-ravera-2014/$ page21107281.html [NC]
+
+RewriteRule ^vietti-barolo-ravera-2015$ page21107378.html [NC]
+RewriteRule ^vietti-barolo-ravera-2015/$ page21107378.html [NC]
+
+RewriteRule ^casanova-di-neri-2013-2$ page21107873.html [NC]
+RewriteRule ^casanova-di-neri-2013-2/$ page21107873.html [NC]
+
+RewriteRule ^casanova-di-neri-2015$ page21108512.html [NC]
+RewriteRule ^casanova-di-neri-2015/$ page21108512.html [NC]
+
+RewriteRule ^casanova-di-neri-tn-2013$ page21108696.html [NC]
+RewriteRule ^casanova-di-neri-tn-2013/$ page21108696.html [NC]
+
+RewriteRule ^casanova-di-neri-tn-2015$ page21108981.html [NC]
+RewriteRule ^casanova-di-neri-tn-2015/$ page21108981.html [NC]
+
+RewriteRule ^puligny-montrachet-lf-2014$ page21109647.html [NC]
+RewriteRule ^puligny-montrachet-lf-2014/$ page21109647.html [NC]
+
+RewriteRule ^puligny-montrachet-lf-2015$ page21110356.html [NC]
+RewriteRule ^puligny-montrachet-lf-2015/$ page21110356.html [NC]
+
+RewriteRule ^bonnes-mares-2012$ page21111255.html [NC]
+RewriteRule ^bonnes-mares-2012/$ page21111255.html [NC]
+
+RewriteRule ^jacques-prieur-2012$ page21111610.html [NC]
+RewriteRule ^jacques-prieur-2012/$ page21111610.html [NC]
+
+RewriteRule ^jacques-prieur-2014$ page21112044.html [NC]
+RewriteRule ^jacques-prieur-2014/$ page21112044.html [NC]
+
+RewriteRule ^cascina-francia-2001$ page21112385.html [NC]
+RewriteRule ^cascina-francia-2001/$ page21112385.html [NC]
+
+RewriteRule ^cascina-francia-2004$ page21112606.html [NC]
+RewriteRule ^cascina-francia-2004/$ page21112606.html [NC]
+
+RewriteRule ^cascina-francia-2009$ page21112654.html [NC]
+RewriteRule ^cascina-francia-2009/$ page21112654.html [NC]
+
+RewriteRule ^barolo-francia-2011$ page21112753.html [NC]
+RewriteRule ^barolo-francia-2011/$ page21112753.html [NC]
+
+RewriteRule ^barolo-francia-2012$ page21112796.html [NC]
+RewriteRule ^barolo-francia-2012/$ page21112796.html [NC]
+
+RewriteRule ^barolo-francia-2015$ page21112832.html [NC]
+RewriteRule ^barolo-francia-2015/$ page21112832.html [NC]
+
+RewriteRule ^barolo-francia-2016$ page21112892.html [NC]
+RewriteRule ^barolo-francia-2016/$ page21112892.html [NC]
+
+RewriteRule ^paolo-scavino-2013$ page21113284.html [NC]
+RewriteRule ^paolo-scavino-2013/$ page21113284.html [NC]
+
+RewriteRule ^chateau-mouton-rothschild-1986$ page21202810.html [NC]
+RewriteRule ^chateau-mouton-rothschild-1986/$ page21202810.html [NC]
+
+RewriteRule ^chateau-mouton-rothschild-2006$ page21203818.html [NC]
+RewriteRule ^chateau-mouton-rothschild-2006/$ page21203818.html [NC]
+
+RewriteRule ^mouton-rothschild-2011$ page21204096.html [NC]
+RewriteRule ^mouton-rothschild-2011/$ page21204096.html [NC]
+
+RewriteRule ^chateau-mouton-rothschild-2012$ page21204258.html [NC]
+RewriteRule ^chateau-mouton-rothschild-2012/$ page21204258.html [NC]
+
+RewriteRule ^puligny-montrachet-lf-1994$ page21204502.html [NC]
+RewriteRule ^puligny-montrachet-lf-1994/$ page21204502.html [NC]
+
+RewriteRule ^puligny-montrachet-lf-2018$ page21204549.html [NC]
+RewriteRule ^puligny-montrachet-lf-2018/$ page21204549.html [NC]
+
+RewriteRule ^bonnes-mares-lj-2009$ page21204609.html [NC]
+RewriteRule ^bonnes-mares-lj-2009/$ page21204609.html [NC]
+
+RewriteRule ^chambertin-clos-de-beze-2014$ page21205104.html [NC]
+RewriteRule ^chambertin-clos-de-beze-2014/$ page21205104.html [NC]
+
+RewriteRule ^chambertin-clos-de-beze-2015$ page21205536.html [NC]
+RewriteRule ^chambertin-clos-de-beze-2015/$ page21205536.html [NC]
+
+RewriteRule ^chambertin-clos-de-beze-2018$ page21205615.html [NC]
+RewriteRule ^chambertin-clos-de-beze-2018/$ page21205615.html [NC]
+
+RewriteRule ^domaine-jacques-prieur-2009$ page21205834.html [NC]
+RewriteRule ^domaine-jacques-prieur-2009/$ page21205834.html [NC]
+
+RewriteRule ^ermitage-le-pavillon-2005$ page21206042.html [NC]
+RewriteRule ^ermitage-le-pavillon-2005/$ page21206042.html [NC]
+
+RewriteRule ^ermitage-le-pavillon-2010$ page21225801.html [NC]
+RewriteRule ^ermitage-le-pavillon-2010/$ page21225801.html [NC]
+
+RewriteRule ^la-landonne-1994$ page21226930.html [NC]
+RewriteRule ^la-landonne-1994/$ page21226930.html [NC]
+
+RewriteRule ^la-landonne-2005$ page21227426.html [NC]
+RewriteRule ^la-landonne-2005/$ page21227426.html [NC]
+
+RewriteRule ^la-landonne-2007$ page21227503.html [NC]
+RewriteRule ^la-landonne-2007/$ page21227503.html [NC]
+
+RewriteRule ^la-landonne-2009$ page21227853.html [NC]
+RewriteRule ^la-landonne-2009/$ page21227853.html [NC]
+
+RewriteRule ^la-mouline-2005$ page21237760.html [NC]
+RewriteRule ^la-mouline-2005/$ page21237760.html [NC]
+
+RewriteRule ^la-mouline-2010$ page21238232.html [NC]
+RewriteRule ^la-mouline-2010/$ page21238232.html [NC]
+
+RewriteRule ^la-mouline-2011$ page21238555.html [NC]
+RewriteRule ^la-mouline-2011/$ page21238555.html [NC]
+
+RewriteRule ^la-turque-2007$ page21238640.html [NC]
+RewriteRule ^la-turque-2007/$ page21238640.html [NC]
+
+RewriteRule ^la-turque-2009$ page21238883.html [NC]
+RewriteRule ^la-turque-2009/$ page21238883.html [NC]
+
+RewriteRule ^chateau-valandraud-2004$ page21264393.html [NC]
+RewriteRule ^chateau-valandraud-2004/$ page21264393.html [NC]
+
+RewriteRule ^chateau-valandraud-2012$ page21267247.html [NC]
+RewriteRule ^chateau-valandraud-2012/$ page21267247.html [NC]
+
+RewriteRule ^chateau-valandraud-2015$ page21267598.html [NC]
+RewriteRule ^chateau-valandraud-2015/$ page21267598.html [NC]
+
+RewriteRule ^chateau-valandraud-2016$ page21267796.html [NC]
+RewriteRule ^chateau-valandraud-2016/$ page21267796.html [NC]
+
+RewriteRule ^chateau-valandraud-2017$ page21267941.html [NC]
+RewriteRule ^chateau-valandraud-2017/$ page21267941.html [NC]
+
+RewriteRule ^guiagal-la-3$ page21690047.html [NC]
+RewriteRule ^guiagal-la-3/$ page21690047.html [NC]
+
+RewriteRule ^saint-emilion-set-rp-100$ page21719610.html [NC]
+RewriteRule ^saint-emilion-set-rp-100/$ page21719610.html [NC]
+
+RewriteRule ^set-drc-2005$ page21719824.html [NC]
+RewriteRule ^set-drc-2005/$ page21719824.html [NC]
+
+RewriteRule ^valandraud-kasher-2002$ page21723409.html [NC]
+RewriteRule ^valandraud-kasher-2002/$ page21723409.html [NC]
+
+RewriteRule ^milens-2016$ page22761761.html [NC]
+RewriteRule ^milens-2016/$ page22761761.html [NC]
+
+RewriteRule ^set-caymus-3$ page24155046.html [NC]
+RewriteRule ^set-caymus-3/$ page24155046.html [NC]
+
+RewriteRule ^set-red-burgundy$ page24164970.html [NC]
+RewriteRule ^set-red-burgundy/$ page24164970.html [NC]
+
+RewriteRule ^set-barolo$ page24165114.html [NC]
+RewriteRule ^set-barolo/$ page24165114.html [NC]
+
+RewriteRule ^set-rhone-2$ page24165185.html [NC]
+RewriteRule ^set-rhone-2/$ page24165185.html [NC]
+
+RewriteRule ^set-white-burgundy$ page24165189.html [NC]
+RewriteRule ^set-white-burgundy/$ page24165189.html [NC]
+
+RewriteRule ^set-pomerol$ page24165735.html [NC]
+RewriteRule ^set-pomerol/$ page24165735.html [NC]
+
+RewriteRule ^unico-set-3$ page24166106.html [NC]
+RewriteRule ^unico-set-3/$ page24166106.html [NC]
+
+RewriteRule ^set-degustation-1$ page24166325.html [NC]
+RewriteRule ^set-degustation-1/$ page24166325.html [NC]
+
+RewriteRule ^set-degustation-2$ page24168622.html [NC]
+RewriteRule ^set-degustation-2/$ page24168622.html [NC]
+
+RewriteRule ^set-degustation-3$ page24168798.html [NC]
+RewriteRule ^set-degustation-3/$ page24168798.html [NC]
+
+RewriteRule ^set-degustation-drc-1$ page24169161.html [NC]
+RewriteRule ^set-degustation-drc-1/$ page24169161.html [NC]
+
+RewriteRule ^chambertin-clos-de-beze-2016$ page27336402.html [NC]
+RewriteRule ^chambertin-clos-de-beze-2016/$ page27336402.html [NC]
+
+RewriteRule ^domaine-hubert-lignier-2018$ page28998108.html [NC]
+RewriteRule ^domaine-hubert-lignier-2018/$ page28998108.html [NC]
+
+RewriteRule ^domaine-hubert-lignier-2017$ page28999927.html [NC]
+RewriteRule ^domaine-hubert-lignier-2017/$ page28999927.html [NC]
+
+RewriteRule ^dbpef-monrachet-2018$ page29000056.html [NC]
+RewriteRule ^dbpef-monrachet-2018/$ page29000056.html [NC]
+
+RewriteRule ^vega-sicilia-2008$ page29000598.html [NC]
+RewriteRule ^vega-sicilia-2008/$ page29000598.html [NC]
+
+RewriteRule ^vega-sicilia-2009$ page29000643.html [NC]
+RewriteRule ^vega-sicilia-2009/$ page29000643.html [NC]
+
+RewriteRule ^favicon.ico$ https://static.tildacdn.com/tild6136-3934-4530-b736-303661663437/favicon_2.ico [R=302,L]
+

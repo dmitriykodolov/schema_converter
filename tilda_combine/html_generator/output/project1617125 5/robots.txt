@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /page7370535.html
+Disallow: /header
+Disallow: /page7384839.html
+Disallow: /footer
+Disallow: /page7500011.html
+Disallow: /page14448487.html
+Disallow: /event171020
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /*_escaped_fragment_*
+Disallow:
+
+
+Sitemap: https://winetime.moscow/sitemap.xml
+Sitemap: https://winetime.moscow/sitemap-store.xml
+Sitemap: https://winetime.moscow/sitemap-feeds.xml
+Host: https://winetime.moscow

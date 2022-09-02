@@ -63,3 +63,7 @@ class DataBaseBuilder(CsvToBd):
             connection.commit()
             connection.close()
             print(f'{row}: {colorama.Fore.GREEN} SUCCESFULLY ADDED!')
+
+d = DataBaseBuilder('winetime', 'bordeaux', 'margaux-angelus.csv', ';')
+d.create_db()
+d.add_data()

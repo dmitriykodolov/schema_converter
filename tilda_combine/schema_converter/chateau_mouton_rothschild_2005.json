@@ -1,0 +1,28 @@
+<script type="application/ld+json">
+    {
+    "@context": "http://schema.org/",
+    "@type": "Product",
+    "name": "Chateau Mouton Rothschild 2005",
+    "image": "https://static.tildacdn.com/tild3561-3638-4230-b930-623839333538/mouton-2005-2.jpg",
+    "description": "Бленд: 85% каберне совиньон, 14% мерло, 1% каберне фран. Ручной сбор и сортировка. Ферментация в дубовых и стальных емкостях при контролируемой температуре. Выдержка в новом французском дубе в течение 20 месяцев. Оклейка яичным белком.",
+    "brand": {
+        "@type": "Brand",
+        "name": "Chateau Mouton Rothschild"
+    },
+    "offers": {
+        "@type": "Offer",
+        "priceCurrency": "RUB",
+        "price": "192000.00",
+        "url": "https://winetime.moscow/mouton-2005",
+        "availability": "https://schema.org/InStock",
+        "itemCondition": "https://schema.org/NewCondition"
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "98",
+        "ratingCount": "1",
+        "worstRating": "50",
+        "bestRating": "100"
+    }
+}
+</script>
