@@ -50,5 +50,5 @@ class ChemaConverter:
                 file.close()
 
 
-d = ChemaConverter('../winetime', 'bordeaux', 'Mouton')
+d = ChemaConverter('./winetime.sqlite', 'bordeaux', 'Mouton')
 d.created_schema()

@@ -1,13 +1,17 @@
+#!/usr/bin/env python
+#-*- coding:utf-8 -*-
+
 from typing import List
 
-from jinja2 import Environment, FileSystemLoader
+# from jinja2 import Environment, FileSystemLoader
 from tilda_combine.enginie.product_objects import CardObject
 
-card_name_ = 'Mouton'
+card_name_ = 'Cheval'
 
 card = CardObject('../winetime', 'bordeaux', card_name_)
 
 counter = card.counter()
+
 
 '''
 Левый блок с интересными фактами, терруаром, кнопкой
@@ -48,7 +52,7 @@ france = 'sss'
 
 def create_html():
     for row in range(counter):
-        with open(f'output/{card_name[row].lower().replace(" ", "_")}_{vintage[row]}.html', 'a') as file:
+        with open(f'output/{card_name[row].lower().replace(" ", "_")}_{vintage[row]}.html' , 'a') as file:
             if region[row]:
                 re_url = f'https://winetime.moscow/shop?tfc_charact:64922[138361030]={region[row]}&tfc_div=:::'
                 region_url = [re_url for _ in range(counter)]
@@ -82,4 +86,12 @@ def create_html():
             file.close()
 
 
-create_html()
+def create_alt_seo():
+    for row in range(counter):
+        with open(f'alt_seo_tags/{card_name[row].lower().replace(" ", "_")}.txt', 'a') as file:
+            msg = f'{card_name[row]} {vintage[row]} в винотеке WineTime (Москва, Бутлерова 17Б) \n'
+            file.write(msg)
+            file.close()
+
+
+create_alt_seo()
