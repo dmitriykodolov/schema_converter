@@ -7,11 +7,11 @@ from csv_worker import CsvToBd
 
 
 class DataBaseBuilder(CsvToBd):
+
     def __init__(self, bd_name, table_name, table_path, delimiter):
         super().__init__(table_path, delimiter)
         self.bd_name = bd_name
         self.table_name = table_name
-
 
     def create_db(self):
         connection = sqlite3.connect(self.bd_name)
@@ -64,6 +64,5 @@ class DataBaseBuilder(CsvToBd):
             connection.close()
             print(f'{row}: {colorama.Fore.GREEN} SUCCESFULLY ADDED!')
 
-d = DataBaseBuilder('winetime', 'bordeaux', 'margaux-angelus.csv', ';')
-d.create_db()
-d.add_data()
+dta = DataBaseBuilder('tilda_combine/winetime.sqlite', 'bordeaux', 'tilda_combine/enginie/ducru_3.csv', ',')
+dta.add_data()

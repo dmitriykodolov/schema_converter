@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:shema_converter}/tilda_combine/winetime.sqlite",
+            "name": "WT"
+        }
+    ]
+}

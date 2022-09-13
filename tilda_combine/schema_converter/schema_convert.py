@@ -13,7 +13,7 @@ class ChemaConverter:
 
     def created_schema(self):
         for row in range(self.card.counter()):
-            name = f'{self.card.brand[row].lower().replace(" ", "_")}_{self.card.vintage[row]}.json'
+            name = f'tilda_combine/schema_converter/{self.card.brand[row].lower().replace(" ", "_")}_{self.card.vintage[row]}.html'
             with open(name, 'a', newline='\n') as file:
                 dict_ = {
                     "@context": "http://schema.org/",
@@ -44,11 +44,10 @@ class ChemaConverter:
                 json_ = json.dumps(dict_, indent=4, ensure_ascii=False)
                 file_loader = FileSystemLoader('')
                 env = Environment(loader=file_loader)
-                tm = env.get_template('template/template.html')
+                tm = env.get_template('tilda_combine/schema_converter/template/template.html')
                 msg = tm.render(json_dict=json_)
                 file.write(msg)
                 file.close()
 
-
-d = ChemaConverter('./winetime.sqlite', 'bordeaux', 'Mouton')
+d = ChemaConverter('tilda_combine/winetime.sqlite', 'bordeaux', 'Pavie')
 d.created_schema()

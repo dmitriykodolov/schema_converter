@@ -11,125 +11,120 @@
     <section class="general">
         <div class = "flex-container">
         <div class = "information-block">
-                <h2 class ="text-color-light-gray">{{ card_name }} {{ vintage }}</h2>
-                {% if fact %}
-                <section>
-                    <p class ="title-style">Интересный факт</p>
-                    <p>{{ fact }}</p>
-                </section>
-                {% endif %}
-                {% if landscape %}
+                <h2 class ="text-color-light-gray">Chateau Cheval Blanc 2006</h2>
+                
+                
                 <section>
                     <p class ="title-style">Терруар</p>
-                    <p>{{ landscape }}</p>
+                    <p>Почва: гравий, глина, песок. Сорта: 49% каберне фран, 47% мерло, 4% каберне совиньон.</p>
                 </section>
-                {% endif %}
-                {% if factory_process %}
+                
+                
                 <section>
                     <p class ="title-style">Особенности производства</p>
-                    <p>{{ factory_process }}</p>
+                    <p>Ручной сбор. Ферментация в емкостях из нержавеющей стали при контролируемой температуре (урожай с каждого участка - отдельно). Мацерация 19-26 дней. Выдержка в новых бочках из французского дуба в течение 16-18 месяцев. Бленд: 55% мерло, 45% каберне фран.</p>
                 </section>
-                {% endif %}
-                {% if button_url %}
+                
+                
                 <section>
-                    <a href="{{button_url}}" class = "main_btn" rel="nofollow" target="_blank">На сайт производителя</a>
+                    <a href="https://www.chateau-cheval-blanc.com" class = "main_btn" rel="nofollow" target="_blank">На сайт производителя</a>
                 </section>
-                {% endif %}
+                
         </div>
         <div class = "table-block">
             <table>
-                {% if wine %}
+                
                 <tr>
                     <td class ="text-color-light-gray">Тип</td>
-                    <td>{{ wine }}</td>
+                    <td>Красное, сухое</td>
                 </tr>
-                {% endif %}
-                {% if country %}
+                
+                
                 <tr>
                     <td class ="text-color-light-gray">Страна</td>
-                    <td><a href="{{country_url}}" target="_blank" rel="nofollow">{{ country }}</a></td>
+                    <td><a href="https://winetime.moscow/shop?tfc_charact:60386[138361030]=Франция&tfc_div=:::" target="_blank" rel="nofollow">Франция</a></td>
                 </tr>
-                {% endif %}
-                {% if region %}
+                
+                
                 <tr>
                     <td class ="text-color-light-gray">Регион</td>
-                    <td><a href="{{region_url}}" target="_blank" rel="nofollow">{{ region }}</a></td>
+                    <td><a href="https://winetime.moscow/shop?tfc_charact:64922[138361030]=Бордо&tfc_div=:::" target="_blank" rel="nofollow">Бордо</a></td>
                 </tr>
-                {% endif %}
-                {% if sub_region %}
+                
+                
                 <tr>
                     <td class ="text-color-light-gray">Субрегион</td>
-                    <td><a href="{{sub_region_url}}" target="_blank" rel="nofollow">{{ sub_region }}</a></td>
+                    <td><a href="https://winetime.moscow/shop?tfc_charact:66641[138361030]=Сент-Эмильон&tfc_div=:::" target="_blank" rel="nofollow">Сент-Эмильон</a></td>
                 </tr>
-                {% endif %}
-                {% if blend %}
+                
+                
                 <tr>
                     <td class ="text-color-light-gray">Состав</td>
-                    <td>{{ blend }}</td>
+                    <td>Мерло, Каберне Фран</td>
                 </tr>
-                {% endif %}
-                {% if square %}
+                
+                
                 <tr>
                     <td class ="text-color-light-gray">Виноградник</td>
-                    <td>{{ square }}</td>
+                    <td>39 га</td>
                 </tr>
-                {% endif %}
-                {% if vin_age %}
+                
+                
                 <tr>
                     <td class ="text-color-light-gray">Возраст лоз</td>
-                    <td>{{ vin_age }}</td>
+                    <td>65 лет</td>
                 </tr>
-                {% endif %}
-                {% if value %}
+                
+                
                 <tr>
                     <td class ="text-color-light-gray">Объем</td>
-                    <td>{{ value }}</td>
+                    <td>0,75</td>
                 </tr>
-                {% endif %}
-                {% if vol %}
+                
+                
                 <tr>
                     <td class ="text-color-light-gray">Алкоголь</td>
-                    <td>{{ vol }}</td>
+                    <td>14%</td>
                 </tr>
-                {% endif %}
-                {% if potential %}
+                
+                
                 <tr>
                     <td class ="text-color-light-gray">Потенциал</td>
                     <td>
-                        <strong>{{ potential }}</strong>
+                        <strong>до 2040</strong>
                     </td>
                 </tr>
-                {% endif %}
+                
             </table>      
         </div>
         <div class = "extra">
-            {% if collection %}
+            
             <div class ="decanter-glass"><img src="https://winetime.moscow/glass_pic.svg" alt="Бокал"><span
-                    class = "dg-text">{{ collection }}</span></div>
-            {% endif %}
-            {% if decanter %}
+                    class = "dg-text">в коллекцию</span></div>
+            
+            
             <div class ="decanter-glass margin-bottom-20"><img
                     src="https://winetime.moscow/decanter_pic.svg" alt="Декантер"><span
-                    class = "dg-text">{{ decanter }}</span></div>
-            {% endif %}
+                    class = "dg-text">используйте декантер для молодых вин</span></div>
+            
             
             <div>
-                {% if rp %}
-                <div class = "critic {{rp_class}}"><div class = "score" ><span>{{ rp }}</span></div><span class =
+                
+                <div class = "critic rp_green_class"><div class = "score" ><span>97</span></div><span class =
                                                                                                                          "critic-name">RP
                 </span></div>
-                {% endif %}
-                {% if ws %}
+                
+                
                 <div
-                        class = "critic {{ws_class}}"><div class = "score" ><span>{{ ws }}</span></div><span class =
+                        class = "critic ws_green_class"><div class = "score" ><span>95</span></div><span class =
                                                                                                                          "critic-name">WS
                 </span></div>
-                {% endif %}
-                {% if jr %}
+                
+                
                 <div
-                        class = "critic"><div class = "score" ><span>{{ jr }}</span></div><span class = "critic-name">JR
+                        class = "critic"><div class = "score" ><span>18</span></div><span class = "critic-name">JR
                 </span></div>
-                {% endif %}
+                
             </div>
             <div class = "stock"><span class="stock-text">в наличии</span></div>
         </div>

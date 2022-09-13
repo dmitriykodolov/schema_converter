@@ -1,17 +1,17 @@
-#!/usr/bin/env python
-#-*- coding:utf-8 -*-
-
+from collections import Counter
+from turtle import title
 from typing import List
 
-# from jinja2 import Environment, FileSystemLoader
+
+from jinja2 import Environment, FileSystemLoader
 from tilda_combine.enginie.product_objects import CardObject
+
 
 card_name_ = 'Cheval'
 
-card = CardObject('../winetime', 'bordeaux', card_name_)
+card = CardObject('tilda_combine/winetime.sqlite', 'bordeaux', card_name_)
 
 counter = card.counter()
-
 
 '''
 Левый блок с интересными фактами, терруаром, кнопкой
@@ -23,6 +23,8 @@ fact = card.fact
 landscape = card.landscape
 factory_process = card.factory_process
 button_url = card.button_url
+url = card.url
+vol = card.value
 
 '''
 Блок с таблицей харакетеристик
@@ -52,7 +54,8 @@ france = 'sss'
 
 def create_html():
     for row in range(counter):
-        with open(f'output/{card_name[row].lower().replace(" ", "_")}_{vintage[row]}.html' , 'a') as file:
+        with open(f'tilda_combine/html_generator/output/{card_name[row].lower().replace(" ", "_")}_{vintage[row]}.html' , 'a') as file:
+            print(rp[row])
             if region[row]:
                 re_url = f'https://winetime.moscow/shop?tfc_charact:64922[138361030]={region[row]}&tfc_div=:::'
                 region_url = [re_url for _ in range(counter)]
@@ -66,13 +69,16 @@ def create_html():
                 rp_class = 'rp_green_class'
             else:
                 rp_class = 'rp_yellow_class'
-            if int(ws[row]) > 90:
-                ws_class = 'ws_green_class'
+            if ws[row]:
+                if int(ws[row]) > 90:
+                    ws_class = 'ws_green_class'
+                else:
+                    ws_class = 'ws_yellow_class'
             else:
-                ws_class = 'ws_yellow_class'
+                ws_class = ''
             file_loader = FileSystemLoader('')
             env = Environment(loader=file_loader)
-            tm = env.get_template('template/tamplate.html')
+            tm = env.get_template('tilda_combine/html_generator/template/tamplate.html')
             msg = tm.render(card_name=card_name[row], vintage=vintage[row], fact=fact[row],
                             landscape=landscape[row], factory_process=factory_process[row],
                             button_url=button_url[row], country=country[row],
@@ -88,10 +94,39 @@ def create_html():
 
 def create_alt_seo():
     for row in range(counter):
-        with open(f'alt_seo_tags/{card_name[row].lower().replace(" ", "_")}.txt', 'a') as file:
+        with open(f'tilda_combine/html_generator/alt_seo_tags/{card_name[row].lower().replace(" ", "_")}.txt', 'a') as file:
             msg = f'{card_name[row]} {vintage[row]} в винотеке WineTime (Москва, Бутлерова 17Б) \n'
             file.write(msg)
             file.close()
 
+def descriptions_generator():
+    for row in range(counter):
+        with open(f'tilda_combine/html_generator/descriptions/{card_name[row].lower().replace(" ", "_")}.txt', 'a') as file:
+            description = f'Шеваль Блан {vintage[row]} (оценка: {rp[row]}), главное вино Сент-Эмильона в WineTime. Собственный импорт, лучшие цены и условия хранения, селективный ассортимент.\n'
+            file.write(description)
+            file.close()
 
-create_alt_seo()
+
+def titles_generator():
+    for row in range(counter):
+        with open(f'tilda_combine/html_generator/titles/{card_name[row].lower().replace(" ", "_")}.txt', 'a') as file:
+            title = f'{card_name[row]} {vintage[row]} — купить по лучшей цене!\n'
+            file.write(title)
+            file.close()
+
+
+def get_url():
+    for row in range(counter):
+        with open(f'tilda_combine/html_generator/titles/{card_name[row].lower().replace(" ", "_")}.txt', 'a') as file:
+            title = f'{url[row]}\n'
+            file.write(title)
+            file.close()
+
+
+
+get_url()
+# titles_generator()
+# descriptions_generator()
+# create_html()
+# create_alt_seo()
+
